@@ -1,0 +1,3613 @@
+11.23.25.520763 PL31 login 
+11.23.36.730916 PL31 words 1 
+11.23.37.252462 PL31 words 1 
+11.23.37.299336 PL31 words 1 
+11.23.37.330596 PL31 words 1 
+11.23.37.361601 PL31 words 1 
+11.23.37.408737 PL31 words 1 
+11.23.37.439981 PL31 words 1 
+11.23.37.486853 PL31 words 1 
+11.23.37.518114 PL31 words 1 
+11.23.37.549261 PL31 words 1 
+11.23.37.602633 PL31 words 1 
+11.23.37.635275 PL31 words 1 
+11.23.37.666441 PL31 words 1 
+11.23.37.715447 PL31 words 1 
+11.23.37.746948 PL31 words 1 
+11.23.37.778184 PL31 words 1 
+11.23.37.809437 PL31 words 1 
+11.23.37.856366 PL31 words 1 
+11.23.37.887589 PL31 words 1 
+11.23.37.934450 PL31 words 1 
+11.23.37.965478 PL31 words 1 
+11.23.37.996976 PL31 words 1 
+11.23.38.043855 PL31 words 1 
+11.23.38.075108 PL31 words 1 
+11.23.38.106362 PL31 words 1 
+11.23.38.153238 PL31 words 1 
+11.23.38.184513 PL31 words 1 
+11.23.38.231412 PL31 words 1 
+11.23.38.262611 PL31 words 1 
+11.23.38.293882 PL31 words 1 
+11.23.38.340549 PL31 words 1 
+11.23.38.372023 PL31 words 1 
+11.23.38.403032 PL31 words 1 
+11.23.38.449920 PL31 words 1 
+11.23.38.481421 PL31 words 1 
+11.23.38.528278 PL31 words 1 
+11.23.38.559516 PL31 words 1 
+11.23.38.590779 PL31 words 1 
+11.23.38.637670 PL31 words 1 
+11.23.38.668674 PL31 words 1 
+11.23.38.699929 PL31 words 1 
+11.23.38.747049 PL31 words 1 
+11.23.38.778295 PL31 words 1 
+11.23.38.825163 PL31 words 1 
+11.23.38.856442 PL31 words 1 
+11.23.38.887694 PL31 words 1 
+11.23.38.934555 PL31 words 1 
+11.23.38.965718 PL31 words 1 
+11.23.39.012708 PL31 words 1 
+11.23.39.043960 PL31 words 1 
+11.23.39.075214 PL31 words 1 
+11.23.39.122124 PL31 words 1 
+11.23.39.153332 PL31 words 1 
+11.23.39.184604 PL31 words 1 
+11.23.39.231488 PL31 words 1 
+11.23.39.262487 PL31 words 1 
+11.23.39.309633 PL31 words 1 
+11.23.39.340630 PL31 words 1 
+11.23.39.372103 PL31 words 1 
+11.23.39.419024 PL31 words 1 
+11.23.39.450008 PL31 words 1 
+11.23.39.481282 PL31 words 1 
+11.23.39.528387 PL31 words 1 
+11.23.39.559630 PL31 words 1 
+11.23.39.606521 PL31 words 1 
+11.23.39.637774 PL31 words 1 
+11.23.39.669035 PL31 words 1 
+11.23.39.715918 PL31 words 1 
+11.23.39.746948 PL31 words 1 
+11.23.39.794045 PL31 words 1 
+11.23.39.825319 PL31 words 1 
+11.23.39.856546 PL31 words 1 
+11.23.39.903426 PL31 words 1 
+11.23.39.934683 PL31 words 1 
+11.23.39.965844 PL31 words 1 
+11.23.40.012814 PL31 words 1 
+11.23.40.044050 PL31 words 1 
+11.23.40.090946 PL31 words 1 
+11.23.40.122203 PL31 words 1 
+11.23.40.153453 PL31 words 1 
+11.23.40.200331 PL31 words 1 
+11.23.40.231375 PL31 words 1 
+11.23.40.262857 PL31 words 1 
+11.23.40.309729 PL31 words 1 
+11.23.40.340972 PL31 words 1 
+11.23.40.387835 PL31 words 1 
+11.23.40.418885 PL31 words 1 
+11.23.40.450379 PL31 words 1 
+11.23.40.497239 PL31 words 1 
+11.23.40.528495 PL31 words 1 
+11.23.40.559511 PL31 words 1 
+11.23.40.606608 PL31 words 1 
+11.23.40.637880 PL31 words 1 
+11.23.40.684765 PL31 words 1 
+11.23.40.716080 PL31 words 1 
+11.23.40.747583 PL31 words 1 
+11.23.40.794464 PL31 words 1 
+11.23.40.825718 PL31 words 1 
+11.23.40.872617 PL31 words 1 
+11.23.40.903877 PL31 words 1 
+11.23.40.935124 PL31 words 1 
+11.23.40.981735 PL31 words 1 
+11.23.41.013238 PL31 words 1 
+11.23.41.044279 PL31 words 1 
+11.23.41.091370 PL31 words 1 
+11.23.41.763338 PL31 words 1 
+11.23.42.294618 PL31 words 1 
+11.23.42.325877 PL31 words 1 
+11.23.42.357127 PL31 words 1 
+11.23.42.403761 PL31 words 1 
+11.23.42.435245 PL31 words 1 
+11.23.42.466515 PL31 words 1 
+11.23.42.513397 PL31 words 1 
+11.23.42.544648 PL31 words 1 
+11.23.42.591314 PL31 words 1 
+11.23.42.622765 PL31 words 1 
+11.23.42.654020 PL31 words 1 
+11.23.42.700930 PL31 words 1 
+11.23.42.732418 PL31 words 1 
+11.23.42.763757 PL31 words 1 
+11.23.42.810599 PL31 words 1 
+11.23.42.841863 PL31 words 1 
+11.23.42.888762 PL31 words 1 
+11.23.42.920018 PL31 words 1 
+11.23.42.951260 PL31 words 1 
+11.23.42.997890 PL31 words 1 
+11.23.43.029373 PL31 words 1 
+11.23.43.060429 PL31 words 1 
+11.23.43.107533 PL31 words 1 
+11.23.43.138779 PL31 words 1 
+11.23.43.185657 PL31 words 1 
+11.23.43.216893 PL31 words 1 
+11.23.43.247916 PL31 words 1 
+11.23.43.295044 PL31 words 1 
+11.23.43.326298 PL31 words 1 
+11.23.43.357346 PL31 words 1 
+11.23.43.404412 PL31 words 1 
+11.23.43.435667 PL31 words 1 
+11.23.43.482583 PL31 words 1 
+11.23.43.513800 PL31 words 1 
+11.23.43.545092 PL31 words 1 
+11.23.43.591950 PL31 words 1 
+11.23.43.623212 PL31 words 1 
+11.23.43.670109 PL31 words 1 
+11.23.43.701318 PL31 words 1 
+11.23.43.732497 PL31 words 1 
+11.23.43.779469 PL31 words 1 
+11.23.43.810707 PL31 words 1 
+11.23.43.841970 PL31 words 1 
+11.23.43.888869 PL31 words 1 
+11.23.43.920115 PL31 words 1 
+11.23.43.966990 PL31 words 1 
+11.23.43.998008 PL31 words 1 
+11.23.44.029484 PL31 words 1 
+11.23.44.076377 PL31 words 1 
+11.23.44.107630 PL31 words 1 
+11.23.44.138637 PL31 words 1 
+11.23.44.185766 PL31 words 1 
+11.23.44.216993 PL31 words 1 
+11.23.44.263897 PL31 words 1 
+11.23.44.295171 PL31 words 1 
+11.23.44.326403 PL31 words 1 
+11.23.44.373286 PL31 words 1 
+11.23.44.404536 PL31 words 1 
+11.23.44.451398 PL31 words 1 
+11.23.44.482456 PL31 words 1 
+11.23.44.513914 PL31 words 1 
+11.23.44.560818 PL31 words 1 
+11.23.44.592038 PL31 words 1 
+11.23.44.623309 PL31 words 1 
+11.23.44.670190 PL31 words 1 
+11.23.44.701444 PL31 words 1 
+11.23.44.748342 PL31 words 1 
+11.23.44.779594 PL31 words 1 
+11.23.44.810830 PL31 words 1 
+11.23.44.857708 PL31 words 1 
+11.23.44.888943 PL31 words 1 
+11.23.44.919980 PL31 words 1 
+11.23.44.967108 PL31 words 1 
+11.23.44.998102 PL31 words 1 
+11.23.45.045229 PL31 words 1 
+11.23.45.076482 PL31 words 1 
+11.23.45.107740 PL31 words 1 
+11.23.45.154616 PL31 words 1 
+11.23.45.185889 PL31 words 1 
+11.23.45.216875 PL31 words 1 
+11.23.45.264002 PL31 words 1 
+11.23.45.295262 PL31 words 1 
+11.23.45.342143 PL31 words 1 
+11.23.45.373391 PL31 words 1 
+11.23.45.404642 PL31 words 1 
+11.23.45.451518 PL31 words 1 
+11.23.45.482562 PL31 words 1 
+11.23.45.529655 PL31 words 1 
+11.23.45.560890 PL31 words 1 
+11.23.45.592165 PL31 words 1 
+11.23.45.639055 PL31 words 1 
+11.23.45.670303 PL31 words 1 
+11.23.45.701549 PL31 words 1 
+11.23.45.748583 PL31 words 1 
+11.23.45.779908 PL31 words 1 
+11.23.45.826829 PL31 words 1 
+11.23.45.858046 PL31 words 1 
+11.23.45.889302 PL31 words 1 
+11.23.45.936197 PL31 words 1 
+11.23.45.967440 PL31 words 1 
+11.23.45.998636 PL31 words 1 
+11.23.46.045555 PL31 words 1 
+11.23.46.076818 PL31 words 1 
+11.23.46.123727 PL31 words 1 
+11.23.46.154963 PL31 words 1 
+11.23.46.186224 PL31 words 1 
+11.23.46.233094 PL31 words 1 
+11.23.46.264098 PL31 words 1 
+11.23.46.295352 PL31 words 1 
+11.23.46.342489 PL31 words 1 
+11.23.46.373742 PL31 words 1 
+11.23.46.420644 PL31 words 1 
+11.23.46.451848 PL31 words 1 
+11.23.46.483126 PL31 words 1 
+11.23.46.530016 PL31 words 1 
+11.23.46.561245 PL31 words 1 
+11.23.46.608139 PL31 words 1 
+11.23.46.639385 PL31 words 1 
+11.23.46.670425 PL31 words 1 
+11.23.46.717517 PL31 words 1 
+11.23.46.748685 PL31 words 1 
+11.23.46.780032 PL31 words 1 
+11.23.46.826907 PL31 words 1 
+11.23.46.858162 PL31 words 1 
+11.23.46.905042 PL31 words 1 
+11.23.46.936317 PL31 words 1 
+11.23.46.967545 PL31 words 1 
+11.23.47.014178 PL31 words 1 
+11.23.47.045679 PL31 words 1 
+11.23.47.076685 PL31 words 1 
+11.23.47.123816 PL31 words 1 
+11.23.47.155069 PL31 words 1 
+11.23.47.201974 PL31 words 1 
+11.23.47.233202 PL31 words 1 
+11.23.47.264204 PL31 words 1 
+11.23.47.311343 PL31 words 1 
+11.23.47.342589 PL31 words 1 
+11.23.47.389465 PL31 words 1 
+11.23.47.420720 PL31 words 1 
+11.23.47.451972 PL31 words 1 
+11.23.47.498763 PL31 words 1 
+11.23.47.529896 PL31 words 1 
+11.23.47.561383 PL31 words 1 
+11.23.47.608238 PL31 words 1 
+11.23.47.639497 PL31 words 1 
+11.23.47.686376 PL31 words 1 
+11.23.47.717606 PL31 words 1 
+11.23.47.748661 PL31 words 1 
+11.23.47.795800 PL31 words 1 
+11.23.47.827007 PL31 words 1 
+11.23.47.858272 PL31 words 1 
+11.23.47.905152 PL31 words 1 
+11.23.47.936380 PL31 words 1 
+11.23.47.983283 PL31 words 1 
+11.23.48.014284 PL31 words 1 
+11.23.48.045784 PL31 words 1 
+11.23.48.092648 PL31 words 1 
+11.23.48.123917 PL31 words 1 
+11.23.48.154923 PL31 words 1 
+11.23.48.202065 PL31 words 1 
+11.23.48.233310 PL31 words 1 
+11.23.48.280204 PL31 words 1 
+11.23.48.311409 PL31 words 1 
+11.23.48.342694 PL31 words 1 
+11.23.48.389570 PL31 words 1 
+11.23.48.420824 PL31 words 1 
+11.23.48.467704 PL31 words 1 
+11.23.48.498714 PL31 words 1 
+11.23.48.530192 PL31 words 1 
+11.23.48.577110 PL31 words 1 
+11.23.48.608349 PL31 words 1 
+11.23.48.639597 PL31 words 1 
+11.23.48.686459 PL31 words 1 
+11.23.48.717714 PL31 words 1 
+11.23.48.764520 PL31 words 1 
+11.23.48.795883 PL31 words 1 
+11.23.48.826910 PL31 words 1 
+11.23.48.874000 PL31 words 1 
+11.23.48.905261 PL31 words 1 
+11.23.48.936257 PL31 words 1 
+11.23.48.983404 PL31 words 1 
+11.23.49.014393 PL31 words 1 
+11.23.49.061514 PL31 words 1 
+11.23.49.092774 PL31 words 1 
+11.23.49.123810 PL31 words 1 
+11.23.49.170903 PL31 words 1 
+11.23.49.202142 PL31 words 1 
+11.23.49.233162 PL31 words 1 
+11.23.49.280257 PL31 words 1 
+11.23.49.311534 PL31 words 1 
+11.23.49.358421 PL31 words 1 
+11.23.49.389677 PL31 words 1 
+11.23.49.420937 PL31 words 1 
+11.23.49.467843 PL31 words 1 
+11.23.49.499044 PL31 words 1 
+11.23.49.545963 PL31 words 1 
+11.23.49.577195 PL31 words 1 
+11.23.49.608465 PL31 words 1 
+11.23.49.655339 PL31 words 1 
+11.23.49.686362 PL31 words 1 
+11.23.49.717809 PL31 words 1 
+11.23.49.764629 PL31 words 1 
+11.23.49.795967 PL31 words 1 
+11.23.49.842853 PL31 words 1 
+11.23.49.874093 PL31 words 1 
+11.23.49.905337 PL31 words 1 
+11.23.49.952217 PL31 words 1 
+11.23.49.983490 PL31 words 1 
+11.23.50.014495 PL31 words 1 
+11.23.50.061622 PL31 words 1 
+11.23.50.092879 PL31 words 1 
+11.23.50.139755 PL31 words 1 
+11.23.50.170981 PL31 words 1 
+11.23.50.202249 PL31 words 1 
+11.23.50.249156 PL31 words 1 
+11.23.50.280169 PL31 words 1 
+11.23.50.327278 PL31 words 1 
+11.23.50.358510 PL31 words 1 
+11.23.50.389808 PL31 words 1 
+11.23.50.436690 PL31 words 1 
+11.23.50.467934 PL31 words 1 
+11.23.50.499150 PL31 words 1 
+11.23.50.546028 PL31 words 1 
+11.23.50.577309 PL31 words 1 
+11.23.50.624190 PL31 words 1 
+11.23.50.655438 PL31 words 1 
+11.23.50.686687 PL31 words 1 
+11.23.50.733561 PL31 words 1 
+11.23.50.764735 PL31 words 1 
+11.23.50.795836 PL31 words 1 
+11.24.12.516858 PL31 letters F E E _ 
+11.24.12.641872 PL31 letters F E E L 
+11.24.13.829511 PL31 letters P R O F _ _ 
+11.24.13.985794 PL31 letters P R O F I _ 
+11.24.14.204292 PL31 letters P R O F I T 
+11.24.15.283142 PL31 letters G U I L T 
+11.24.16.486131 PL31 letters F _ A D 
+11.24.17.080183 PL31 letters G _ A D 
+11.24.17.205213 PL31 letters G L A D 
+11.24.18.439699 PL31 letters F _ _ T I L E 
+11.24.18.627244 PL31 letters F E _ T I L E 
+11.24.18.814806 PL31 letters F E R T I L E 
+11.24.20.018304 PL31 letters M E R _ Y 
+11.24.20.330837 PL31 letters M E R R Y 
+11.24.22.252913 PL31 letters G _ A R _ D 
+11.24.22.346675 PL31 letters G L A R _ D 
+11.24.23.315546 PL31 letters G L A R E D 
+11.24.24.190620 PL31 letters S M A _ _ 
+11.24.24.331015 PL31 letters S M A L _ 
+11.24.24.487535 PL31 letters S M A L L 
+11.24.25.940560 PL31 letters F _ _ _ O U S 
+11.24.26.122351 PL31 letters F U _ _ O U S 
+11.24.26.309867 PL31 letters F U R _ O U S 
+11.24.26.434886 PL31 letters F U R I O U S 
+11.24.27.764841 PL31 letters E X H _ _ _ 
+11.24.27.858337 PL31 letters E X H A _ _ 
+11.24.28.046109 PL31 letters E X H A L _ 
+11.24.28.108558 PL31 letters E X H A L E 
+11.24.29.093117 PL31 letters S _ N S E 
+11.24.29.265002 PL31 letters S E N S E 
+11.24.30.186940 PL31 letters J O Y 
+11.24.31.185489 PL31 letters R _ S E T 
+11.24.31.357601 PL31 letters R E S E T 
+11.24.32.545215 PL31 letters F _ E E 
+11.24.32.638931 PL31 letters F L E E 
+11.24.33.889097 PL31 letters D I S Q _ _ _ _ 
+11.24.34.123489 PL31 letters D I S Q U _ _ _ 
+11.24.34.326406 PL31 letters D I S Q U I _ _ 
+11.24.34.592291 PL31 letters D I S Q U I E _ 
+11.24.34.795210 PL31 letters D I S Q U I E T 
+11.24.35.936227 PL31 letters H _ P P Y 
+11.24.36.029959 PL31 letters H A P P Y 
+11.24.37.061580 PL31 letters A F R _ _ D 
+11.24.37.285070 PL31 letters A F R A _ D 
+11.24.37.410080 PL31 letters A F R A I D 
+11.24.38.423519 PL31 letters C H A _ R 
+11.24.38.532668 PL31 letters C H A I R 
+11.24.40.283099 PL31 letters G R O _ N 
+11.24.41.251956 PL31 letters G R O W N 
+11.24.42.774879 PL31 letters S _ L L Y 
+11.24.43.020204 PL31 letters S I L L Y 
+11.25.17.302358 PL31 picturestory r 
+11.25.17.442781 PL31 picturestory r 
+11.25.17.599294 PL31 picturestory r 
+11.25.17.693051 PL31 picturestory r 
+11.25.17.864920 PL31 picturestory r 
+11.25.17.958688 PL31 picturestory r 
+11.25.18.130604 PL31 picturestory r 
+11.25.18.208710 PL31 picturestory r 
+11.25.18.364969 PL31 picturestory r 
+11.25.18.474385 PL31 picturestory r 
+11.25.18.599370 PL31 picturestory r 
+11.25.18.693149 PL31 picturestory r 
+11.25.18.833790 PL31 picturestory r 
+11.25.18.911931 PL31 picturestory r 
+11.25.19.067960 PL31 picturestory r 
+11.25.19.146310 PL31 picturestory r 
+11.25.19.318216 PL31 picturestory r 
+11.25.19.365106 PL31 picturestory r 
+11.25.19.583846 PL31 picturestory r 
+11.25.19.599505 PL31 picturestory r 
+11.25.19.849523 PL31 picturestory r 
+11.25.20.005780 PL31 picturestory  
+11.25.20.115193 PL31 picturestory  
+11.25.20.271417 PL31 picturestory r 
+11.25.20.349584 PL31 picturestory r 
+11.25.20.505822 PL31 picturestory r 
+11.25.20.615227 PL31 picturestory r 
+11.25.20.755877 PL31 picturestory r 
+11.25.20.849625 PL31 picturestory r 
+11.25.21.005633 PL31 picturestory r 
+11.25.21.084036 PL31 picturestory r 
+11.25.21.255930 PL31 picturestory r 
+11.25.21.334051 PL31 picturestory r 
+11.25.21.505938 PL31 picturestory r 
+11.25.21.630901 PL31 picturestory r 
+11.25.21.755954 PL31 picturestory r 
+11.25.21.849711 PL31 picturestory r 
+11.25.21.975105 PL31 picturestory r 
+11.25.22.115748 PL31 picturestory r 
+11.25.22.225131 PL31 picturestory r 
+11.25.22.350163 PL31 picturestory r 
+11.25.22.475177 PL31 picturestory r 
+11.25.22.607088 PL31 picturestory r 
+11.25.22.732082 PL31 picturestory r 
+11.25.22.857110 PL31 picturestory r 
+11.25.22.997755 PL31 picturestory r 
+11.25.23.107125 PL31 picturestory r 
+11.25.23.247762 PL31 picturestory r 
+11.25.23.388436 PL31 picturestory r 
+11.25.23.497824 PL31 picturestory r 
+11.25.23.622560 PL31 picturestory r 
+11.25.23.763245 PL31 picturestory r 
+11.25.23.872613 PL31 picturestory r 
+11.25.24.013542 PL31 picturestory r 
+11.25.24.138556 PL31 picturestory r 
+11.25.24.247909 PL31 picturestory r 
+11.25.24.372972 PL31 picturestory r 
+11.25.24.497985 PL31 picturestory r 
+11.25.24.622948 PL31 picturestory r 
+11.25.24.763613 PL31 picturestory r 
+11.25.24.919857 PL31 picturestory r 
+11.25.25.029276 PL31 picturestory r 
+11.25.25.154496 PL31 picturestory r 
+11.25.25.310784 PL31 picturestory r 
+11.25.25.435798 PL31 picturestory r 
+11.25.25.560786 PL31 picturestory r 
+11.25.25.701450 PL31 picturestory r 
+11.25.25.857717 PL31 picturestory r 
+11.25.25.998344 PL31 picturestory r 
+11.25.26.139010 PL31 picturestory r 
+11.25.26.279639 PL31 picturestory r 
+11.25.26.404650 PL31 picturestory r 
+11.25.26.560658 PL31 picturestory r 
+11.25.26.701294 PL31 picturestory r 
+11.25.26.813554 PL31 picturestory r 
+11.25.26.967333 PL31 picturestory r 
+11.25.27.104431 PL31 picturestory r 
+11.25.27.232895 PL31 picturestory r 
+11.25.27.404768 PL31 picturestory r 
+11.25.27.514175 PL31 picturestory r 
+11.25.27.686049 PL31 picturestory r 
+11.25.27.826707 PL31 picturestory r 
+11.25.27.998989 PL31 picturestory r 
+11.25.28.124032 PL31 picturestory r 
+11.25.28.264665 PL31 picturestory r 
+11.25.28.420932 PL31 picturestory r 
+11.25.28.561549 PL31 picturestory r 
+11.25.28.733463 PL31 picturestory r 
+11.25.28.811333 PL31 picturestory r 
+11.25.28.999110 PL31 picturestory r 
+11.25.29.139742 PL31 picturestory r 
+11.25.29.296029 PL31 picturestory r 
+11.25.29.436643 PL31 picturestory r 
+11.25.29.686672 PL31 picturestory r 
+11.25.29.889838 PL31 picturestory r 
+11.25.30.062157 PL31 picturestory r 
+11.25.30.187203 PL31 picturestory  
+11.25.30.327812 PL31 picturestory  
+11.25.30.515084 PL31 picturestory r 
+11.25.30.624715 PL31 picturestory r 
+11.25.30.818102 PL31 picturestory r 
+11.25.30.955260 PL31 picturestory r 
+11.25.31.506639 PL31 picturestory r 
+11.25.31.672831 PL31 picturestory r 
+11.25.31.866324 PL31 picturestory r 
+11.25.32.036727 PL31 picturestory r 
+11.25.32.213929 PL31 picturestory r 
+11.25.32.367167 PL31 picturestory r 
+11.25.32.571886 PL31 picturestory r 
+11.25.32.720731 PL31 picturestory r 
+11.25.32.886984 PL31 picturestory r 
+11.25.33.025017 PL31 picturestory r 
+11.25.33.195628 PL31 picturestory r 
+11.25.33.334031 PL31 picturestory r 
+11.25.33.490836 PL31 picturestory r 
+11.25.33.659479 PL31 picturestory r 
+11.25.33.837747 PL31 picturestory r 
+11.25.33.975289 PL31 picturestory r 
+11.25.34.138186 PL31 picturestory r 
+11.25.34.275641 PL31 picturestory r 
+11.25.34.422414 PL31 picturestory r 
+11.25.34.560537 PL31 picturestory r 
+11.25.34.707669 PL31 picturestory r 
+11.25.34.838861 PL31 picturestory r 
+11.25.35.007935 PL31 picturestory r 
+11.25.35.176639 PL31 picturestory r 
+11.25.35.339003 PL31 picturestory r 
+11.25.35.523906 PL31 picturestory r 
+11.25.35.661997 PL31 picturestory r 
+11.25.35.824649 PL31 picturestory r 
+11.25.35.993509 PL31 picturestory r 
+11.25.36.140672 PL31 picturestory r 
+11.25.36.278838 PL31 picturestory r 
+11.25.36.463742 PL31 picturestory r 
+11.25.36.626595 PL31 picturestory r 
+11.25.36.779596 PL31 picturestory r 
+11.25.36.926466 PL31 picturestory r 
+11.25.37.073722 PL31 picturestory r 
+11.25.37.247876 PL31 picturestory r 
+11.25.37.440752 PL31 picturestory r 
+11.25.37.612909 PL31 picturestory r 
+11.25.37.800389 PL31 picturestory r 
+11.25.37.909808 PL31 picturestory r 
+11.25.38.097316 PL31 picturestory r 
+11.25.38.237954 PL31 picturestory r 
+11.25.38.409860 PL31 picturestory r 
+11.25.38.566093 PL31 picturestory r 
+11.25.38.738035 PL31 picturestory r 
+11.25.38.878649 PL31 picturestory r 
+11.25.39.034668 PL31 picturestory r 
+11.25.39.206802 PL31 picturestory r 
+11.25.39.363092 PL31 picturestory r 
+11.25.39.519359 PL31 picturestory r 
+11.25.39.675606 PL31 picturestory r 
+11.25.39.831627 PL31 picturestory r 
+11.25.39.956888 PL31 picturestory r 
+11.25.40.097957 PL31 picturestory r 
+11.25.40.269822 PL31 picturestory r 
+11.25.40.394852 PL31 picturestory r 
+11.25.40.582136 PL31 picturestory r 
+11.25.40.723003 PL31 picturestory r 
+11.25.40.879265 PL31 picturestory r 
+11.25.40.988648 PL31 picturestory r 
+11.25.41.191793 PL31 picturestory r 
+11.25.41.332434 PL31 picturestory r 
+11.25.41.519955 PL31 picturestory r 
+11.25.41.738756 PL31 picturestory r 
+11.25.41.895011 PL31 picturestory r 
+11.25.42.051279 PL31 picturestory r 
+11.25.42.207562 PL31 picturestory r 
+11.25.42.410671 PL31 picturestory r 
+11.25.42.582583 PL31 picturestory r 
+11.25.42.738861 PL31 picturestory r 
+11.25.42.910481 PL31 picturestory r 
+11.25.43.083039 PL31 picturestory r 
+11.25.43.254910 PL31 picturestory r 
+11.25.43.379914 PL31 picturestory r 
+11.25.43.520545 PL31 picturestory r 
+11.25.43.723707 PL31 picturestory r 
+11.25.43.911206 PL31 picturestory r 
+11.25.44.129748 PL31 picturestory r 
+11.25.44.301881 PL31 picturestory r 
+11.25.44.520661 PL31 picturestory r 
+11.25.44.661301 PL31 picturestory r 
+11.25.44.880094 PL31 picturestory r 
+11.25.45.004833 PL31 picturestory r 
+11.25.45.223853 PL31 picturestory r 
+11.25.45.364511 PL31 picturestory r 
+11.25.45.520736 PL31 picturestory r 
+11.25.45.692647 PL31 picturestory r 
+11.25.45.879932 PL31 picturestory r 
+11.25.46.020827 PL31 picturestory r 
+11.25.46.161464 PL31 picturestory r 
+11.25.46.317469 PL31 picturestory r 
+11.25.46.473986 PL31 picturestory r 
+11.25.46.614623 PL31 picturestory r 
+11.25.46.833392 PL31 picturestory r 
+11.25.47.021258 PL31 picturestory r 
+11.25.47.177283 PL31 picturestory r 
+11.25.47.318169 PL31 picturestory r 
+11.25.47.536958 PL31 picturestory r 
+11.25.47.724216 PL31 picturestory r 
+11.25.47.880755 PL31 picturestory r 
+11.25.48.005750 PL31 picturestory r 
+11.25.48.208915 PL31 picturestory r 
+11.25.48.349544 PL31 picturestory r 
+11.25.48.537058 PL31 picturestory r 
+11.25.48.662082 PL31 picturestory r 
+11.25.49.037534 PL31 picturestory r 
+11.25.49.209153 PL31 picturestory r 
+11.25.49.474805 PL31 picturestory r 
+11.25.49.631344 PL31 picturestory r 
+11.25.49.818855 PL31 picturestory r 
+11.25.50.006112 PL31 picturestory r 
+11.25.50.147020 PL31 picturestory r 
+11.25.50.271763 PL31 picturestory r 
+11.25.50.475174 PL31 picturestory r 
+11.25.50.615776 PL31 picturestory r 
+11.25.50.990835 PL31 picturestory r 
+11.25.51.084623 PL31 picturestory r 
+11.25.51.365883 PL31 picturestory r 
+11.25.51.522140 PL31 picturestory r 
+11.25.51.662792 PL31 picturestory r 
+11.25.51.803418 PL31 picturestory r 
+11.25.51.928430 PL31 picturestory r 
+11.25.52.115964 PL31 picturestory  
+11.25.52.287849 PL31 picturestory  
+11.25.52.490749 PL31 picturestory r 
+11.25.52.647256 PL31 picturestory r 
+11.25.52.850403 PL31 picturestory r 
+11.25.53.022328 PL31 picturestory r 
+11.25.53.209573 PL31 picturestory r 
+11.25.53.334834 PL31 picturestory r 
+11.25.53.553618 PL31 picturestory r 
+11.25.53.678634 PL31 picturestory r 
+11.25.53.944299 PL31 picturestory r 
+11.25.54.131819 PL31 picturestory r 
+11.25.54.256832 PL31 picturestory r 
+11.25.54.459949 PL31 picturestory r 
+11.25.54.553723 PL31 picturestory r 
+11.25.54.772495 PL31 picturestory r 
+11.25.54.960017 PL31 picturestory r 
+11.25.55.085018 PL31 picturestory r 
+11.25.55.272291 PL31 picturestory  
+11.25.55.350700 PL31 picturestory  
+11.25.55.538220 PL31 picturestory r 
+11.25.55.631969 PL31 picturestory r 
+11.25.55.788227 PL31 picturestory r 
+11.25.55.928890 PL31 picturestory r 
+11.25.56.085146 PL31 picturestory  
+11.25.56.178916 PL31 picturestory  
+11.25.56.413080 PL31 picturestory  
+11.25.56.444553 PL31 picturestory r 
+11.25.56.663320 PL31 picturestory r 
+11.25.56.819333 PL31 picturestory r 
+11.25.56.944597 PL31 picturestory r 
+11.25.57.116479 PL31 picturestory r 
+11.25.57.245087 PL31 picturestory r 
+11.25.57.461500 PL31 picturestory r 
+11.25.57.633389 PL31 picturestory r 
+11.25.57.820914 PL31 picturestory r 
+11.25.57.883201 PL31 picturestory r 
+11.25.58.086342 PL31 picturestory r 
+11.25.58.242612 PL31 picturestory  
+11.25.58.336369 PL31 picturestory  
+11.25.58.555139 PL31 picturestory  
+11.25.58.617645 PL31 picturestory r 
+11.25.58.789767 PL31 picturestory r 
+11.25.58.961656 PL31 picturestory r 
+11.25.59.014942 PL31 picturestory r 
+11.25.59.249586 PL31 picturestory r 
+11.25.59.264975 PL31 picturestory r 
+11.25.59.452763 PL31 picturestory r 
+11.25.59.671525 PL31 picturestory r 
+11.25.59.686888 PL31 picturestory r 
+11.25.59.921541 PL31 picturestory r 
+11.26.00.015308 PL31 picturestory r 
+11.26.00.234094 PL31 picturestory r 
+11.26.00.265338 PL31 picturestory r 
+11.26.00.468468 PL31 picturestory r 
+11.26.00.577825 PL31 picturestory  
+11.26.00.687250 PL31 picturestory  
+11.26.00.906011 PL31 picturestory  
+11.26.01.109174 PL31 picturestory  
+11.26.01.124539 PL31 picturestory r 
+11.26.01.329500 PL31 picturestory r 
+11.26.01.517024 PL31 picturestory r 
+11.26.01.532408 PL31 picturestory  
+11.26.01.720169 PL31 picturestory  
+11.26.01.845172 PL31 picturestory r 
+11.26.01.923309 PL31 picturestory r 
+11.26.02.095196 PL31 picturestory r 
+11.26.02.251472 PL31 picturestory r 
+11.26.02.329605 PL31 picturestory r 
+11.26.02.501490 PL31 picturestory r 
+11.26.02.626505 PL31 picturestory  
+11.26.02.704675 PL31 picturestory  
+11.26.02.923427 PL31 picturestory  
+11.26.03.110919 PL31 picturestory r 
+11.26.03.173424 PL31 picturestory r 
+11.26.03.389736 PL31 picturestory r 
+11.26.03.514531 PL31 picturestory  
+11.26.03.639521 PL31 picturestory  
+11.26.03.842934 PL31 picturestory rr 
+11.26.03.858567 PL31 picturestory rr 
+11.26.04.186695 PL31 picturestory  
+11.26.04.264845 PL31 picturestory  
+11.26.04.483612 PL31 picturestory r 
+11.26.04.546078 PL31 picturestory r 
+11.26.04.811780 PL31 picturestory r 
+11.26.04.827179 PL31 picturestory r 
+11.26.05.045926 PL31 picturestory r 
+11.26.05.171189 PL31 picturestory  
+11.26.05.296185 PL31 picturestory  
+11.26.05.483713 PL31 picturestory  
+11.26.05.546010 PL31 picturestory  
+11.26.05.890019 PL31 picturestory r 
+11.26.06.171699 PL31 picturestory r 
+11.26.06.468593 PL31 picturestory  
+11.26.06.671731 PL31 picturestory  
+11.26.20.460418 PL31 picturestory t 
+11.26.20.475855 PL31 picturestory t 
+11.26.20.569830 PL31 picturestory t 
+11.26.20.585235 PL31 picturestory t 
+11.26.20.741723 PL31 picturestory t 
+11.26.20.757126 PL31 picturestory t 
+11.26.20.851111 PL31 picturestory t 
+11.26.20.866473 PL31 picturestory t 
+11.26.20.976103 PL31 picturestory t 
+11.26.20.991485 PL31 picturestory t 
+11.26.21.085258 PL31 picturestory t 
+11.26.21.100882 PL31 picturestory t 
+11.26.21.226147 PL31 picturestory t 
+11.26.21.241552 PL31 picturestory t 
+11.26.21.335545 PL31 picturestory t 
+11.26.21.335545 PL31 picturestory t 
+11.26.21.460558 PL31 picturestory t 
+11.26.21.475950 PL31 picturestory t 
+11.26.21.569948 PL31 picturestory t 
+11.26.21.585341 PL31 picturestory t 
+11.26.21.710550 PL31 picturestory t 
+11.26.21.725938 PL31 picturestory t 
+11.26.21.804342 PL31 picturestory t 
+11.26.21.819698 PL31 picturestory t 
+11.26.21.929339 PL31 picturestory t 
+11.26.21.944736 PL31 picturestory t 
+11.26.22.038498 PL31 picturestory t 
+11.26.22.038498 PL31 picturestory t 
+11.26.22.179375 PL31 picturestory t 
+11.26.22.194762 PL31 picturestory t 
+11.26.22.288519 PL31 picturestory t 
+11.26.22.288519 PL31 picturestory t 
+11.26.22.413785 PL31 picturestory t 
+11.26.22.429177 PL31 picturestory t 
+11.26.22.538797 PL31 picturestory t 
+11.26.22.538797 PL31 picturestory t 
+11.26.22.679440 PL31 picturestory t 
+11.26.22.679440 PL31 picturestory t 
+11.26.22.788795 PL31 picturestory t 
+11.26.22.788795 PL31 picturestory t 
+11.26.22.929464 PL31 picturestory t 
+11.26.22.944846 PL31 picturestory t 
+11.26.23.023228 PL31 picturestory t 
+11.26.23.038585 PL31 picturestory t 
+11.26.23.163845 PL31 picturestory t 
+11.26.23.179217 PL31 picturestory t 
+11.26.23.273224 PL31 picturestory t 
+11.26.23.273224 PL31 picturestory t 
+11.26.23.398245 PL31 picturestory t 
+11.26.23.413617 PL31 picturestory t 
+11.26.23.523277 PL31 picturestory t 
+11.26.23.538630 PL31 picturestory t 
+11.26.23.663899 PL31 picturestory t 
+11.26.23.663899 PL31 picturestory t 
+11.26.23.773277 PL31 picturestory t 
+11.26.23.788656 PL31 picturestory t 
+11.26.23.913923 PL31 picturestory t 
+11.26.23.913923 PL31 picturestory t 
+11.26.24.039311 PL31 picturestory t 
+11.26.24.039311 PL31 picturestory t 
+11.26.24.164063 PL31 picturestory t 
+11.26.24.164063 PL31 picturestory t 
+11.26.24.273703 PL31 picturestory t 
+11.26.24.289112 PL31 picturestory t 
+11.26.24.398747 PL31 picturestory t 
+11.26.24.414097 PL31 picturestory t 
+11.26.24.539102 PL31 picturestory t 
+11.26.24.539102 PL31 picturestory t 
+11.26.24.664139 PL31 picturestory t 
+11.26.24.664139 PL31 picturestory t 
+11.26.24.789368 PL31 picturestory t 
+11.26.24.804794 PL31 picturestory t 
+11.26.24.898775 PL31 picturestory t 
+11.26.24.914140 PL31 picturestory t 
+11.26.25.039410 PL31 picturestory t 
+11.26.25.039410 PL31 picturestory t 
+11.26.25.179819 PL31 picturestory t 
+11.26.25.179819 PL31 picturestory t 
+11.26.25.336322 PL31 picturestory t 
+11.26.25.336322 PL31 picturestory t 
+11.26.25.461073 PL31 picturestory t 
+11.26.25.461073 PL31 picturestory t 
+11.26.25.601974 PL31 picturestory t 
+11.26.25.617339 PL31 picturestory t 
+11.26.25.773851 PL31 picturestory t 
+11.26.25.773851 PL31 picturestory t 
+11.26.25.914246 PL31 picturestory t 
+11.26.25.914246 PL31 picturestory t 
+11.26.26.055159 PL31 picturestory t 
+11.26.26.055159 PL31 picturestory t 
+11.26.26.180146 PL31 picturestory t 
+11.26.26.195527 PL31 picturestory t 
+11.26.26.320810 PL31 picturestory t 
+11.26.26.336174 PL31 picturestory t 
+11.26.26.461436 PL31 picturestory t 
+11.26.26.476826 PL31 picturestory t 
+11.26.26.633326 PL31 picturestory t 
+11.26.26.633326 PL31 picturestory t 
+11.26.26.773965 PL31 picturestory t 
+11.26.26.789350 PL31 picturestory t 
+11.26.26.930251 PL31 picturestory t 
+11.26.26.945676 PL31 picturestory t 
+11.26.27.086522 PL31 picturestory t 
+11.26.27.101896 PL31 picturestory t 
+11.26.27.226909 PL31 picturestory t 
+11.26.27.226909 PL31 picturestory t 
+11.26.27.375026 PL31 picturestory t 
+11.26.27.386020 PL31 picturestory t 
+11.26.27.544692 PL31 picturestory t 
+11.26.27.544692 PL31 picturestory t 
+11.26.27.702146 PL31 picturestory t 
+11.26.27.712196 PL31 picturestory t 
+11.26.27.811096 PL31 picturestory t 
+11.26.27.826489 PL31 picturestory t 
+11.26.27.967365 PL31 picturestory t 
+11.26.27.967365 PL31 picturestory t 
+11.26.28.154911 PL31 picturestory t 
+11.26.28.154911 PL31 picturestory t 
+11.26.28.295561 PL31 picturestory t 
+11.26.28.310928 PL31 picturestory t 
+11.26.28.467454 PL31 picturestory t 
+11.26.28.482808 PL31 picturestory t 
+11.26.28.608082 PL31 picturestory t 
+11.26.28.608082 PL31 picturestory t 
+11.26.28.779980 PL31 picturestory t 
+11.26.28.795341 PL31 picturestory t 
+11.26.28.951870 PL31 picturestory t 
+11.26.28.967242 PL31 picturestory t 
+11.26.29.093820 PL31 picturestory t 
+11.26.29.109205 PL31 picturestory t 
+11.26.29.281074 PL31 picturestory t 
+11.26.29.281074 PL31 picturestory t 
+11.26.29.437616 PL31 picturestory t 
+11.26.29.437616 PL31 picturestory t 
+11.26.29.562628 PL31 picturestory t 
+11.26.29.577979 PL31 picturestory t 
+11.26.29.734502 PL31 picturestory t 
+11.26.29.749873 PL31 picturestory t 
+11.26.29.890776 PL31 picturestory t 
+11.26.29.906141 PL31 picturestory t 
+11.26.30.031380 PL31 picturestory t 
+11.26.30.046781 PL31 picturestory t 
+11.26.30.203307 PL31 picturestory t 
+11.26.30.218673 PL31 picturestory t 
+11.26.30.359558 PL31 picturestory t 
+11.26.30.374977 PL31 picturestory t 
+11.26.30.562735 PL31 picturestory t 
+11.26.30.562735 PL31 picturestory t 
+11.26.30.703357 PL31 picturestory t 
+11.26.30.718750 PL31 picturestory t 
+11.26.30.890872 PL31 picturestory t 
+11.26.30.906283 PL31 picturestory t 
+11.26.31.093831 PL31 picturestory t 
+11.26.31.093831 PL31 picturestory t 
+11.26.31.265904 PL31 picturestory t 
+11.26.31.281284 PL31 picturestory t 
+11.26.31.406708 PL31 picturestory t 
+11.26.31.422362 PL31 picturestory t 
+11.26.31.610129 PL31 picturestory t 
+11.26.31.625482 PL31 picturestory t 
+11.26.31.766376 PL31 picturestory t 
+11.26.31.781749 PL31 picturestory t 
+11.26.31.953642 PL31 picturestory t 
+11.26.31.953642 PL31 picturestory t 
+11.26.32.110165 PL31 picturestory t 
+11.26.32.125539 PL31 picturestory t 
+11.26.32.297694 PL31 picturestory t 
+11.26.32.313079 PL31 picturestory t 
+11.26.32.516455 PL31 picturestory t 
+11.26.32.531867 PL31 picturestory t 
+11.26.32.735000 PL31 picturestory t 
+11.26.32.735000 PL31 picturestory t 
+11.26.32.907113 PL31 picturestory t 
+11.26.32.907113 PL31 picturestory t 
+11.26.33.063174 PL31 picturestory t 
+11.26.33.063174 PL31 picturestory t 
+11.26.33.204047 PL31 picturestory t 
+11.26.33.219401 PL31 picturestory t 
+11.26.33.344690 PL31 picturestory t 
+11.26.33.360081 PL31 picturestory t 
+11.26.33.532173 PL31 picturestory t 
+11.26.33.547601 PL31 picturestory t 
+11.26.33.688428 PL31 picturestory t 
+11.26.33.688428 PL31 picturestory t 
+11.26.33.875994 PL31 picturestory t 
+11.26.33.891348 PL31 picturestory t 
+11.26.34.047875 PL31 picturestory t 
+11.26.34.063247 PL31 picturestory t 
+11.26.34.210366 PL31 picturestory t 
+11.26.34.210366 PL31 picturestory t 
+11.26.34.413483 PL31 picturestory t 
+11.26.34.413483 PL31 picturestory t 
+11.26.34.569767 PL31 picturestory t 
+11.26.34.569767 PL31 picturestory t 
+11.26.34.741639 PL31 picturestory t 
+11.26.34.757050 PL31 picturestory t 
+11.26.34.913565 PL31 picturestory t 
+11.26.34.928954 PL31 picturestory t 
+11.26.35.100836 PL31 picturestory t 
+11.26.35.100836 PL31 picturestory t 
+11.26.35.288594 PL31 picturestory t 
+11.26.35.303982 PL31 picturestory t 
+11.26.35.476130 PL31 picturestory t 
+11.26.35.491478 PL31 picturestory t 
+11.26.35.648000 PL31 picturestory t 
+11.26.35.648000 PL31 picturestory t 
+11.26.35.835520 PL31 picturestory t 
+11.26.35.850932 PL31 picturestory t 
+11.26.36.101172 PL31 picturestory t 
+11.26.36.101172 PL31 picturestory t 
+11.26.36.319952 PL31 picturestory t 
+11.26.36.319952 PL31 picturestory t 
+11.26.36.694997 PL31 picturestory t 
+11.26.36.710396 PL31 picturestory t 
+11.26.36.851241 PL31 picturestory t 
+11.26.36.866661 PL31 picturestory t 
+11.26.37.086048 PL31 picturestory t 
+11.26.37.086048 PL31 picturestory t 
+11.26.37.242082 PL31 picturestory t 
+11.26.37.242082 PL31 picturestory t 
+11.26.37.414209 PL31 picturestory t 
+11.26.37.429602 PL31 picturestory t 
+11.26.37.596851 PL31 picturestory t 
+11.26.37.596851 PL31 picturestory t 
+11.26.37.784366 PL31 picturestory t 
+11.26.37.784366 PL31 picturestory t 
+11.26.37.971891 PL31 picturestory t 
+11.26.37.987276 PL31 picturestory t 
+11.26.38.159374 PL31 picturestory t 
+11.26.38.174794 PL31 picturestory t 
+11.26.38.346913 PL31 picturestory t 
+11.26.38.362347 PL31 picturestory t 
+11.26.38.534418 PL31 picturestory t 
+11.26.38.549797 PL31 picturestory t 
+11.26.38.737590 PL31 picturestory t 
+11.26.38.737590 PL31 picturestory t 
+11.26.38.925097 PL31 picturestory t 
+11.26.38.940463 PL31 picturestory t 
+11.26.39.128241 PL31 picturestory t 
+11.26.39.143609 PL31 picturestory t 
+11.26.39.284530 PL31 picturestory t 
+11.26.39.299901 PL31 picturestory t 
+11.26.39.487669 PL31 picturestory t 
+11.26.39.503023 PL31 picturestory t 
+11.26.39.690784 PL31 picturestory t 
+11.26.39.690784 PL31 picturestory t 
+11.26.39.893966 PL31 picturestory t 
+11.26.39.909315 PL31 picturestory t 
+11.26.40.034570 PL31 picturestory t 
+11.26.40.050277 PL31 picturestory t 
+11.26.40.206783 PL31 picturestory t 
+11.26.40.222182 PL31 picturestory t 
+11.26.40.441221 PL31 picturestory t 
+11.26.40.456571 PL31 picturestory t 
+11.26.40.628703 PL31 picturestory t 
+11.26.40.644091 PL31 picturestory t 
+11.26.40.831860 PL31 picturestory t 
+11.26.40.831860 PL31 picturestory t 
+11.26.41.066253 PL31 picturestory t 
+11.26.41.066253 PL31 picturestory t 
+11.26.41.238166 PL31 picturestory t 
+11.26.41.238166 PL31 picturestory t 
+11.26.41.410058 PL31 picturestory t 
+11.26.41.425462 PL31 picturestory t 
+11.26.41.581958 PL31 picturestory t 
+11.26.41.597342 PL31 picturestory t 
+11.26.41.738227 PL31 picturestory t 
+11.26.41.753625 PL31 picturestory t 
+11.26.41.941366 PL31 picturestory t 
+11.26.41.941366 PL31 picturestory t 
+11.26.42.175503 PL31 picturestory t 
+11.26.42.175503 PL31 picturestory t 
+11.26.42.347651 PL31 picturestory t 
+11.26.42.363023 PL31 picturestory t 
+11.26.42.534916 PL31 picturestory t 
+11.26.42.534916 PL31 picturestory t 
+11.26.42.941485 PL31 picturestory t 
+11.26.42.956835 PL31 picturestory t 
+11.26.43.082096 PL31 picturestory t 
+11.26.43.097476 PL31 picturestory t 
+11.26.43.332121 PL31 picturestory t 
+11.26.43.347501 PL31 picturestory t 
+11.26.43.519660 PL31 picturestory t 
+11.26.43.535021 PL31 picturestory t 
+11.26.43.707166 PL31 picturestory t 
+11.26.43.722567 PL31 picturestory t 
+11.26.43.879054 PL31 picturestory t 
+11.26.43.894459 PL31 picturestory t 
+11.26.44.050977 PL31 picturestory t 
+11.26.44.066365 PL31 picturestory t 
+11.26.44.238482 PL31 picturestory t 
+11.26.44.253873 PL31 picturestory t 
+11.26.44.394741 PL31 picturestory t 
+11.26.44.410113 PL31 picturestory t 
+11.26.44.597888 PL31 picturestory t 
+11.26.44.597888 PL31 picturestory t 
+11.26.44.769800 PL31 picturestory t 
+11.26.44.785153 PL31 picturestory t 
+11.26.44.972956 PL31 picturestory t 
+11.26.44.988299 PL31 picturestory t 
+11.26.45.191486 PL31 picturestory t 
+11.26.45.191486 PL31 picturestory t 
+11.26.45.410225 PL31 picturestory t 
+11.26.45.410225 PL31 picturestory t 
+11.26.45.582356 PL31 picturestory t 
+11.26.45.597739 PL31 picturestory t 
+11.26.45.769646 PL31 picturestory t 
+11.26.45.769646 PL31 picturestory t 
+11.26.45.957406 PL31 picturestory t 
+11.26.45.972778 PL31 picturestory t 
+11.26.46.176176 PL31 picturestory t 
+11.26.46.191551 PL31 picturestory t 
+11.26.46.332441 PL31 picturestory t 
+11.26.46.347818 PL31 picturestory t 
+11.26.46.519937 PL31 picturestory t 
+11.26.46.535363 PL31 picturestory t 
+11.26.46.691847 PL31 picturestory t 
+11.26.46.707233 PL31 picturestory t 
+11.26.46.863760 PL31 picturestory t 
+11.26.46.879124 PL31 picturestory t 
+11.26.47.067315 PL31 picturestory t 
+11.26.47.067315 PL31 picturestory t 
+11.26.47.317299 PL31 picturestory t 
+11.26.47.317299 PL31 picturestory t 
+11.26.47.489234 PL31 picturestory t 
+11.26.47.489234 PL31 picturestory t 
+11.26.47.692375 PL31 picturestory t 
+11.26.47.707746 PL31 picturestory t 
+11.26.47.848660 PL31 picturestory t 
+11.26.47.864037 PL31 picturestory t 
+11.26.48.051813 PL31 picturestory t 
+11.26.48.051813 PL31 picturestory t 
+11.26.48.223689 PL31 picturestory t 
+11.26.48.223689 PL31 picturestory t 
+11.26.48.395564 PL31 picturestory t 
+11.26.48.410945 PL31 picturestory t 
+11.26.48.583089 PL31 picturestory t 
+11.26.48.583089 PL31 picturestory t 
+11.26.48.723725 PL31 picturestory t 
+11.26.48.739104 PL31 picturestory t 
+11.26.48.926886 PL31 picturestory t 
+11.26.48.942277 PL31 picturestory t 
+11.26.49.114884 PL31 picturestory t 
+11.26.49.130258 PL31 picturestory t 
+11.26.49.333420 PL31 picturestory t 
+11.26.49.333420 PL31 picturestory t 
+11.26.49.505573 PL31 picturestory t 
+11.26.49.520924 PL31 picturestory t 
+11.26.49.692912 PL31 picturestory t 
+11.26.49.692912 PL31 picturestory t 
+11.26.49.864973 PL31 picturestory t 
+11.26.49.864973 PL31 picturestory t 
+11.26.50.052483 PL31 picturestory t 
+11.26.50.052483 PL31 picturestory t 
+11.26.50.193140 PL31 picturestory t 
+11.26.50.208544 PL31 picturestory t 
+11.26.50.411889 PL31 picturestory t 
+11.26.50.427286 PL31 picturestory t 
+11.26.50.599407 PL31 picturestory t 
+11.26.50.599407 PL31 picturestory t 
+11.26.50.771321 PL31 picturestory t 
+11.26.50.771321 PL31 picturestory t 
+11.26.50.958841 PL31 picturestory t 
+11.26.50.974202 PL31 picturestory t 
+11.26.51.146768 PL31 picturestory t 
+11.26.51.162165 PL31 picturestory t 
+11.26.51.287427 PL31 picturestory t 
+11.26.51.287427 PL31 picturestory t 
+11.26.51.459290 PL31 picturestory t 
+11.26.51.459290 PL31 picturestory t 
+11.26.51.631210 PL31 picturestory t 
+11.26.51.646565 PL31 picturestory t 
+11.26.51.818510 PL31 picturestory t 
+11.26.51.818510 PL31 picturestory t 
+11.26.51.974983 PL31 picturestory t 
+11.26.51.990355 PL31 picturestory t 
+11.26.52.178139 PL31 picturestory t 
+11.26.52.193523 PL31 picturestory t 
+11.26.52.334381 PL31 picturestory t 
+11.26.52.349781 PL31 picturestory t 
+11.26.52.521938 PL31 picturestory t 
+11.26.52.521938 PL31 picturestory t 
+11.26.52.678182 PL31 picturestory t 
+11.26.52.678182 PL31 picturestory t 
+11.26.52.865708 PL31 picturestory t 
+11.26.52.881095 PL31 picturestory t 
+11.26.53.037601 PL31 picturestory t 
+11.26.53.037601 PL31 picturestory t 
+11.26.53.225426 PL31 picturestory t 
+11.26.53.240813 PL31 picturestory t 
+11.26.53.444213 PL31 picturestory t 
+11.26.53.444213 PL31 picturestory t 
+11.26.53.616095 PL31 picturestory t 
+11.26.53.616095 PL31 picturestory t 
+11.26.53.787745 PL31 picturestory t 
+11.26.53.787745 PL31 picturestory t 
+11.26.54.022184 PL31 picturestory t 
+11.26.54.022184 PL31 picturestory t 
+11.26.54.209951 PL31 picturestory t 
+11.26.54.225291 PL31 picturestory t 
+11.26.54.381812 PL31 picturestory t 
+11.26.54.397205 PL31 picturestory t 
+11.26.54.569351 PL31 picturestory t 
+11.26.54.584729 PL31 picturestory t 
+11.26.54.741246 PL31 picturestory t 
+11.26.54.741246 PL31 picturestory t 
+11.26.54.897511 PL31 picturestory t 
+11.26.54.897511 PL31 picturestory t 
+11.26.55.069395 PL31 picturestory t 
+11.26.55.069395 PL31 picturestory t 
+11.26.55.225673 PL31 picturestory t 
+11.26.55.241048 PL31 picturestory t 
+11.26.55.381913 PL31 picturestory t 
+11.26.55.381913 PL31 picturestory t 
+11.26.55.569476 PL31 picturestory t 
+11.26.55.584809 PL31 picturestory t 
+11.26.55.756738 PL31 picturestory t 
+11.26.55.756738 PL31 picturestory t 
+11.26.55.928873 PL31 picturestory t 
+11.26.55.944222 PL31 picturestory t 
+11.26.56.116734 PL31 picturestory t 
+11.26.56.116734 PL31 picturestory t 
+11.26.56.288636 PL31 picturestory t 
+11.26.56.288636 PL31 picturestory t 
+11.26.56.429285 PL31 picturestory t 
+11.26.56.444650 PL31 picturestory t 
+11.26.56.585538 PL31 picturestory t 
+11.26.56.600917 PL31 picturestory t 
+11.26.56.804337 PL31 picturestory t 
+11.26.56.819690 PL31 picturestory t 
+11.26.56.991828 PL31 picturestory t 
+11.26.57.007220 PL31 picturestory t 
+11.26.57.148111 PL31 picturestory t 
+11.26.57.163502 PL31 picturestory t 
+11.26.57.304370 PL31 picturestory t 
+11.26.57.319742 PL31 picturestory t 
+11.26.57.476254 PL31 picturestory t 
+11.26.57.491669 PL31 picturestory t 
+11.26.57.652849 PL31 picturestory t 
+11.26.57.668225 PL31 picturestory t 
+11.26.57.793458 PL31 picturestory t 
+11.26.57.808865 PL31 picturestory t 
+11.26.57.949750 PL31 picturestory t 
+11.26.57.965106 PL31 picturestory t 
+11.26.58.137253 PL31 picturestory t 
+11.26.58.152651 PL31 picturestory t 
+11.26.58.315939 PL31 picturestory t 
+11.26.58.315939 PL31 picturestory t 
+11.26.58.534744 PL31 picturestory t 
+11.26.58.534744 PL31 picturestory t 
+11.26.58.722244 PL31 picturestory t 
+11.26.58.737647 PL31 picturestory t 
+11.26.58.894160 PL31 picturestory t 
+11.26.58.909602 PL31 picturestory t 
+11.26.59.065780 PL31 picturestory t 
+11.26.59.081442 PL31 picturestory t 
+11.26.59.328324 PL31 picturestory t 
+11.26.59.328324 PL31 picturestory t 
+11.26.59.515929 PL31 picturestory t 
+11.26.59.531223 PL31 picturestory t 
+11.26.59.687747 PL31 picturestory t 
+11.26.59.703114 PL31 picturestory t 
+11.26.59.875255 PL31 picturestory t 
+11.26.59.890653 PL31 picturestory t 
+11.27.00.031520 PL31 picturestory t 
+11.27.00.046933 PL31 picturestory t 
+11.27.00.219069 PL31 picturestory t 
+11.27.00.234439 PL31 picturestory t 
+11.27.00.406548 PL31 picturestory t 
+11.27.00.421977 PL31 picturestory t 
+11.27.00.594081 PL31 picturestory t 
+11.27.00.609492 PL31 picturestory t 
+11.27.00.828482 PL31 picturestory t 
+11.27.00.828482 PL31 picturestory t 
+11.27.01.000371 PL31 picturestory t 
+11.27.01.000371 PL31 picturestory t 
+11.27.01.266036 PL31 picturestory t 
+11.27.01.281438 PL31 picturestory t 
+11.27.01.453566 PL31 picturestory t 
+11.27.01.453566 PL31 picturestory t 
+11.27.01.624307 PL31 picturestory t 
+11.27.01.639679 PL31 picturestory t 
+11.27.01.842850 PL31 picturestory t 
+11.27.01.842850 PL31 picturestory t 
+11.27.01.983718 PL31 picturestory t 
+11.27.01.999123 PL31 picturestory t 
+11.27.02.155602 PL31 picturestory t 
+11.27.02.155602 PL31 picturestory t 
+11.27.02.327514 PL31 picturestory t 
+11.27.02.342902 PL31 picturestory t 
+11.27.02.483780 PL31 picturestory t 
+11.27.02.499169 PL31 picturestory t 
+11.27.02.655675 PL31 picturestory t 
+11.27.02.671061 PL31 picturestory t 
+11.27.02.780651 PL31 picturestory t 
+11.27.02.796083 PL31 picturestory t 
+11.27.02.967969 PL31 picturestory t 
+11.27.02.983572 PL31 picturestory t 
+11.27.03.171345 PL31 picturestory t 
+11.27.03.171345 PL31 picturestory t 
+11.27.03.327617 PL31 picturestory t 
+11.27.03.343022 PL31 picturestory t 
+11.27.03.499507 PL31 picturestory t 
+11.27.03.514900 PL31 picturestory t 
+11.27.03.733674 PL31 picturestory t 
+11.27.03.733674 PL31 picturestory t 
+11.27.03.890162 PL31 picturestory t 
+11.27.03.905542 PL31 picturestory t 
+11.27.04.093331 PL31 picturestory t 
+11.27.04.093331 PL31 picturestory t 
+11.27.04.249587 PL31 picturestory t 
+11.27.04.264992 PL31 picturestory t 
+11.27.04.405597 PL31 picturestory t 
+11.27.04.421224 PL31 picturestory t 
+11.27.04.671503 PL31 picturestory t 
+11.27.04.686899 PL31 picturestory t 
+11.27.04.843397 PL31 picturestory t 
+11.27.04.858806 PL31 picturestory t 
+11.27.05.031240 PL31 picturestory t 
+11.27.05.046671 PL31 picturestory t 
+11.27.05.156265 PL31 picturestory t 
+11.27.05.171687 PL31 picturestory t 
+11.27.05.328174 PL31 picturestory t 
+11.27.05.343554 PL31 picturestory t 
+11.27.05.500060 PL31 picturestory t 
+11.27.05.515448 PL31 picturestory t 
+11.27.05.640662 PL31 picturestory t 
+11.27.05.656104 PL31 picturestory t 
+11.27.05.796937 PL31 picturestory t 
+11.27.05.796937 PL31 picturestory t 
+11.27.05.921716 PL31 picturestory t 
+11.27.05.937369 PL31 picturestory t 
+11.27.06.140759 PL31 picturestory t 
+11.27.06.156140 PL31 picturestory t 
+11.27.06.312636 PL31 picturestory t 
+11.27.06.328046 PL31 picturestory t 
+11.27.06.484528 PL31 picturestory t 
+11.27.06.484528 PL31 picturestory t 
+11.27.06.609543 PL31 picturestory t 
+11.27.06.624953 PL31 picturestory t 
+11.27.06.843952 PL31 picturestory t 
+11.27.06.859364 PL31 picturestory t 
+11.27.06.984592 PL31 picturestory t 
+11.27.06.999980 PL31 picturestory t 
+11.27.07.203372 PL31 picturestory t 
+11.27.07.218729 PL31 picturestory t 
+11.27.07.343994 PL31 picturestory t 
+11.27.07.343994 PL31 picturestory t 
+11.27.07.515908 PL31 picturestory t 
+11.27.07.531310 PL31 picturestory t 
+11.27.07.656548 PL31 picturestory t 
+11.27.07.671899 PL31 picturestory t 
+11.27.07.846006 PL31 picturestory t 
+11.27.07.861411 PL31 picturestory t 
+11.27.08.002290 PL31 picturestory t 
+11.27.08.017694 PL31 picturestory t 
+11.27.08.189805 PL31 picturestory t 
+11.27.08.205213 PL31 picturestory t 
+11.27.08.346093 PL31 picturestory t 
+11.27.08.346093 PL31 picturestory t 
+11.27.08.517731 PL31 picturestory t 
+11.27.08.517731 PL31 picturestory t 
+11.27.08.658619 PL31 picturestory t 
+11.27.08.658619 PL31 picturestory t 
+11.27.08.846110 PL31 picturestory t 
+11.27.08.846110 PL31 picturestory t 
+11.27.09.002389 PL31 picturestory t 
+11.27.09.017759 PL31 picturestory t 
+11.27.09.174301 PL31 picturestory t 
+11.27.09.189676 PL31 picturestory t 
+11.27.09.346192 PL31 picturestory t 
+11.27.09.361573 PL31 picturestory t 
+11.27.09.549326 PL31 picturestory t 
+11.27.09.549326 PL31 picturestory t 
+11.27.09.674322 PL31 picturestory t 
+11.27.09.689742 PL31 picturestory t 
+11.27.09.877502 PL31 picturestory t 
+11.27.09.892888 PL31 picturestory t 
+11.27.10.049390 PL31 picturestory t 
+11.27.10.049390 PL31 picturestory t 
+11.27.10.252524 PL31 picturestory t 
+11.27.10.267890 PL31 picturestory t 
+11.27.10.455677 PL31 picturestory t 
+11.27.10.471081 PL31 picturestory t 
+11.27.10.596326 PL31 picturestory t 
+11.27.10.611717 PL31 picturestory t 
+11.27.10.736928 PL31 picturestory t 
+11.27.10.752317 PL31 picturestory t 
+11.27.10.971331 PL31 picturestory t 
+11.27.10.986715 PL31 picturestory t 
+11.27.11.158883 PL31 picturestory t 
+11.27.11.174253 PL31 picturestory t 
+11.27.11.315137 PL31 picturestory t 
+11.27.11.330503 PL31 picturestory t 
+11.27.11.471182 PL31 picturestory t 
+11.27.11.471182 PL31 picturestory t 
+11.27.11.658937 PL31 picturestory t 
+11.27.11.658937 PL31 picturestory t 
+11.27.11.768084 PL31 picturestory t 
+11.27.11.768084 PL31 picturestory t 
+11.27.11.971424 PL31 picturestory t 
+11.27.11.986861 PL31 picturestory t 
+11.27.12.174583 PL31 picturestory t 
+11.27.12.190008 PL31 picturestory t 
+11.27.26.223881 PL31 picturestory b 
+11.27.26.223881 PL31 picturestory b 
+11.27.26.239495 PL31 picturestory b 
+11.27.26.317653 PL31 picturestory b 
+11.27.26.333265 PL31 picturestory b 
+11.27.26.348875 PL31 picturestory b 
+11.27.26.489754 PL31 picturestory b 
+11.27.26.505148 PL31 picturestory b 
+11.27.26.520783 PL31 picturestory b 
+11.27.26.583497 PL31 picturestory b 
+11.27.26.598916 PL31 picturestory b 
+11.27.26.598916 PL31 picturestory b 
+11.27.26.755421 PL31 picturestory b 
+11.27.26.770776 PL31 picturestory b 
+11.27.26.770776 PL31 picturestory b 
+11.27.26.896058 PL31 picturestory b 
+11.27.26.896058 PL31 picturestory b 
+11.27.26.911440 PL31 picturestory b 
+11.27.27.020839 PL31 picturestory b 
+11.27.27.020839 PL31 picturestory b 
+11.27.27.036453 PL31 picturestory b 
+11.27.27.146080 PL31 picturestory b 
+11.27.27.161490 PL31 picturestory b 
+11.27.27.177093 PL31 picturestory b 
+11.27.27.286717 PL31 picturestory b 
+11.27.27.302098 PL31 picturestory b 
+11.27.27.317747 PL31 picturestory b 
+11.27.27.427348 PL31 picturestory b 
+11.27.27.427348 PL31 picturestory b 
+11.27.27.442721 PL31 picturestory b 
+11.27.27.552109 PL31 picturestory b 
+11.27.27.567734 PL31 picturestory b 
+11.27.27.567734 PL31 picturestory b 
+11.27.27.692906 PL31 picturestory b 
+11.27.27.692906 PL31 picturestory b 
+11.27.27.708413 PL31 picturestory b 
+11.27.27.807426 PL31 picturestory b 
+11.27.27.822825 PL31 picturestory b 
+11.27.27.822825 PL31 picturestory b 
+11.27.27.932470 PL31 picturestory b 
+11.27.27.947824 PL31 picturestory b 
+11.27.27.963451 PL31 picturestory b 
+11.27.28.073081 PL31 picturestory b 
+11.27.28.088501 PL31 picturestory b 
+11.27.28.088501 PL31 picturestory b 
+11.27.28.213741 PL31 picturestory b 
+11.27.28.229130 PL31 picturestory b 
+11.27.28.244771 PL31 picturestory b 
+11.27.28.354389 PL31 picturestory b 
+11.27.28.354389 PL31 picturestory b 
+11.27.28.369783 PL31 picturestory b 
+11.27.28.463778 PL31 picturestory b 
+11.27.28.479130 PL31 picturestory b 
+11.27.28.494757 PL31 picturestory b 
+11.27.28.604416 PL31 picturestory b 
+11.27.28.619808 PL31 picturestory b 
+11.27.28.635397 PL31 picturestory b 
+11.27.28.725430 PL31 picturestory b 
+11.27.28.741082 PL31 picturestory b 
+11.27.28.756727 PL31 picturestory b 
+11.27.28.866346 PL31 picturestory b 
+11.27.28.881697 PL31 picturestory b 
+11.27.28.881697 PL31 picturestory b 
+11.27.28.975715 PL31 picturestory b 
+11.27.28.991120 PL31 picturestory b 
+11.27.29.006744 PL31 picturestory b 
+11.27.29.116341 PL31 picturestory b 
+11.27.29.131724 PL31 picturestory b 
+11.27.29.131724 PL31 picturestory b 
+11.27.29.241335 PL31 picturestory b 
+11.27.29.256737 PL31 picturestory b 
+11.27.29.273512 PL31 picturestory b 
+11.27.29.374703 PL31 picturestory b 
+11.27.29.390111 PL31 picturestory b 
+11.27.29.390111 PL31 picturestory b 
+11.27.29.499736 PL31 picturestory b 
+11.27.29.499736 PL31 picturestory b 
+11.27.29.515124 PL31 picturestory b 
+11.27.29.624746 PL31 picturestory b 
+11.27.29.640112 PL31 picturestory b 
+11.27.29.640112 PL31 picturestory b 
+11.27.29.734134 PL31 picturestory b 
+11.27.29.749499 PL31 picturestory b 
+11.27.29.749499 PL31 picturestory b 
+11.27.29.874770 PL31 picturestory b 
+11.27.29.890152 PL31 picturestory b 
+11.27.29.905802 PL31 picturestory b 
+11.27.30.015394 PL31 picturestory b 
+11.27.30.015394 PL31 picturestory b 
+11.27.30.030818 PL31 picturestory b 
+11.27.30.140442 PL31 picturestory b 
+11.27.30.155831 PL31 picturestory b 
+11.27.30.171458 PL31 picturestory b 
+11.27.30.296687 PL31 picturestory b 
+11.27.30.312096 PL31 picturestory b 
+11.27.30.312096 PL31 picturestory b 
+11.27.30.421700 PL31 picturestory b 
+11.27.30.437097 PL31 picturestory b 
+11.27.30.452739 PL31 picturestory b 
+11.27.30.562349 PL31 picturestory b 
+11.27.30.577736 PL31 picturestory b 
+11.27.30.577736 PL31 picturestory b 
+11.27.30.702966 PL31 picturestory b 
+11.27.30.702966 PL31 picturestory b 
+11.27.30.718351 PL31 picturestory b 
+11.27.30.828001 PL31 picturestory b 
+11.27.30.843364 PL31 picturestory b 
+11.27.30.858991 PL31 picturestory b 
+11.27.30.952750 PL31 picturestory b 
+11.27.30.968421 PL31 picturestory b 
+11.27.30.984043 PL31 picturestory b 
+11.27.31.093645 PL31 picturestory b 
+11.27.31.109057 PL31 picturestory b 
+11.27.31.124955 PL31 picturestory b 
+11.27.31.218966 PL31 picturestory b 
+11.27.31.234381 PL31 picturestory b 
+11.27.31.250004 PL31 picturestory b 
+11.27.31.359617 PL31 picturestory b 
+11.27.31.390611 PL31 picturestory b 
+11.27.31.406262 PL31 picturestory b 
+11.27.31.515894 PL31 picturestory b 
+11.27.31.531292 PL31 picturestory b 
+11.27.31.546918 PL31 picturestory b 
+11.27.31.656527 PL31 picturestory b 
+11.27.31.671889 PL31 picturestory b 
+11.27.31.687516 PL31 picturestory b 
+11.27.31.810764 PL31 picturestory b 
+11.27.31.826391 PL31 picturestory b 
+11.27.31.842019 PL31 picturestory b 
+11.27.31.951447 PL31 picturestory b 
+11.27.31.967071 PL31 picturestory b 
+11.27.31.982667 PL31 picturestory b 
+11.27.32.107907 PL31 picturestory b 
+11.27.32.123342 PL31 picturestory b 
+11.27.32.138963 PL31 picturestory b 
+11.27.32.232929 PL31 picturestory b 
+11.27.32.248311 PL31 picturestory b 
+11.27.32.279603 PL31 picturestory b 
+11.27.32.373571 PL31 picturestory b 
+11.27.32.388951 PL31 picturestory b 
+11.27.32.404577 PL31 picturestory b 
+11.27.32.529854 PL31 picturestory b 
+11.27.32.545256 PL31 picturestory b 
+11.27.32.545256 PL31 picturestory b 
+11.27.32.685857 PL31 picturestory b 
+11.27.32.685857 PL31 picturestory b 
+11.27.32.701506 PL31 picturestory b 
+11.27.32.842397 PL31 picturestory b 
+11.27.32.842397 PL31 picturestory b 
+11.27.32.857775 PL31 picturestory b 
+11.27.32.951756 PL31 picturestory b 
+11.27.32.967163 PL31 picturestory b 
+11.27.32.982804 PL31 picturestory b 
+11.27.33.107791 PL31 picturestory b 
+11.27.33.107791 PL31 picturestory b 
+11.27.33.123443 PL31 picturestory b 
+11.27.33.233061 PL31 picturestory b 
+11.27.33.233061 PL31 picturestory b 
+11.27.33.248442 PL31 picturestory b 
+11.27.33.373684 PL31 picturestory b 
+11.27.33.389081 PL31 picturestory b 
+11.27.33.389081 PL31 picturestory b 
+11.27.33.529925 PL31 picturestory b 
+11.27.33.545366 PL31 picturestory b 
+11.27.33.545366 PL31 picturestory b 
+11.27.33.670585 PL31 picturestory b 
+11.27.33.685962 PL31 picturestory b 
+11.27.33.685962 PL31 picturestory b 
+11.27.33.810975 PL31 picturestory b 
+11.27.33.810975 PL31 picturestory b 
+11.27.33.826602 PL31 picturestory b 
+11.27.33.951886 PL31 picturestory b 
+11.27.33.951886 PL31 picturestory b 
+11.27.33.967267 PL31 picturestory b 
+11.27.34.108132 PL31 picturestory b 
+11.27.34.123535 PL31 picturestory b 
+11.27.34.139173 PL31 picturestory b 
+11.27.34.248788 PL31 picturestory b 
+11.27.34.248788 PL31 picturestory b 
+11.27.34.264174 PL31 picturestory b 
+11.27.34.389425 PL31 picturestory b 
+11.27.34.404813 PL31 picturestory b 
+11.27.34.420440 PL31 picturestory b 
+11.27.34.529801 PL31 picturestory b 
+11.27.34.545428 PL31 picturestory b 
+11.27.34.545428 PL31 picturestory b 
+11.27.34.701977 PL31 picturestory b 
+11.27.34.717322 PL31 picturestory b 
+11.27.34.717322 PL31 picturestory b 
+11.27.34.826745 PL31 picturestory b 
+11.27.34.826745 PL31 picturestory b 
+11.27.34.842360 PL31 picturestory b 
+11.27.34.983238 PL31 picturestory b 
+11.27.34.998627 PL31 picturestory b 
+11.27.35.014254 PL31 picturestory b 
+11.27.35.123846 PL31 picturestory b 
+11.27.35.123846 PL31 picturestory b 
+11.27.35.139331 PL31 picturestory b 
+11.27.35.295857 PL31 picturestory b 
+11.27.35.295857 PL31 picturestory b 
+11.27.35.311225 PL31 picturestory b 
+11.27.35.420874 PL31 picturestory b 
+11.27.35.436277 PL31 picturestory b 
+11.27.35.436277 PL31 picturestory b 
+11.27.35.608404 PL31 picturestory b 
+11.27.35.623798 PL31 picturestory b 
+11.27.35.623798 PL31 picturestory b 
+11.27.35.717578 PL31 picturestory b 
+11.27.35.733184 PL31 picturestory b 
+11.27.35.751984 PL31 picturestory b 
+11.27.35.927765 PL31 picturestory b 
+11.27.35.943150 PL31 picturestory b 
+11.27.35.958779 PL31 picturestory b 
+11.27.36.115012 PL31 picturestory b 
+11.27.36.115012 PL31 picturestory b 
+11.27.36.130639 PL31 picturestory b 
+11.27.36.255652 PL31 picturestory b 
+11.27.36.255652 PL31 picturestory b 
+11.27.36.271303 PL31 picturestory b 
+11.27.36.380928 PL31 picturestory b 
+11.27.36.396317 PL31 picturestory b 
+11.27.36.411942 PL31 picturestory b 
+11.27.36.630692 PL31 picturestory b 
+11.27.36.630692 PL31 picturestory b 
+11.27.36.646343 PL31 picturestory b 
+11.27.36.787223 PL31 picturestory b 
+11.27.36.802609 PL31 picturestory b 
+11.27.36.818236 PL31 picturestory b 
+11.27.36.974743 PL31 picturestory b 
+11.27.36.974743 PL31 picturestory b 
+11.27.36.990129 PL31 picturestory b 
+11.27.37.115365 PL31 picturestory b 
+11.27.37.115365 PL31 picturestory b 
+11.27.37.130769 PL31 picturestory b 
+11.27.37.287267 PL31 picturestory b 
+11.27.37.287267 PL31 picturestory b 
+11.27.37.302674 PL31 picturestory b 
+11.27.37.443545 PL31 picturestory b 
+11.27.37.443545 PL31 picturestory b 
+11.27.37.458928 PL31 picturestory b 
+11.27.37.631043 PL31 picturestory b 
+11.27.37.631043 PL31 picturestory b 
+11.27.37.646460 PL31 picturestory b 
+11.27.37.787328 PL31 picturestory b 
+11.27.37.802715 PL31 picturestory b 
+11.27.37.802715 PL31 picturestory b 
+11.27.37.950414 PL31 picturestory b 
+11.27.37.953536 PL31 picturestory b 
+11.27.37.969164 PL31 picturestory b 
+11.27.38.094446 PL31 picturestory b 
+11.27.38.109829 PL31 picturestory b 
+11.27.38.109829 PL31 picturestory b 
+11.27.38.266316 PL31 picturestory b 
+11.27.38.266316 PL31 picturestory b 
+11.27.38.281729 PL31 picturestory b 
+11.27.38.422594 PL31 picturestory b 
+11.27.38.422594 PL31 picturestory b 
+11.27.38.437989 PL31 picturestory b 
+11.27.38.610121 PL31 picturestory b 
+11.27.38.625509 PL31 picturestory b 
+11.27.38.641135 PL31 picturestory b 
+11.27.38.750556 PL31 picturestory b 
+11.27.38.750556 PL31 picturestory b 
+11.27.38.766148 PL31 picturestory b 
+11.27.39.829007 PL31 picturestory b 
+11.27.39.844400 PL31 picturestory b 
+11.27.39.844400 PL31 picturestory b 
+11.27.39.875860 PL31 picturestory b 
+11.27.39.891281 PL31 picturestory b 
+11.27.39.906908 PL31 picturestory b 
+11.27.40.110272 PL31 picturestory b 
+11.27.40.125667 PL31 picturestory b 
+11.27.40.141308 PL31 picturestory b 
+11.27.49.096622 PL31 picturestory b 
+11.27.49.112028 PL31 picturestory b 
+11.27.49.127668 PL31 picturestory b 
+11.27.49.596687 PL31 picturestory b 
+11.27.49.596687 PL31 picturestory b 
+11.27.49.612088 PL31 picturestory b 
+11.27.51.206577 PL31 picturestory  
+11.27.51.221950 PL31 picturestory  
+11.27.51.237604 PL31 picturestory  
+11.27.51.315725 PL31 picturestory  
+11.27.51.331379 PL31 picturestory  
+11.27.51.346989 PL31 picturestory  
+11.27.51.472222 PL31 picturestory b 
+11.27.51.487642 PL31 picturestory b 
+11.27.51.487642 PL31 picturestory b 
+11.27.51.597235 PL31 picturestory b 
+11.27.51.597235 PL31 picturestory b 
+11.27.51.612654 PL31 picturestory b 
+11.27.51.706653 PL31 picturestory b 
+11.27.51.722043 PL31 picturestory b 
+11.27.51.737675 PL31 picturestory b 
+11.27.51.831400 PL31 picturestory b 
+11.27.51.831400 PL31 picturestory b 
+11.27.51.847050 PL31 picturestory b 
+11.27.51.956661 PL31 picturestory b 
+11.27.51.972042 PL31 picturestory b 
+11.27.51.987681 PL31 picturestory b 
+11.27.52.066044 PL31 picturestory b 
+11.27.52.081455 PL31 picturestory b 
+11.27.52.081455 PL31 picturestory b 
+11.27.52.253540 PL31 picturestory b 
+11.27.52.268976 PL31 picturestory b 
+11.27.52.284576 PL31 picturestory b 
+11.27.52.409847 PL31 picturestory b 
+11.27.52.425209 PL31 picturestory b 
+11.27.52.425209 PL31 picturestory b 
+11.27.52.550492 PL31 picturestory b 
+11.27.52.565854 PL31 picturestory b 
+11.27.52.581511 PL31 picturestory b 
+11.27.52.690881 PL31 picturestory b 
+11.27.52.690881 PL31 picturestory b 
+11.27.52.706483 PL31 picturestory b 
+11.27.52.925256 PL31 picturestory b 
+11.27.52.925256 PL31 picturestory b 
+11.27.52.940922 PL31 picturestory b 
+11.27.53.034879 PL31 picturestory b 
+11.27.53.050293 PL31 picturestory b 
+11.27.53.065941 PL31 picturestory b 
+11.27.53.238039 PL31 picturestory b 
+11.27.53.238039 PL31 picturestory b 
+11.27.53.253415 PL31 picturestory b 
+11.27.53.394062 PL31 picturestory b 
+11.27.53.394062 PL31 picturestory b 
+11.27.53.409719 PL31 picturestory b 
+11.27.53.566222 PL31 picturestory b 
+11.27.53.581600 PL31 picturestory b 
+11.27.53.597201 PL31 picturestory b 
+11.27.53.691219 PL31 picturestory b 
+11.27.53.691219 PL31 picturestory b 
+11.27.53.706588 PL31 picturestory b 
+11.27.53.863109 PL31 picturestory b 
+11.27.53.878484 PL31 picturestory b 
+11.27.53.878484 PL31 picturestory b 
+11.27.53.956894 PL31 picturestory b 
+11.27.53.972242 PL31 picturestory b 
+11.27.53.972242 PL31 picturestory b 
+11.27.54.128545 PL31 picturestory b 
+11.27.54.128545 PL31 picturestory b 
+11.27.54.144161 PL31 picturestory b 
+11.27.54.222817 PL31 picturestory b 
+11.27.54.222817 PL31 picturestory b 
+11.27.54.238350 PL31 picturestory b 
+11.27.54.363589 PL31 picturestory b 
+11.27.54.378980 PL31 picturestory b 
+11.27.54.378980 PL31 picturestory b 
+11.27.54.488599 PL31 picturestory b 
+11.27.54.503968 PL31 picturestory b 
+11.27.54.519633 PL31 picturestory b 
+11.27.54.691765 PL31 picturestory b 
+11.27.54.707115 PL31 picturestory b 
+11.27.54.707115 PL31 picturestory b 
+11.27.54.910537 PL31 picturestory b 
+11.27.54.925888 PL31 picturestory b 
+11.27.54.925888 PL31 picturestory b 
+11.27.55.129279 PL31 picturestory b 
+11.27.55.144699 PL31 picturestory b 
+11.27.55.144699 PL31 picturestory b 
+11.27.55.379315 PL31 picturestory b 
+11.27.55.394687 PL31 picturestory b 
+11.27.55.394687 PL31 picturestory b 
+11.27.55.629343 PL31 picturestory b 
+11.27.55.629343 PL31 picturestory b 
+11.27.55.644739 PL31 picturestory b 
+11.27.55.801243 PL31 picturestory b 
+11.27.55.816632 PL31 picturestory b 
+11.27.55.816632 PL31 picturestory b 
+11.27.56.020033 PL31 picturestory b 
+11.27.56.035406 PL31 picturestory b 
+11.27.56.051022 PL31 picturestory b 
+11.27.56.176035 PL31 picturestory b 
+11.27.56.176035 PL31 picturestory b 
+11.27.56.191646 PL31 picturestory b 
+11.27.56.379422 PL31 picturestory b 
+11.27.56.394836 PL31 picturestory b 
+11.27.56.410420 PL31 picturestory b 
+11.27.56.535692 PL31 picturestory b 
+11.27.56.551060 PL31 picturestory b 
+11.27.56.551060 PL31 picturestory b 
+11.27.56.722978 PL31 picturestory b 
+11.27.56.722978 PL31 picturestory b 
+11.27.56.738617 PL31 picturestory b 
+11.27.56.816964 PL31 picturestory b 
+11.27.56.816964 PL31 picturestory b 
+11.27.56.832376 PL31 picturestory b 
+11.27.57.004489 PL31 picturestory b 
+11.27.57.019885 PL31 picturestory b 
+11.27.57.035490 PL31 picturestory b 
+11.27.57.113884 PL31 picturestory b 
+11.27.57.113884 PL31 picturestory b 
+11.27.57.129251 PL31 picturestory b 
+11.27.57.270143 PL31 picturestory b 
+11.27.57.285550 PL31 picturestory b 
+11.27.57.285550 PL31 picturestory b 
+11.27.57.395172 PL31 picturestory b 
+11.27.57.395172 PL31 picturestory b 
+11.27.57.410568 PL31 picturestory b 
+11.27.57.613934 PL31 picturestory b 
+11.27.57.629298 PL31 picturestory b 
+11.27.57.629298 PL31 picturestory b 
+11.27.57.738958 PL31 picturestory b 
+11.27.57.738958 PL31 picturestory b 
+11.27.57.754336 PL31 picturestory b 
+11.27.57.910831 PL31 picturestory b 
+11.27.57.926246 PL31 picturestory b 
+11.27.57.926246 PL31 picturestory b 
+11.27.58.306735 PL31 picturestory b 
+11.27.58.322146 PL31 picturestory b 
+11.27.58.337772 PL31 picturestory b 
+11.27.58.447366 PL31 picturestory b 
+11.27.58.462770 PL31 picturestory b 
+11.27.58.478398 PL31 picturestory b 
+11.27.58.619287 PL31 picturestory b 
+11.27.58.634664 PL31 picturestory b 
+11.27.58.650303 PL31 picturestory b 
+11.27.58.884926 PL31 picturestory b 
+11.27.58.915952 PL31 picturestory b 
+11.27.58.931594 PL31 picturestory b 
+11.27.59.009921 PL31 picturestory b 
+11.27.59.040971 PL31 picturestory b 
+11.27.59.056595 PL31 picturestory b 
+11.27.59.484364 PL31 picturestory b 
+11.27.59.499969 PL31 picturestory b 
+11.27.59.515626 PL31 picturestory b 
+11.27.59.625236 PL31 picturestory b 
+11.27.59.640624 PL31 picturestory b 
+11.27.59.656237 PL31 picturestory b 
+11.28.00.078408 PL31 picturestory b 
+11.28.00.093796 PL31 picturestory b 
+11.28.00.109444 PL31 picturestory b 
+11.28.00.219064 PL31 picturestory b 
+11.28.00.234437 PL31 picturestory b 
+11.28.00.250078 PL31 picturestory b 
+11.28.00.531329 PL31 picturestory b 
+11.28.00.531329 PL31 picturestory b 
+11.28.00.546977 PL31 picturestory b 
+11.28.00.656576 PL31 picturestory b 
+11.28.00.671959 PL31 picturestory b 
+11.28.00.687586 PL31 picturestory b 
+11.28.00.968897 PL31 picturestory b 
+11.28.00.984493 PL31 picturestory b 
+11.28.00.984493 PL31 picturestory b 
+11.28.01.156432 PL31 picturestory b 
+11.28.01.172309 PL31 picturestory b 
+11.28.01.187976 PL31 picturestory b 
+11.28.01.391357 PL31 picturestory b 
+11.28.01.406755 PL31 picturestory b 
+11.28.01.422337 PL31 picturestory b 
+11.28.01.563241 PL31 picturestory b 
+11.28.01.563241 PL31 picturestory b 
+11.28.01.578642 PL31 picturestory b 
+11.28.01.797606 PL31 picturestory b 
+11.28.01.797606 PL31 picturestory b 
+11.28.01.813028 PL31 picturestory b 
+11.28.01.922633 PL31 picturestory b 
+11.28.01.938017 PL31 picturestory b 
+11.28.01.953678 PL31 picturestory b 
+11.28.02.106108 PL31 picturestory b 
+11.28.02.106108 PL31 picturestory b 
+11.28.02.121485 PL31 picturestory b 
+11.28.02.246547 PL31 picturestory b 
+11.28.02.246547 PL31 picturestory b 
+11.28.02.262101 PL31 picturestory b 
+11.28.02.434267 PL31 picturestory b 
+11.28.02.434267 PL31 picturestory b 
+11.28.02.449645 PL31 picturestory b 
+11.28.02.528018 PL31 picturestory b 
+11.28.02.543408 PL31 picturestory b 
+11.28.02.559007 PL31 picturestory b 
+11.28.02.699897 PL31 picturestory b 
+11.28.02.715300 PL31 picturestory b 
+11.28.02.730900 PL31 picturestory b 
+11.28.02.824693 PL31 picturestory b 
+11.28.02.840287 PL31 picturestory b 
+11.28.02.840287 PL31 picturestory b 
+11.28.03.012421 PL31 picturestory b 
+11.28.03.012421 PL31 picturestory b 
+11.28.03.027845 PL31 picturestory b 
+11.28.03.168541 PL31 picturestory b 
+11.28.03.168541 PL31 picturestory b 
+11.28.03.184375 PL31 picturestory b 
+11.28.03.340920 PL31 picturestory b 
+11.28.03.356270 PL31 picturestory b 
+11.28.03.371898 PL31 picturestory b 
+11.28.03.512813 PL31 picturestory b 
+11.28.03.528164 PL31 picturestory b 
+11.28.03.543830 PL31 picturestory b 
+11.28.03.684675 PL31 picturestory b 
+11.28.03.700095 PL31 picturestory b 
+11.28.03.715718 PL31 picturestory b 
+11.28.03.840731 PL31 picturestory b 
+11.28.03.840731 PL31 picturestory b 
+11.28.03.856323 PL31 picturestory b 
+11.28.04.028266 PL31 picturestory b 
+11.28.04.028266 PL31 picturestory b 
+11.28.04.043868 PL31 picturestory b 
+11.28.04.184759 PL31 picturestory b 
+11.28.04.200135 PL31 picturestory b 
+11.28.04.215772 PL31 picturestory b 
+11.28.04.372257 PL31 picturestory b 
+11.28.04.372257 PL31 picturestory b 
+11.28.04.387654 PL31 picturestory b 
+11.28.04.559790 PL31 picturestory b 
+11.28.04.559790 PL31 picturestory b 
+11.28.04.575148 PL31 picturestory b 
+11.28.04.966080 PL31 picturestory b 
+11.28.04.966080 PL31 picturestory b 
+11.28.04.981441 PL31 picturestory b 
+11.28.05.122337 PL31 picturestory b 
+11.28.05.122337 PL31 picturestory b 
+11.28.05.137707 PL31 picturestory b 
+11.28.05.325503 PL31 picturestory b 
+11.28.05.340854 PL31 picturestory b 
+11.28.05.340854 PL31 picturestory b 
+11.28.05.481764 PL31 picturestory b 
+11.28.05.481764 PL31 picturestory b 
+11.28.05.497120 PL31 picturestory b 
+11.28.05.606776 PL31 picturestory b 
+11.28.05.606776 PL31 picturestory b 
+11.28.05.622159 PL31 picturestory b 
+11.28.05.731765 PL31 picturestory b 
+11.28.05.731765 PL31 picturestory b 
+11.28.05.747146 PL31 picturestory b 
+11.28.05.872425 PL31 picturestory b 
+11.28.05.872425 PL31 picturestory b 
+11.28.05.887812 PL31 picturestory b 
+11.28.06.013079 PL31 picturestory b 
+11.28.06.028427 PL31 picturestory b 
+11.28.06.028427 PL31 picturestory b 
+11.28.06.184958 PL31 picturestory b 
+11.28.06.200345 PL31 picturestory b 
+11.28.06.215971 PL31 picturestory b 
+11.28.06.325577 PL31 picturestory b 
+11.28.06.340998 PL31 picturestory b 
+11.28.06.340998 PL31 picturestory b 
+11.28.06.466214 PL31 picturestory b 
+11.28.06.466214 PL31 picturestory b 
+11.28.06.481599 PL31 picturestory b 
+11.28.06.623776 PL31 picturestory b 
+11.28.06.634814 PL31 picturestory b 
+11.28.06.648908 PL31 picturestory b 
+11.28.06.776804 PL31 picturestory b 
+11.28.06.776804 PL31 picturestory b 
+11.28.06.792189 PL31 picturestory b 
+11.28.06.948676 PL31 picturestory b 
+11.28.06.964058 PL31 picturestory b 
+11.28.06.979714 PL31 picturestory b 
+11.28.07.120570 PL31 picturestory b 
+11.28.07.135976 PL31 picturestory b 
+11.28.07.151602 PL31 picturestory b 
+11.28.07.323721 PL31 picturestory b 
+11.28.07.339099 PL31 picturestory b 
+11.28.07.339099 PL31 picturestory b 
+11.28.07.495628 PL31 picturestory b 
+11.28.07.511023 PL31 picturestory b 
+11.28.07.511023 PL31 picturestory b 
+11.28.07.667531 PL31 picturestory b 
+11.28.07.682908 PL31 picturestory b 
+11.28.07.698510 PL31 picturestory b 
+11.28.07.823782 PL31 picturestory b 
+11.28.07.823782 PL31 picturestory b 
+11.28.07.839193 PL31 picturestory b 
+11.28.07.901900 PL31 picturestory b 
+11.28.07.917309 PL31 picturestory b 
+11.28.07.917309 PL31 picturestory b 
+11.28.08.167356 PL31 picturestory b 
+11.28.08.167356 PL31 picturestory b 
+11.28.08.188151 PL31 picturestory b 
+11.28.08.484158 PL31 picturestory b 
+11.28.08.499557 PL31 picturestory b 
+11.28.08.515148 PL31 picturestory b 
+11.28.08.609153 PL31 picturestory b 
+11.28.08.624560 PL31 picturestory b 
+11.28.08.624560 PL31 picturestory b 
+11.28.08.952959 PL31 picturestory  
+11.28.08.952959 PL31 picturestory  
+11.28.08.968361 PL31 picturestory  
+11.28.09.031072 PL31 picturestory  
+11.28.09.046454 PL31 picturestory  
+11.28.09.062121 PL31 picturestory  
+11.28.09.374878 PL31 picturestory  
+11.28.09.390280 PL31 picturestory  
+11.28.09.405907 PL31 picturestory  
+11.28.09.609290 PL31 picturestory b 
+11.28.09.609290 PL31 picturestory b 
+11.28.09.624665 PL31 picturestory b 
+11.28.09.765535 PL31 picturestory b 
+11.28.09.765535 PL31 picturestory b 
+11.28.09.780945 PL31 picturestory b 
+11.28.09.953045 PL31 picturestory b 
+11.28.09.968452 PL31 picturestory b 
+11.28.09.984054 PL31 picturestory b 
+11.28.10.124920 PL31 picturestory b 
+11.28.10.124920 PL31 picturestory b 
+11.28.10.140353 PL31 picturestory b 
+11.28.10.406229 PL31 picturestory  
+11.28.10.421625 PL31 picturestory  
+11.28.10.437251 PL31 picturestory  
+11.28.10.437251 PL31 picturestory  
+11.28.10.452879 PL31 picturestory  
+11.28.10.452879 PL31 picturestory  
+11.28.10.843774 PL31 picturestory  
+11.28.10.843774 PL31 picturestory  
+11.28.10.859170 PL31 picturestory  
+11.28.11.234185 PL31 picturestory b 
+11.28.11.234185 PL31 picturestory b 
+11.28.11.249837 PL31 picturestory b 
+11.28.11.359443 PL31 picturestory b 
+11.28.11.374851 PL31 picturestory b 
+11.28.11.390476 PL31 picturestory b 
+11.28.11.578235 PL31 picturestory b 
+11.28.11.593598 PL31 picturestory b 
+11.28.11.593598 PL31 picturestory b 
+11.28.11.812616 PL31 picturestory b 
+11.28.11.828036 PL31 picturestory b 
+11.28.11.843663 PL31 picturestory b 
+11.28.12.046816 PL31 picturestory b 
+11.28.12.046816 PL31 picturestory b 
+11.28.12.062397 PL31 picturestory b 
+11.28.12.234561 PL31 picturestory b 
+11.28.12.249917 PL31 picturestory b 
+11.28.12.249917 PL31 picturestory b 
+11.28.12.453309 PL31 picturestory b 
+11.28.12.468729 PL31 picturestory b 
+11.28.12.468729 PL31 picturestory b 
+11.28.12.718993 PL31 picturestory  
+11.28.12.734381 PL31 picturestory  
+11.28.12.749986 PL31 picturestory  
+11.28.12.875250 PL31 picturestory  
+11.28.12.875250 PL31 picturestory  
+11.28.12.890650 PL31 picturestory  
+11.28.13.172131 PL31 picturestory b 
+11.28.13.187540 PL31 picturestory b 
+11.28.13.203457 PL31 picturestory b 
+11.28.13.422496 PL31 picturestory b 
+11.28.13.437883 PL31 picturestory b 
+11.28.13.437883 PL31 picturestory b 
+11.28.13.875656 PL31 picturestory b 
+11.28.13.875656 PL31 picturestory b 
+11.28.13.891031 PL31 picturestory b 
+11.28.14.000661 PL31 picturestory  
+11.28.14.000661 PL31 picturestory  
+11.28.14.016085 PL31 picturestory  
+11.28.14.156930 PL31 picturestory  
+11.28.14.156930 PL31 picturestory  
+11.28.14.172313 PL31 picturestory  
+11.28.14.281968 PL31 picturestory b 
+11.28.14.297326 PL31 picturestory b 
+11.28.14.297326 PL31 picturestory b 
+11.28.14.359830 PL31 picturestory b 
+11.28.14.375456 PL31 picturestory b 
+11.28.14.391084 PL31 picturestory b 
+11.28.14.547350 PL31 picturestory b 
+11.28.14.562977 PL31 picturestory b 
+11.28.14.578604 PL31 picturestory b 
+11.28.14.594233 PL31 picturestory b 
+11.28.14.594233 PL31 picturestory b 
+11.28.14.609857 PL31 picturestory b 
+11.28.14.813275 PL31 picturestory b 
+11.28.14.828630 PL31 picturestory b 
+11.28.14.844269 PL31 picturestory b 
+11.28.14.859889 PL31 picturestory b 
+11.28.14.859889 PL31 picturestory b 
+11.28.14.875511 PL31 picturestory b 
+11.28.15.110155 PL31 picturestory b 
+11.28.15.110155 PL31 picturestory b 
+11.28.15.125536 PL31 picturestory b 
+11.28.15.219540 PL31 picturestory b 
+11.28.15.234923 PL31 picturestory b 
+11.28.15.250550 PL31 picturestory b 
+11.28.15.360211 PL31 picturestory  
+11.28.15.375562 PL31 picturestory  
+11.28.15.391222 PL31 picturestory  
+11.28.15.453697 PL31 picturestory  
+11.28.15.453697 PL31 picturestory  
+11.28.15.469325 PL31 picturestory  
+11.28.15.610202 PL31 picturestory b 
+11.28.15.625614 PL31 picturestory b 
+11.28.15.625614 PL31 picturestory b 
+11.28.15.703785 PL31 picturestory b 
+11.28.15.703785 PL31 picturestory b 
+11.28.15.719351 PL31 picturestory b 
+11.28.15.859988 PL31 picturestory b 
+11.28.15.875666 PL31 picturestory b 
+11.28.15.875666 PL31 picturestory b 
+11.28.15.922761 PL31 picturestory b 
+11.28.15.938162 PL31 picturestory b 
+11.28.15.953789 PL31 picturestory b 
+11.28.16.094656 PL31 picturestory b 
+11.28.16.110041 PL31 picturestory b 
+11.28.16.110041 PL31 picturestory b 
+11.28.16.141532 PL31 picturestory b 
+11.28.16.141532 PL31 picturestory b 
+11.28.16.156921 PL31 picturestory b 
+11.28.16.376326 PL31 picturestory b 
+11.28.16.391720 PL31 picturestory b 
+11.28.16.407323 PL31 picturestory b 
+11.28.16.423004 PL31 picturestory b 
+11.28.16.423004 PL31 picturestory b 
+11.28.16.438624 PL31 picturestory b 
+11.28.16.548208 PL31 picturestory b 
+11.28.16.563588 PL31 picturestory b 
+11.28.16.563588 PL31 picturestory b 
+11.28.16.704482 PL31 picturestory b 
+11.28.16.719893 PL31 picturestory b 
+11.28.16.735507 PL31 picturestory b 
+11.28.16.766986 PL31 picturestory b 
+11.28.16.782386 PL31 picturestory b 
+11.28.16.782386 PL31 picturestory b 
+11.28.16.923268 PL31 picturestory b 
+11.28.16.938656 PL31 picturestory b 
+11.28.16.954279 PL31 picturestory b 
+11.28.16.985772 PL31 picturestory b 
+11.28.17.001185 PL31 picturestory b 
+11.28.17.016779 PL31 picturestory b 
+11.28.17.235772 PL31 picturestory b 
+11.28.17.235772 PL31 picturestory b 
+11.28.17.251194 PL31 picturestory b 
+11.28.17.266796 PL31 picturestory b 
+11.28.17.266796 PL31 picturestory b 
+11.28.17.282453 PL31 picturestory b 
+11.28.17.454570 PL31 picturestory b 
+11.28.17.469963 PL31 picturestory b 
+11.28.17.469963 PL31 picturestory b 
+11.28.17.735842 PL31 picturestory b 
+11.28.17.751224 PL31 picturestory b 
+11.28.17.751224 PL31 picturestory b 
+11.28.17.766866 PL31 picturestory b 
+11.28.17.782505 PL31 picturestory b 
+11.28.17.782505 PL31 picturestory b 
+11.28.18.345290 PL31 picturestory b 
+11.28.18.360678 PL31 picturestory b 
+11.28.18.376305 PL31 picturestory b 
+11.28.19.189113 PL31 picturestory b 
+11.28.19.189113 PL31 picturestory b 
+11.28.19.204781 PL31 picturestory b 
+11.28.19.455076 PL31 picturestory b 
+11.28.19.470436 PL31 picturestory b 
+11.28.19.470436 PL31 picturestory b 
+11.28.19.580071 PL31 picturestory b 
+11.28.19.595467 PL31 picturestory b 
+11.28.19.595467 PL31 picturestory b 
+11.28.19.783214 PL31 picturestory  
+11.28.19.798595 PL31 picturestory  
+11.28.19.814246 PL31 picturestory  
+11.28.20.095541 PL31 picturestory  
+11.28.20.095541 PL31 picturestory  
+11.28.20.111154 PL31 picturestory  
+11.28.20.189523 PL31 picturestory b 
+11.28.20.204890 PL31 picturestory b 
+11.28.20.204890 PL31 picturestory b 
+11.28.20.330149 PL31 picturestory b 
+11.28.20.345527 PL31 picturestory b 
+11.28.20.345527 PL31 picturestory b 
+11.28.21.002106 PL31 picturestory b 
+11.28.21.002106 PL31 picturestory b 
+11.28.21.017512 PL31 picturestory b 
+11.28.21.173991 PL31 picturestory b 
+11.28.21.173991 PL31 picturestory b 
+11.28.21.189405 PL31 picturestory b 
+11.28.21.361524 PL31 picturestory b 
+11.28.21.376912 PL31 picturestory b 
+11.28.21.376912 PL31 picturestory b 
+11.28.21.502154 PL31 picturestory b 
+11.28.21.517566 PL31 picturestory b 
+11.28.21.517566 PL31 picturestory b 
+11.28.21.627158 PL31 picturestory b 
+11.28.21.642577 PL31 picturestory b 
+11.28.21.658192 PL31 picturestory b 
+11.28.21.861570 PL31 picturestory b 
+11.28.21.861570 PL31 picturestory b 
+11.28.21.877031 PL31 picturestory b 
+11.28.21.924066 PL31 picturestory  
+11.28.21.939485 PL31 picturestory  
+11.28.21.955108 PL31 picturestory  
+11.28.22.127191 PL31 picturestory  
+11.28.22.142618 PL31 picturestory  
+11.28.22.158245 PL31 picturestory  
+11.28.22.267843 PL31 picturestory b 
+11.28.22.283258 PL31 picturestory b 
+11.28.22.283258 PL31 picturestory b 
+11.28.22.408491 PL31 picturestory b 
+11.28.22.408491 PL31 picturestory b 
+11.28.22.423910 PL31 picturestory b 
+11.28.22.627263 PL31 picturestory  
+11.28.22.642671 PL31 picturestory  
+11.28.22.642671 PL31 picturestory  
+11.28.22.924180 PL31 picturestory  
+11.28.22.939552 PL31 picturestory  
+11.28.22.939552 PL31 picturestory  
+11.28.23.127316 PL31 picturestory b 
+11.28.23.142732 PL31 picturestory b 
+11.28.23.142732 PL31 picturestory b 
+11.28.23.564848 PL31 picturestory b 
+11.28.23.580243 PL31 picturestory b 
+11.28.23.595895 PL31 picturestory b 
+11.28.23.799263 PL31 picturestory  
+11.28.23.814669 PL31 picturestory  
+11.28.23.814669 PL31 picturestory  
+11.28.23.970910 PL31 picturestory  
+11.28.23.970910 PL31 picturestory  
+11.28.23.986539 PL31 picturestory  
+11.28.24.439962 PL31 picturestory b 
+11.28.24.455336 PL31 picturestory b 
+11.28.24.455336 PL31 picturestory b 
+11.28.24.580604 PL31 picturestory b 
+11.28.24.595977 PL31 picturestory b 
+11.28.24.611617 PL31 picturestory b 
+11.28.24.783729 PL31 picturestory b 
+11.28.24.783729 PL31 picturestory b 
+11.28.24.799129 PL31 picturestory b 
+11.28.25.002547 PL31 picturestory b 
+11.28.25.017921 PL31 picturestory b 
+11.28.25.017921 PL31 picturestory b 
+11.28.25.174408 PL31 picturestory b 
+11.28.25.189815 PL31 picturestory b 
+11.28.25.189815 PL31 picturestory b 
+11.28.25.362175 PL31 picturestory b 
+11.28.25.362175 PL31 picturestory b 
+11.28.25.377561 PL31 picturestory b 
+11.28.25.721602 PL31 picturestory b 
+11.28.25.736975 PL31 picturestory b 
+11.28.25.736975 PL31 picturestory b 
+11.28.25.877859 PL31 picturestory b 
+11.28.25.893279 PL31 picturestory b 
+11.28.25.893279 PL31 picturestory b 
+11.28.26.065398 PL31 picturestory  
+11.28.26.080785 PL31 picturestory  
+11.28.26.080785 PL31 picturestory  
+11.28.26.190147 PL31 picturestory  
+11.28.26.190147 PL31 picturestory  
+11.28.26.205773 PL31 picturestory  
+11.28.26.346680 PL31 picturestory b 
+11.28.26.362064 PL31 picturestory b 
+11.28.26.377667 PL31 picturestory b 
+11.28.26.518307 PL31 picturestory b 
+11.28.26.518307 PL31 picturestory b 
+11.28.26.533960 PL31 picturestory b 
+11.28.26.659193 PL31 picturestory  
+11.28.26.659193 PL31 picturestory  
+11.28.26.674580 PL31 picturestory  
+11.28.26.830839 PL31 picturestory  
+11.28.26.846472 PL31 picturestory  
+11.28.26.846472 PL31 picturestory  
+11.28.26.956097 PL31 picturestory b 
+11.28.26.971487 PL31 picturestory b 
+11.28.26.971487 PL31 picturestory b 
+11.28.27.331153 PL31 picturestory b 
+11.28.27.346519 PL31 picturestory b 
+11.28.27.346519 PL31 picturestory b 
+11.28.27.487203 PL31 picturestory b 
+11.28.27.487203 PL31 picturestory b 
+11.28.27.502821 PL31 picturestory b 
+11.28.27.643681 PL31 picturestory b 
+11.28.27.659079 PL31 picturestory b 
+11.28.27.659079 PL31 picturestory b 
+11.28.27.784308 PL31 picturestory b 
+11.28.27.799729 PL31 picturestory b 
+11.28.27.815356 PL31 picturestory b 
+11.28.27.956204 PL31 picturestory b 
+11.28.27.971616 PL31 picturestory b 
+11.28.27.971616 PL31 picturestory b 
+11.28.28.206317 PL31 picturestory b 
+11.28.28.206317 PL31 picturestory b 
+11.28.28.221945 PL31 picturestory b 
+11.28.28.367436 PL31 picturestory b 
+11.28.28.382808 PL31 picturestory b 
+11.28.28.382808 PL31 picturestory b 
+11.28.28.492457 PL31 picturestory b 
+11.28.28.507820 PL31 picturestory b 
+11.28.28.523487 PL31 picturestory b 
+11.28.28.664337 PL31 picturestory b 
+11.28.28.679714 PL31 picturestory b 
+11.28.28.695364 PL31 picturestory b 
+11.28.28.836223 PL31 picturestory b 
+11.28.28.851655 PL31 picturestory b 
+11.28.28.867284 PL31 picturestory b 
+11.28.29.008140 PL31 picturestory b 
+11.28.29.023539 PL31 picturestory b 
+11.28.29.039165 PL31 picturestory b 
+11.28.29.117530 PL31 picturestory b 
+11.28.29.132886 PL31 picturestory b 
+11.28.29.148513 PL31 picturestory b 
+11.28.29.305044 PL31 picturestory b 
+11.28.29.320406 PL31 picturestory b 
+11.28.29.320406 PL31 picturestory b 
+11.28.29.539447 PL31 picturestory b 
+11.28.29.554806 PL31 picturestory b 
+11.28.29.570475 PL31 picturestory b 
+11.28.29.702407 PL31 picturestory b 
+11.28.29.702407 PL31 picturestory b 
+11.28.29.717760 PL31 picturestory b 
+11.28.29.843873 PL31 picturestory b 
+11.28.29.853466 PL31 picturestory b 
+11.28.29.853466 PL31 picturestory b 
+11.28.30.088111 PL31 picturestory b 
+11.28.30.103531 PL31 picturestory b 
+11.28.30.119157 PL31 picturestory b 
+11.28.30.228770 PL31 picturestory b 
+11.28.30.244146 PL31 picturestory b 
+11.28.30.259797 PL31 picturestory b 
+11.28.30.416268 PL31 picturestory b 
+11.28.30.416268 PL31 picturestory b 
+11.28.30.431677 PL31 picturestory b 
+11.28.30.572291 PL31 picturestory b 
+11.28.30.572291 PL31 picturestory b 
+11.28.30.587959 PL31 picturestory b 
+11.28.30.697533 PL31 picturestory b 
+11.28.30.712972 PL31 picturestory b 
+11.28.30.728598 PL31 picturestory b 
+11.28.30.838209 PL31 picturestory b 
+11.28.30.853606 PL31 picturestory b 
+11.28.30.853606 PL31 picturestory b 
+11.28.30.978854 PL31 picturestory b 
+11.28.30.994219 PL31 picturestory b 
+11.28.30.994219 PL31 picturestory b 
+11.28.31.166369 PL31 picturestory b 
+11.28.31.181732 PL31 picturestory b 
+11.28.31.181732 PL31 picturestory b 
+11.28.31.306744 PL31 picturestory b 
+11.28.31.306744 PL31 picturestory b 
+11.28.31.322409 PL31 picturestory b 
+11.28.31.463012 PL31 picturestory b 
+11.28.31.478671 PL31 picturestory b 
+11.28.31.494266 PL31 picturestory b 
+11.28.31.634915 PL31 picturestory b 
+11.28.31.634915 PL31 picturestory b 
+11.28.31.650556 PL31 picturestory b 
+11.28.31.791436 PL31 picturestory b 
+11.28.31.806822 PL31 picturestory b 
+11.28.31.806822 PL31 picturestory b 
+11.28.31.947687 PL31 picturestory b 
+11.28.31.947687 PL31 picturestory b 
+11.28.31.963100 PL31 picturestory b 
+11.28.32.009944 PL31 picturestory b 
+11.28.32.009944 PL31 picturestory b 
+11.28.32.025599 PL31 picturestory b 
+11.28.32.197729 PL31 picturestory b 
+11.28.32.197729 PL31 picturestory b 
+11.28.32.213454 PL31 picturestory b 
+11.28.32.385616 PL31 picturestory  
+11.28.32.385616 PL31 picturestory  
+11.28.32.400989 PL31 picturestory  
+11.28.46.046635 PL31 picturestory r 
+11.28.46.062011 PL31 picturestory r 
+11.28.46.077639 PL31 picturestory r 
+11.28.46.077639 PL31 picturestory r 
+11.28.46.343309 PL31 picturestory rr 
+11.28.46.358893 PL31 picturestory rr 
+11.28.46.358893 PL31 picturestory rr 
+11.28.46.374520 PL31 picturestory rr 
+11.28.46.437283 PL31 picturestory rr 
+11.28.46.452679 PL31 picturestory rr 
+11.28.46.468305 PL31 picturestory rr 
+11.28.46.468305 PL31 picturestory rr 
+11.28.46.624807 PL31 picturestory r 
+11.28.46.640198 PL31 picturestory r 
+11.28.46.640198 PL31 picturestory r 
+11.28.46.655799 PL31 picturestory r 
+11.28.46.749812 PL31 picturestory r 
+11.28.46.765227 PL31 picturestory r 
+11.28.46.765227 PL31 picturestory r 
+11.28.46.780850 PL31 picturestory r 
+11.28.46.890460 PL31 picturestory r 
+11.28.46.905863 PL31 picturestory r 
+11.28.46.905863 PL31 picturestory r 
+11.28.46.921491 PL31 picturestory r 
+11.28.46.984220 PL31 picturestory r 
+11.28.46.999611 PL31 picturestory r 
+11.28.47.015214 PL31 picturestory r 
+11.28.47.015214 PL31 picturestory r 
+11.28.47.093619 PL31 picturestory r 
+11.28.47.109000 PL31 picturestory r 
+11.28.47.109000 PL31 picturestory r 
+11.28.47.124623 PL31 picturestory r 
+11.28.47.187353 PL31 picturestory r 
+11.28.47.202732 PL31 picturestory r 
+11.28.47.218408 PL31 picturestory r 
+11.28.47.218408 PL31 picturestory r 
+11.28.47.312394 PL31 picturestory r 
+11.28.47.312394 PL31 picturestory r 
+11.28.47.327744 PL31 picturestory r 
+11.28.47.327744 PL31 picturestory r 
+11.28.47.374869 PL31 picturestory r 
+11.28.47.374869 PL31 picturestory r 
+11.28.47.390291 PL31 picturestory r 
+11.28.47.405916 PL31 picturestory r 
+11.28.47.531156 PL31 picturestory r 
+11.28.47.546542 PL31 picturestory r 
+11.28.47.562147 PL31 picturestory r 
+11.28.47.562147 PL31 picturestory r 
+11.28.47.577808 PL31 picturestory r 
+11.28.47.593438 PL31 picturestory r 
+11.28.47.593438 PL31 picturestory r 
+11.28.47.609026 PL31 picturestory r 
+11.28.47.749941 PL31 picturestory r 
+11.28.47.765332 PL31 picturestory r 
+11.28.47.780917 PL31 picturestory r 
+11.28.47.780917 PL31 picturestory r 
+11.28.47.890304 PL31 picturestory r 
+11.28.47.905972 PL31 picturestory r 
+11.28.47.921558 PL31 picturestory r 
+11.28.47.921558 PL31 picturestory r 
+11.28.47.999963 PL31 picturestory r 
+11.28.48.015349 PL31 picturestory r 
+11.28.48.015349 PL31 picturestory r 
+11.28.48.030944 PL31 picturestory r 
+11.28.48.109344 PL31 picturestory r 
+11.28.48.109344 PL31 picturestory r 
+11.28.48.124710 PL31 picturestory r 
+11.28.48.124710 PL31 picturestory r 
+11.28.48.234350 PL31 picturestory r 
+11.28.48.250016 PL31 picturestory r 
+11.28.48.250016 PL31 picturestory r 
+11.28.48.265644 PL31 picturestory r 
+11.28.48.375031 PL31 picturestory r 
+11.28.48.375031 PL31 picturestory r 
+11.28.48.390696 PL31 picturestory r 
+11.28.48.406323 PL31 picturestory r 
+11.28.48.469065 PL31 picturestory r 
+11.28.48.469065 PL31 picturestory r 
+11.28.48.484417 PL31 picturestory r 
+11.28.48.500044 PL31 picturestory r 
+11.28.48.578427 PL31 picturestory r 
+11.28.48.593803 PL31 picturestory r 
+11.28.48.609430 PL31 picturestory r 
+11.28.48.609430 PL31 picturestory r 
+11.28.48.672201 PL31 picturestory r 
+11.28.48.687563 PL31 picturestory r 
+11.28.48.687563 PL31 picturestory r 
+11.28.48.703190 PL31 picturestory r 
+11.28.48.844103 PL31 picturestory r 
+11.28.48.844103 PL31 picturestory r 
+11.28.48.859456 PL31 picturestory r 
+11.28.48.875084 PL31 picturestory r 
+11.28.48.890975 PL31 picturestory r 
+11.28.48.906336 PL31 picturestory r 
+11.28.48.921963 PL31 picturestory r 
+11.28.48.921963 PL31 picturestory r 
+11.28.49.062878 PL31 picturestory r 
+11.28.49.078229 PL31 picturestory r 
+11.28.49.078229 PL31 picturestory r 
+11.28.49.093856 PL31 picturestory r 
+11.28.49.140783 PL31 picturestory r 
+11.28.49.156363 PL31 picturestory r 
+11.28.49.171989 PL31 picturestory r 
+11.28.49.171989 PL31 picturestory r 
+11.28.49.265995 PL31 picturestory r 
+11.28.49.265995 PL31 picturestory r 
+11.28.49.281407 PL31 picturestory r 
+11.28.49.297036 PL31 picturestory r 
+11.28.49.437899 PL31 picturestory r 
+11.28.49.437899 PL31 picturestory r 
+11.28.49.453269 PL31 picturestory r 
+11.28.49.468896 PL31 picturestory r 
+11.28.49.672315 PL31 picturestory rr 
+11.28.49.687669 PL31 picturestory rr 
+11.28.49.687669 PL31 picturestory rr 
+11.28.49.703322 PL31 picturestory rr 
+11.28.49.781697 PL31 picturestory rr 
+11.28.49.797056 PL31 picturestory rr 
+11.28.49.797056 PL31 picturestory rr 
+11.28.49.812720 PL31 picturestory rr 
+11.28.49.922343 PL31 picturestory r 
+11.28.49.937721 PL31 picturestory r 
+11.28.49.937721 PL31 picturestory r 
+11.28.49.953351 PL31 picturestory r 
+11.28.50.000467 PL31 picturestory r 
+11.28.50.015867 PL31 picturestory r 
+11.28.50.031493 PL31 picturestory r 
+11.28.50.031493 PL31 picturestory r 
+11.28.50.187968 PL31 picturestory r 
+11.28.50.187968 PL31 picturestory r 
+11.28.50.203382 PL31 picturestory r 
+11.28.50.218975 PL31 picturestory r 
+11.28.50.344450 PL31 picturestory r 
+11.28.50.344450 PL31 picturestory r 
+11.28.50.359997 PL31 picturestory r 
+11.28.50.375626 PL31 picturestory r 
+11.28.50.454002 PL31 picturestory r 
+11.28.50.469384 PL31 picturestory r 
+11.28.50.469384 PL31 picturestory r 
+11.28.50.485011 PL31 picturestory r 
+11.28.50.579032 PL31 picturestory r 
+11.28.50.579032 PL31 picturestory r 
+11.28.50.594397 PL31 picturestory r 
+11.28.50.610053 PL31 picturestory r 
+11.28.50.719666 PL31 picturestory r 
+11.28.50.735039 PL31 picturestory r 
+11.28.50.735039 PL31 picturestory r 
+11.28.50.750665 PL31 picturestory r 
+11.28.50.860324 PL31 picturestory r 
+11.28.50.860324 PL31 picturestory r 
+11.28.50.875702 PL31 picturestory r 
+11.28.50.891322 PL31 picturestory r 
+11.28.51.000716 PL31 picturestory r 
+11.28.51.000716 PL31 picturestory r 
+11.28.51.016317 PL31 picturestory r 
+11.28.51.031943 PL31 picturestory r 
+11.28.51.125968 PL31 picturestory r 
+11.28.51.125968 PL31 picturestory r 
+11.28.51.141329 PL31 picturestory r 
+11.28.51.156957 PL31 picturestory r 
+11.28.51.344721 PL31 picturestory r 
+11.28.51.344721 PL31 picturestory r 
+11.28.51.360103 PL31 picturestory r 
+11.28.51.375730 PL31 picturestory r 
+11.28.51.485360 PL31 picturestory r 
+11.28.51.485360 PL31 picturestory r 
+11.28.51.500743 PL31 picturestory r 
+11.28.51.516395 PL31 picturestory r 
+11.28.51.610394 PL31 picturestory r 
+11.28.51.625756 PL31 picturestory r 
+11.28.51.641383 PL31 picturestory r 
+11.28.51.641383 PL31 picturestory r 
+11.28.51.735407 PL31 picturestory r 
+11.28.51.750770 PL31 picturestory r 
+11.28.51.766396 PL31 picturestory r 
+11.28.51.766396 PL31 picturestory r 
+11.28.51.860436 PL31 picturestory r 
+11.28.51.875807 PL31 picturestory r 
+11.28.51.875807 PL31 picturestory r 
+11.28.51.891459 PL31 picturestory r 
+11.28.52.001072 PL31 picturestory r 
+11.28.52.016449 PL31 picturestory r 
+11.28.52.032087 PL31 picturestory r 
+11.28.52.032087 PL31 picturestory r 
+11.28.52.126070 PL31 picturestory r 
+11.28.52.141446 PL31 picturestory r 
+11.28.52.141446 PL31 picturestory r 
+11.28.52.157087 PL31 picturestory r 
+11.28.52.251131 PL31 picturestory r 
+11.28.52.251131 PL31 picturestory r 
+11.28.52.266794 PL31 picturestory r 
+11.28.52.282419 PL31 picturestory r 
+11.28.52.360771 PL31 picturestory r 
+11.28.52.376185 PL31 picturestory r 
+11.28.52.391816 PL31 picturestory r 
+11.28.52.391816 PL31 picturestory r 
+11.28.52.517059 PL31 picturestory r 
+11.28.52.532413 PL31 picturestory r 
+11.28.52.532413 PL31 picturestory r 
+11.28.52.548039 PL31 picturestory r 
+11.28.52.642072 PL31 picturestory r 
+11.28.52.657425 PL31 picturestory r 
+11.28.52.657425 PL31 picturestory r 
+11.28.52.673052 PL31 picturestory r 
+11.28.52.751449 PL31 picturestory r 
+11.28.52.766812 PL31 picturestory r 
+11.28.52.766812 PL31 picturestory r 
+11.28.52.782477 PL31 picturestory r 
+11.28.52.907709 PL31 picturestory r 
+11.28.52.907709 PL31 picturestory r 
+11.28.52.923078 PL31 picturestory r 
+11.28.52.938705 PL31 picturestory r 
+11.28.53.048344 PL31 picturestory r 
+11.28.53.063754 PL31 picturestory r 
+11.28.53.063754 PL31 picturestory r 
+11.28.53.079345 PL31 picturestory r 
+11.28.53.173369 PL31 picturestory r 
+11.28.53.188732 PL31 picturestory r 
+11.28.53.188732 PL31 picturestory r 
+11.28.53.204358 PL31 picturestory r 
+11.28.53.329616 PL31 picturestory r 
+11.28.53.344998 PL31 picturestory r 
+11.28.53.360624 PL31 picturestory r 
+11.28.53.360624 PL31 picturestory r 
+11.28.53.517154 PL31 picturestory r 
+11.28.53.532517 PL31 picturestory r 
+11.28.53.532517 PL31 picturestory r 
+11.28.53.548186 PL31 picturestory r 
+11.28.53.689012 PL31 picturestory r 
+11.28.53.689012 PL31 picturestory r 
+11.28.53.704411 PL31 picturestory r 
+11.28.53.720037 PL31 picturestory r 
+11.28.53.782815 PL31 picturestory r 
+11.28.53.798170 PL31 picturestory r 
+11.28.53.798170 PL31 picturestory r 
+11.28.53.813797 PL31 picturestory r 
+11.28.53.923431 PL31 picturestory r 
+11.28.53.923431 PL31 picturestory r 
+11.28.53.938811 PL31 picturestory r 
+11.28.53.954445 PL31 picturestory r 
+11.28.54.079690 PL31 picturestory r 
+11.28.54.095077 PL31 picturestory r 
+11.28.54.110703 PL31 picturestory r 
+11.28.54.110703 PL31 picturestory r 
+11.28.54.220371 PL31 picturestory r 
+11.28.54.220371 PL31 picturestory r 
+11.28.54.235723 PL31 picturestory r 
+11.28.54.235723 PL31 picturestory r 
+11.28.54.329721 PL31 picturestory r 
+11.28.54.345103 PL31 picturestory r 
+11.28.54.345103 PL31 picturestory r 
+11.28.54.360730 PL31 picturestory r 
+11.28.54.517270 PL31 picturestory r 
+11.28.54.517270 PL31 picturestory r 
+11.28.54.532673 PL31 picturestory r 
+11.28.54.548288 PL31 picturestory r 
+11.28.54.611033 PL31 picturestory r 
+11.28.54.626408 PL31 picturestory r 
+11.28.54.626408 PL31 picturestory r 
+11.28.54.642053 PL31 picturestory r 
+11.28.54.751633 PL31 picturestory r 
+11.28.54.767023 PL31 picturestory r 
+11.28.54.782649 PL31 picturestory r 
+11.28.54.782649 PL31 picturestory r 
+11.28.54.892075 PL31 picturestory r 
+11.28.54.892075 PL31 picturestory r 
+11.28.54.907736 PL31 picturestory r 
+11.28.54.907736 PL31 picturestory r 
+11.28.55.095455 PL31 picturestory r 
+11.28.55.095455 PL31 picturestory r 
+11.28.55.110849 PL31 picturestory r 
+11.28.55.126478 PL31 picturestory r 
+11.28.55.251728 PL31 picturestory r 
+11.28.55.251728 PL31 picturestory r 
+11.28.55.267075 PL31 picturestory r 
+11.28.55.282702 PL31 picturestory r 
+11.28.55.376708 PL31 picturestory r 
+11.28.55.376708 PL31 picturestory r 
+11.28.55.392090 PL31 picturestory r 
+11.28.55.407748 PL31 picturestory r 
+11.28.55.532754 PL31 picturestory r 
+11.28.55.532754 PL31 picturestory r 
+11.28.55.548381 PL31 picturestory r 
+11.28.55.563990 PL31 picturestory r 
+11.28.55.658014 PL31 picturestory r 
+11.28.55.673368 PL31 picturestory r 
+11.28.55.673368 PL31 picturestory r 
+11.28.55.688995 PL31 picturestory r 
+11.28.55.814031 PL31 picturestory r 
+11.28.55.814031 PL31 picturestory r 
+11.28.55.829635 PL31 picturestory r 
+11.28.55.845304 PL31 picturestory r 
+11.28.55.939267 PL31 picturestory r 
+11.28.55.939267 PL31 picturestory r 
+11.28.55.954676 PL31 picturestory r 
+11.28.55.970275 PL31 picturestory r 
+11.28.56.126773 PL31 picturestory r 
+11.28.56.126773 PL31 picturestory r 
+11.28.56.142193 PL31 picturestory r 
+11.28.56.157796 PL31 picturestory r 
+11.28.56.298686 PL31 picturestory r 
+11.28.56.314061 PL31 picturestory r 
+11.28.56.314061 PL31 picturestory r 
+11.28.56.329725 PL31 picturestory r 
+11.28.56.470600 PL31 picturestory r 
+11.28.56.470600 PL31 picturestory r 
+11.28.56.485985 PL31 picturestory r 
+11.28.56.501581 PL31 picturestory r 
+11.28.56.595343 PL31 picturestory r 
+11.28.56.595343 PL31 picturestory r 
+11.28.56.610993 PL31 picturestory r 
+11.28.56.610993 PL31 picturestory r 
+11.28.56.798761 PL31 picturestory r 
+11.28.56.798761 PL31 picturestory r 
+11.28.56.814114 PL31 picturestory r 
+11.28.56.829743 PL31 picturestory r 
+11.28.56.876885 PL31 picturestory r 
+11.28.56.876885 PL31 picturestory r 
+11.28.56.892273 PL31 picturestory r 
+11.28.56.907915 PL31 picturestory r 
+11.28.57.111262 PL31 picturestory r 
+11.28.57.111262 PL31 picturestory r 
+11.28.57.126697 PL31 picturestory r 
+11.28.57.142326 PL31 picturestory r 
+11.28.57.236282 PL31 picturestory  
+11.28.57.251999 PL31 picturestory  
+11.28.57.251999 PL31 picturestory  
+11.28.57.267627 PL31 picturestory  
+11.28.57.361629 PL31 picturestory  
+11.28.57.377024 PL31 picturestory  
+11.28.57.377024 PL31 picturestory  
+11.28.57.392640 PL31 picturestory  
+11.28.57.596035 PL31 picturestory  
+11.28.57.596035 PL31 picturestory  
+11.28.57.611413 PL31 picturestory  
+11.28.57.627040 PL31 picturestory  
+11.28.57.783565 PL31 picturestory r 
+11.28.57.798933 PL31 picturestory r 
+11.28.57.798933 PL31 picturestory r 
+11.28.57.814560 PL31 picturestory r 
+11.28.57.861481 PL31 picturestory r 
+11.28.57.861481 PL31 picturestory r 
+11.28.57.877066 PL31 picturestory r 
+11.28.57.877066 PL31 picturestory r 
+11.28.58.111714 PL31 picturestory  
+11.28.58.111714 PL31 picturestory  
+11.28.58.127126 PL31 picturestory  
+11.28.58.142757 PL31 picturestory  
+11.28.58.205497 PL31 picturestory  
+11.28.58.205497 PL31 picturestory  
+11.28.58.220852 PL31 picturestory  
+11.28.58.236479 PL31 picturestory  
+11.28.58.408626 PL31 picturestory r 
+11.28.58.408626 PL31 picturestory r 
+11.28.58.424020 PL31 picturestory r 
+11.28.58.439625 PL31 picturestory r 
+11.28.58.455506 PL31 picturestory r 
+11.28.58.470928 PL31 picturestory r 
+11.28.58.470928 PL31 picturestory r 
+11.28.58.486505 PL31 picturestory r 
+11.28.58.661774 PL31 picturestory r 
+11.28.58.677175 PL31 picturestory r 
+11.28.58.677175 PL31 picturestory r 
+11.28.58.692810 PL31 picturestory r 
+11.28.58.802403 PL31 picturestory r 
+11.28.58.817812 PL31 picturestory r 
+11.28.58.817812 PL31 picturestory r 
+11.28.58.833438 PL31 picturestory r 
+11.28.59.036814 PL31 picturestory r 
+11.28.59.052198 PL31 picturestory r 
+11.28.59.052198 PL31 picturestory r 
+11.28.59.067801 PL31 picturestory r 
+11.28.59.208686 PL31 picturestory r 
+11.28.59.224066 PL31 picturestory r 
+11.28.59.239719 PL31 picturestory r 
+11.28.59.239719 PL31 picturestory r 
+11.28.59.333698 PL31 picturestory r 
+11.28.59.349099 PL31 picturestory r 
+11.28.59.364744 PL31 picturestory r 
+11.28.59.364744 PL31 picturestory r 
+11.28.59.536867 PL31 picturestory r 
+11.28.59.536867 PL31 picturestory r 
+11.28.59.552264 PL31 picturestory r 
+11.28.59.567891 PL31 picturestory r 
+11.28.59.567891 PL31 picturestory r 
+11.28.59.583480 PL31 picturestory r 
+11.28.59.599144 PL31 picturestory r 
+11.28.59.599144 PL31 picturestory r 
+11.28.59.740020 PL31 picturestory r 
+11.28.59.740020 PL31 picturestory r 
+11.28.59.755374 PL31 picturestory r 
+11.28.59.771038 PL31 picturestory r 
+11.28.59.911666 PL31 picturestory  
+11.28.59.911666 PL31 picturestory  
+11.28.59.927267 PL31 picturestory  
+11.28.59.927267 PL31 picturestory  
+11.28.59.958519 PL31 picturestory  
+11.28.59.958519 PL31 picturestory  
+11.28.59.974198 PL31 picturestory  
+11.28.59.989803 PL31 picturestory  
+11.29.00.634662 PL31 picturestory r 
+11.29.00.650044 PL31 picturestory r 
+11.29.00.650044 PL31 picturestory r 
+11.29.00.665679 PL31 picturestory r 
+11.29.00.978456 PL31 picturestory r 
+11.29.00.993843 PL31 picturestory r 
+11.29.00.993843 PL31 picturestory r 
+11.29.01.009495 PL31 picturestory r 
+11.29.01.150371 PL31 picturestory  
+11.29.01.165747 PL31 picturestory  
+11.29.01.181348 PL31 picturestory  
+11.29.01.196977 PL31 picturestory  
+11.29.01.212638 PL31 picturestory  
+11.29.01.212638 PL31 picturestory  
+11.29.01.228238 PL31 picturestory  
+11.29.01.243881 PL31 picturestory  
+11.29.01.447247 PL31 picturestory r 
+11.29.01.462666 PL31 picturestory r 
+11.29.01.478293 PL31 picturestory r 
+11.29.01.478293 PL31 picturestory r 
+11.29.01.587903 PL31 picturestory r 
+11.29.01.603306 PL31 picturestory r 
+11.29.01.603306 PL31 picturestory r 
+11.29.01.618928 PL31 picturestory r 
+11.29.01.728526 PL31 picturestory r 
+11.29.01.743921 PL31 picturestory r 
+11.29.01.743921 PL31 picturestory r 
+11.29.01.759560 PL31 picturestory r 
+11.29.01.822276 PL31 picturestory r 
+11.29.01.837694 PL31 picturestory r 
+11.29.01.837694 PL31 picturestory r 
+11.29.01.853320 PL31 picturestory r 
+11.29.02.009792 PL31 picturestory r 
+11.29.02.025188 PL31 picturestory r 
+11.29.02.025188 PL31 picturestory r 
+11.29.02.040816 PL31 picturestory r 
+11.29.02.150457 PL31 picturestory r 
+11.29.02.165827 PL31 picturestory r 
+11.29.02.165827 PL31 picturestory r 
+11.29.02.181492 PL31 picturestory r 
+11.29.02.291116 PL31 picturestory r 
+11.29.02.306489 PL31 picturestory r 
+11.29.02.306489 PL31 picturestory r 
+11.29.02.322119 PL31 picturestory r 
+11.29.02.572383 PL31 picturestory r 
+11.29.02.587747 PL31 picturestory r 
+11.29.02.587747 PL31 picturestory r 
+11.29.02.603414 PL31 picturestory r 
+11.29.02.945395 PL31 picturestory r 
+11.29.02.945395 PL31 picturestory r 
+11.29.02.961059 PL31 picturestory r 
+11.29.02.976683 PL31 picturestory r 
+11.29.03.148815 PL31 picturestory r 
+11.29.03.148815 PL31 picturestory r 
+11.29.03.164208 PL31 picturestory r 
+11.29.03.179837 PL31 picturestory r 
+11.29.03.336086 PL31 picturestory r 
+11.29.03.336086 PL31 picturestory r 
+11.29.03.351712 PL31 picturestory r 
+11.29.03.351712 PL31 picturestory r 
+11.29.03.586337 PL31 picturestory r 
+11.29.03.601738 PL31 picturestory r 
+11.29.03.617373 PL31 picturestory r 
+11.29.03.617373 PL31 picturestory r 
+11.29.03.664484 PL31 picturestory r 
+11.29.03.679872 PL31 picturestory r 
+11.29.03.695499 PL31 picturestory r 
+11.29.03.695499 PL31 picturestory r 
+11.29.03.961151 PL31 picturestory r 
+11.29.03.961151 PL31 picturestory r 
+11.29.03.976796 PL31 picturestory r 
+11.29.03.976796 PL31 picturestory r 
+11.29.04.102010 PL31 picturestory r 
+11.29.04.117431 PL31 picturestory r 
+11.29.04.133053 PL31 picturestory r 
+11.29.04.133053 PL31 picturestory r 
+11.29.04.305169 PL31 picturestory r 
+11.29.04.320564 PL31 picturestory r 
+11.29.04.336192 PL31 picturestory r 
+11.29.04.336192 PL31 picturestory r 
+11.29.04.508307 PL31 picturestory  
+11.29.04.523711 PL31 picturestory  
+11.29.04.539312 PL31 picturestory  
+11.29.04.539312 PL31 picturestory  
+11.29.04.648713 PL31 picturestory  
+11.29.04.648713 PL31 picturestory  
+11.29.04.664362 PL31 picturestory  
+11.29.04.679989 PL31 picturestory  
+11.29.04.789612 PL31 picturestory r 
+11.29.04.804966 PL31 picturestory r 
+11.29.04.804966 PL31 picturestory r 
+11.29.04.820632 PL31 picturestory r 
+11.29.05.070852 PL31 picturestory r 
+11.29.05.086270 PL31 picturestory r 
+11.29.05.086270 PL31 picturestory r 
+11.29.05.101899 PL31 picturestory r 
+11.29.05.258181 PL31 picturestory r 
+11.29.05.274091 PL31 picturestory r 
+11.29.05.289706 PL31 picturestory r 
+11.29.05.289706 PL31 picturestory r 
+11.29.05.368105 PL31 picturestory r 
+11.29.05.368105 PL31 picturestory r 
+11.29.05.383512 PL31 picturestory r 
+11.29.05.399132 PL31 picturestory r 
+11.29.05.570985 PL31 picturestory r 
+11.29.05.570985 PL31 picturestory r 
+11.29.05.586627 PL31 picturestory r 
+11.29.05.586627 PL31 picturestory r 
+11.29.05.727528 PL31 picturestory r 
+11.29.05.742879 PL31 picturestory r 
+11.29.05.742879 PL31 picturestory r 
+11.29.05.758550 PL31 picturestory r 
+11.29.05.852530 PL31 picturestory r 
+11.29.05.867922 PL31 picturestory r 
+11.29.05.883559 PL31 picturestory r 
+11.29.05.883559 PL31 picturestory r 
+11.29.06.008795 PL31 picturestory  
+11.29.06.024164 PL31 picturestory  
+11.29.06.024164 PL31 picturestory  
+11.29.06.039812 PL31 picturestory  
+11.29.06.118185 PL31 picturestory  
+11.29.06.133572 PL31 picturestory  
+11.29.06.149196 PL31 picturestory  
+11.29.06.149196 PL31 picturestory  
+11.29.06.321293 PL31 picturestory rr 
+11.29.06.321293 PL31 picturestory rr 
+11.29.06.336717 PL31 picturestory rr 
+11.29.06.336717 PL31 picturestory rr 
+11.29.06.352348 PL31 picturestory rr 
+11.29.06.367962 PL31 picturestory rr 
+11.29.06.367962 PL31 picturestory rr 
+11.29.06.383605 PL31 picturestory rr 
+11.29.06.540086 PL31 picturestory rr 
+11.29.06.540086 PL31 picturestory rr 
+11.29.06.555490 PL31 picturestory rr 
+11.29.06.571094 PL31 picturestory rr 
+11.29.06.696370 PL31 picturestory  
+11.29.06.711765 PL31 picturestory  
+11.29.06.711765 PL31 picturestory  
+11.29.06.727383 PL31 picturestory  
+11.29.06.790108 PL31 picturestory  
+11.29.06.790108 PL31 picturestory  
+11.29.06.805520 PL31 picturestory  
+11.29.06.821168 PL31 picturestory  
+11.29.07.008887 PL31 picturestory  
+11.29.07.008887 PL31 picturestory  
+11.29.07.024288 PL31 picturestory  
+11.29.07.039927 PL31 picturestory  
+11.29.07.102648 PL31 picturestory r 
+11.29.07.102648 PL31 picturestory r 
+11.29.07.118061 PL31 picturestory r 
+11.29.07.133685 PL31 picturestory r 
+11.29.07.243291 PL31 picturestory r 
+11.29.07.243291 PL31 picturestory r 
+11.29.07.258703 PL31 picturestory r 
+11.29.07.274546 PL31 picturestory r 
+11.29.07.540446 PL31 picturestory r 
+11.29.07.555870 PL31 picturestory r 
+11.29.07.555870 PL31 picturestory r 
+11.29.07.571465 PL31 picturestory r 
+11.29.07.696710 PL31 picturestory r 
+11.29.07.712094 PL31 picturestory r 
+11.29.07.712094 PL31 picturestory r 
+11.29.07.727770 PL31 picturestory r 
+11.29.07.931118 PL31 picturestory r 
+11.29.07.931118 PL31 picturestory r 
+11.29.07.946519 PL31 picturestory r 
+11.29.07.962153 PL31 picturestory r 
+11.29.08.103002 PL31 picturestory r 
+11.29.08.118427 PL31 picturestory r 
+11.29.08.118427 PL31 picturestory r 
+11.29.08.134051 PL31 picturestory r 
+11.29.08.212414 PL31 picturestory r 
+11.29.08.227813 PL31 picturestory r 
+11.29.08.243440 PL31 picturestory r 
+11.29.08.243440 PL31 picturestory r 
+11.29.08.498341 PL31 picturestory  
+11.29.08.498341 PL31 picturestory  
+11.29.08.523218 PL31 picturestory  
+11.29.08.532440 PL31 picturestory  
+11.29.08.642085 PL31 picturestory  
+11.29.08.642085 PL31 picturestory  
+11.29.08.657478 PL31 picturestory  
+11.29.08.673118 PL31 picturestory  
+11.29.08.829613 PL31 picturestory r 
+11.29.08.844999 PL31 picturestory r 
+11.29.08.844999 PL31 picturestory r 
+11.29.08.860626 PL31 picturestory r 
+11.29.08.969988 PL31 picturestory r 
+11.29.08.969988 PL31 picturestory r 
+11.29.08.985613 PL31 picturestory r 
+11.29.09.001273 PL31 picturestory r 
+11.29.09.142116 PL31 picturestory r 
+11.29.09.157506 PL31 picturestory r 
+11.29.09.157506 PL31 picturestory r 
+11.29.09.173191 PL31 picturestory r 
+11.29.09.392178 PL31 picturestory r 
+11.29.09.392178 PL31 picturestory r 
+11.29.09.407581 PL31 picturestory r 
+11.29.09.423225 PL31 picturestory r 
+11.29.09.564044 PL31 picturestory r 
+11.29.09.564044 PL31 picturestory r 
+11.29.09.579464 PL31 picturestory r 
+11.29.09.595088 PL31 picturestory r 
+11.29.09.642179 PL31 picturestory r 
+11.29.09.657559 PL31 picturestory r 
+11.29.09.657559 PL31 picturestory r 
+11.29.09.673235 PL31 picturestory r 
+11.29.09.860957 PL31 picturestory r 
+11.29.09.876357 PL31 picturestory r 
+11.29.09.891984 PL31 picturestory r 
+11.29.09.891984 PL31 picturestory r 
+11.29.10.095130 PL31 picturestory  
+11.29.10.095130 PL31 picturestory  
+11.29.10.110758 PL31 picturestory  
+11.29.10.126364 PL31 picturestory  
+11.29.10.454788 PL31 picturestory  
+11.29.10.470185 PL31 picturestory  
+11.29.10.470185 PL31 picturestory  
+11.29.10.485811 PL31 picturestory  
+11.29.10.845458 PL31 picturestory r 
+11.29.10.860812 PL31 picturestory r 
+11.29.10.860812 PL31 picturestory r 
+11.29.10.876477 PL31 picturestory r 
+11.29.11.142345 PL31 picturestory r 
+11.29.11.157718 PL31 picturestory r 
+11.29.11.173344 PL31 picturestory r 
+11.29.11.173344 PL31 picturestory r 
+11.29.11.407991 PL31 picturestory  
+11.29.11.407991 PL31 picturestory  
+11.29.11.423370 PL31 picturestory  
+11.29.11.439049 PL31 picturestory  
+11.29.11.564011 PL31 picturestory  
+11.29.11.564011 PL31 picturestory  
+11.29.11.579674 PL31 picturestory  
+11.29.11.595289 PL31 picturestory  
+11.29.11.829929 PL31 picturestory r 
+11.29.11.829929 PL31 picturestory r 
+11.29.11.845315 PL31 picturestory r 
+11.29.11.860957 PL31 picturestory r 
+11.29.11.970354 PL31 picturestory r 
+11.29.11.985955 PL31 picturestory r 
+11.29.12.001557 PL31 picturestory r 
+11.29.12.017185 PL31 picturestory r 
+11.29.12.142443 PL31 picturestory r 
+11.29.12.142443 PL31 picturestory r 
+11.29.12.157825 PL31 picturestory r 
+11.29.12.173489 PL31 picturestory r 
+11.29.12.345379 PL31 picturestory r 
+11.29.12.345379 PL31 picturestory r 
+11.29.12.361007 PL31 picturestory r 
+11.29.12.376634 PL31 picturestory r 
+11.29.12.532887 PL31 picturestory  
+11.29.12.532887 PL31 picturestory  
+11.29.12.548520 PL31 picturestory  
+11.29.12.564154 PL31 picturestory  
+11.29.12.830015 PL31 picturestory  
+11.29.12.845395 PL31 picturestory  
+11.29.12.845395 PL31 picturestory  
+11.29.12.861022 PL31 picturestory  
+11.29.13.033188 PL31 picturestory r 
+11.29.13.033188 PL31 picturestory r 
+11.29.13.048568 PL31 picturestory r 
+11.29.13.064207 PL31 picturestory r 
+11.29.13.205078 PL31 picturestory r 
+11.29.13.220460 PL31 picturestory r 
+11.29.13.220460 PL31 picturestory r 
+11.29.13.236088 PL31 picturestory r 
+11.29.13.439454 PL31 picturestory r 
+11.29.13.439454 PL31 picturestory r 
+11.29.13.454845 PL31 picturestory r 
+11.29.13.470502 PL31 picturestory r 
+11.29.13.548841 PL31 picturestory r 
+11.29.13.548841 PL31 picturestory r 
+11.29.13.564246 PL31 picturestory r 
+11.29.13.579848 PL31 picturestory r 
+11.29.13.783239 PL31 picturestory r 
+11.29.13.783239 PL31 picturestory r 
+11.29.13.798657 PL31 picturestory r 
+11.29.13.814248 PL31 picturestory r 
+11.29.13.939534 PL31 picturestory r 
+11.29.13.954892 PL31 picturestory r 
+11.29.13.970538 PL31 picturestory r 
+11.29.13.970538 PL31 picturestory r 
+11.29.14.189534 PL31 picturestory r 
+11.29.14.204914 PL31 picturestory r 
+11.29.14.204914 PL31 picturestory r 
+11.29.14.220574 PL31 picturestory r 
+11.29.14.346232 PL31 picturestory r 
+11.29.14.361625 PL31 picturestory r 
+11.29.14.377252 PL31 picturestory r 
+11.29.14.377252 PL31 picturestory r 
+11.29.14.705661 PL31 picturestory r 
+11.29.14.705661 PL31 picturestory r 
+11.29.14.721038 PL31 picturestory r 
+11.29.14.736665 PL31 picturestory r 
+11.29.14.861911 PL31 picturestory r 
+11.29.14.877306 PL31 picturestory r 
+11.29.14.877306 PL31 picturestory r 
+11.29.14.892907 PL31 picturestory r 
+11.29.15.033783 PL31 picturestory r 
+11.29.15.049213 PL31 picturestory r 
+11.29.15.049213 PL31 picturestory r 
+11.29.15.064837 PL31 picturestory r 
+11.29.16.002660 PL31 picturestory  
+11.29.16.018049 PL31 picturestory  
+11.29.16.018049 PL31 picturestory  
+11.29.16.033651 PL31 picturestory  
+11.29.16.158917 PL31 picturestory  
+11.29.16.158917 PL31 picturestory  
+11.29.16.174291 PL31 picturestory  
+11.29.16.189918 PL31 picturestory  
+11.29.16.706235 PL31 picturestory  
+11.29.16.706235 PL31 picturestory  
+11.29.16.721615 PL31 picturestory  
+11.29.16.737267 PL31 picturestory  
+11.29.17.018768 PL31 picturestory r 
+11.29.17.034186 PL31 picturestory r 
+11.29.17.049776 PL31 picturestory r 
+11.29.17.049776 PL31 picturestory r 
+11.29.17.175032 PL31 picturestory r 
+11.29.17.175032 PL31 picturestory r 
+11.29.17.190451 PL31 picturestory r 
+11.29.17.206041 PL31 picturestory r 
+11.29.17.362538 PL31 picturestory r 
+11.29.17.362538 PL31 picturestory r 
+11.29.17.377972 PL31 picturestory r 
+11.29.17.377972 PL31 picturestory r 
+11.29.17.518838 PL31 picturestory r 
+11.29.17.518838 PL31 picturestory r 
+11.29.17.534244 PL31 picturestory r 
+11.29.17.549874 PL31 picturestory r 
+11.29.17.940767 PL31 picturestory r 
+11.29.17.956149 PL31 picturestory r 
+11.29.17.971747 PL31 picturestory r 
+11.29.17.971747 PL31 picturestory r 
+11.29.18.081375 PL31 picturestory r 
+11.29.18.096809 PL31 picturestory r 
+11.29.18.096809 PL31 picturestory r 
+11.29.18.112387 PL31 picturestory r 
+11.29.18.440571 PL31 picturestory r 
+11.29.18.440571 PL31 picturestory r 
+11.29.18.456215 PL31 picturestory r 
+11.29.18.471841 PL31 picturestory r 
+11.29.18.581452 PL31 picturestory r 
+11.29.18.581452 PL31 picturestory r 
+11.29.18.596812 PL31 picturestory r 
+11.29.18.612439 PL31 picturestory r 
+11.29.19.065868 PL31 picturestory r 
+11.29.19.081238 PL31 picturestory r 
+11.29.19.096891 PL31 picturestory r 
+11.29.19.096891 PL31 picturestory r 
+11.29.19.190906 PL31 picturestory r 
+11.29.19.206276 PL31 picturestory r 
+11.29.19.206276 PL31 picturestory r 
+11.29.19.221911 PL31 picturestory r 
+11.29.19.331539 PL31 picturestory r 
+11.29.19.331539 PL31 picturestory r 
+11.29.19.346916 PL31 picturestory r 
+11.29.19.362519 PL31 picturestory r 
+11.29.19.519039 PL31 picturestory r 
+11.29.19.534411 PL31 picturestory r 
+11.29.19.550063 PL31 picturestory r 
+11.29.19.550063 PL31 picturestory r 
+11.29.19.644039 PL31 picturestory r 
+11.29.19.644039 PL31 picturestory r 
+11.29.19.659425 PL31 picturestory r 
+11.29.19.675101 PL31 picturestory r 
+11.29.19.878237 PL31 picturestory r 
+11.29.19.893850 PL31 picturestory r 
+11.29.19.909500 PL31 picturestory r 
+11.29.19.909500 PL31 picturestory r 
+11.29.20.065961 PL31 picturestory r 
+11.29.20.065961 PL31 picturestory r 
+11.29.20.081382 PL31 picturestory r 
+11.29.20.097008 PL31 picturestory r 
+11.29.20.253482 PL31 picturestory r 
+11.29.20.253482 PL31 picturestory r 
+11.29.20.268888 PL31 picturestory r 
+11.29.20.284810 PL31 picturestory r 
+11.29.20.441324 PL31 picturestory r 
+11.29.20.456704 PL31 picturestory r 
+11.29.20.472356 PL31 picturestory r 
+11.29.20.472356 PL31 picturestory r 
+11.29.20.519459 PL31 picturestory r 
+11.29.20.534838 PL31 picturestory r 
+11.29.20.550490 PL31 picturestory r 
+11.29.20.550490 PL31 picturestory r 
+11.29.20.706973 PL31 picturestory r 
+11.29.20.722358 PL31 picturestory r 
+11.29.20.738009 PL31 picturestory r 
+11.29.20.738009 PL31 picturestory r 
+11.29.20.800741 PL31 picturestory r 
+11.29.20.816118 PL31 picturestory r 
+11.29.20.816118 PL31 picturestory r 
+11.29.20.831770 PL31 picturestory r 
+11.29.20.957021 PL31 picturestory r 
+11.29.20.972409 PL31 picturestory r 
+11.29.20.972409 PL31 picturestory r 
+11.29.20.988041 PL31 picturestory r 
+11.29.21.722489 PL31 picturestory r 
+11.29.21.722489 PL31 picturestory r 
+11.29.21.738091 PL31 picturestory r 
+11.29.21.738091 PL31 picturestory r 
+11.29.22.035240 PL31 picturestory r 
+11.29.22.035240 PL31 picturestory r 
+11.29.22.050662 PL31 picturestory r 
+11.29.22.066283 PL31 picturestory r 
+11.29.22.160234 PL31 picturestory  
+11.29.22.175662 PL31 picturestory  
+11.29.22.175662 PL31 picturestory  
+11.29.22.191287 PL31 picturestory  
+11.29.22.206915 PL31 picturestory  
+11.29.22.222544 PL31 picturestory  
+11.29.22.238177 PL31 picturestory  
+11.29.22.238177 PL31 picturestory  
+11.29.22.425737 PL31 picturestory  
+11.29.22.425737 PL31 picturestory  
+11.29.22.441327 PL31 picturestory  
+11.29.22.441327 PL31 picturestory  
+11.29.22.519673 PL31 picturestory r 
+11.29.22.535049 PL31 picturestory r 
+11.29.22.535049 PL31 picturestory r 
+11.29.22.550675 PL31 picturestory r 
+11.29.22.675954 PL31 picturestory r 
+11.29.22.675954 PL31 picturestory r 
+11.29.22.691315 PL31 picturestory r 
+11.29.22.706942 PL31 picturestory r 
+11.29.22.879088 PL31 picturestory r 
+11.29.22.879088 PL31 picturestory r 
+11.29.22.894461 PL31 picturestory r 
+11.29.22.910088 PL31 picturestory r 
+11.29.23.035375 PL31 picturestory r 
+11.29.23.050754 PL31 picturestory r 
+11.29.23.066381 PL31 picturestory r 
+11.29.23.066381 PL31 picturestory r 
+11.29.23.238522 PL31 picturestory r 
+11.29.23.253905 PL31 picturestory r 
+11.29.23.253905 PL31 picturestory r 
+11.29.23.269501 PL31 picturestory r 
+11.29.23.269501 PL31 picturestory  
+11.29.23.285422 PL31 picturestory  
+11.29.23.301090 PL31 picturestory  
+11.29.23.301090 PL31 picturestory  
+11.29.23.426088 PL31 picturestory  
+11.29.23.426088 PL31 picturestory  
+11.29.23.441731 PL31 picturestory  
+11.29.23.457357 PL31 picturestory  
+11.29.23.629473 PL31 picturestory r 
+11.29.23.644862 PL31 picturestory r 
+11.29.23.644862 PL31 picturestory r 
+11.29.23.660488 PL31 picturestory r 
+11.29.23.676124 PL31 picturestory r 
+11.29.23.676124 PL31 picturestory r 
+11.29.23.691752 PL31 picturestory r 
+11.29.23.707381 PL31 picturestory r 
+11.29.23.785636 PL31 picturestory r 
+11.29.23.785636 PL31 picturestory r 
+11.29.23.801122 PL31 picturestory r 
+11.29.23.801122 PL31 picturestory r 
+11.29.23.895108 PL31 picturestory r 
+11.29.23.895108 PL31 picturestory r 
+11.29.23.910514 PL31 picturestory r 
+11.29.23.926142 PL31 picturestory r 
+11.29.24.004293 PL31 picturestory r 
+11.29.24.004293 PL31 picturestory r 
+11.29.24.019876 PL31 picturestory r 
+11.29.24.035503 PL31 picturestory r 
+11.29.24.160550 PL31 picturestory r 
+11.29.24.176142 PL31 picturestory r 
+11.29.24.176142 PL31 picturestory r 
+11.29.24.191769 PL31 picturestory r 
+11.29.24.207396 PL31 picturestory r 
+11.29.24.207396 PL31 picturestory r 
+11.29.24.223022 PL31 picturestory r 
+11.29.24.238649 PL31 picturestory r 
+11.29.24.457693 PL31 picturestory r 
+11.29.24.457693 PL31 picturestory r 
+11.29.24.473087 PL31 picturestory r 
+11.29.24.488677 PL31 picturestory r 
+11.29.24.535834 PL31 picturestory r 
+11.29.24.535834 PL31 picturestory r 
+11.29.24.551222 PL31 picturestory r 
+11.29.24.566810 PL31 picturestory r 
+11.29.24.676196 PL31 picturestory r 
+11.29.24.676196 PL31 picturestory r 
+11.29.24.691848 PL31 picturestory r 
+11.29.24.691848 PL31 picturestory r 
+11.29.24.848352 PL31 picturestory  
+11.29.24.863740 PL31 picturestory  
+11.29.24.863740 PL31 picturestory  
+11.29.24.879367 PL31 picturestory  
+11.29.24.895002 PL31 picturestory  
+11.29.24.895002 PL31 picturestory  
+11.29.24.910595 PL31 picturestory  
+11.29.24.910595 PL31 picturestory  
+11.29.25.035873 PL31 picturestory  
+11.29.25.051261 PL31 picturestory  
+11.29.25.051261 PL31 picturestory  
+11.29.25.066862 PL31 picturestory  
+11.29.25.207755 PL31 picturestory r 
+11.29.25.223166 PL31 picturestory r 
+11.29.25.238793 PL31 picturestory r 
+11.29.25.238793 PL31 picturestory r 
+11.29.25.254418 PL31 picturestory r 
+11.29.25.254418 PL31 picturestory r 
+11.29.25.270020 PL31 picturestory r 
+11.29.25.285975 PL31 picturestory r 
+11.29.25.442507 PL31 picturestory r 
+11.29.25.457895 PL31 picturestory r 
+11.29.25.473496 PL31 picturestory r 
+11.29.25.473496 PL31 picturestory r 
+11.29.25.505013 PL31 picturestory r 
+11.29.25.520375 PL31 picturestory r 
+11.29.25.520375 PL31 picturestory r 
+11.29.25.536028 PL31 picturestory r 
+11.29.25.708157 PL31 picturestory r 
+11.29.25.708157 PL31 picturestory r 
+11.29.25.723570 PL31 picturestory r 
+11.29.25.739158 PL31 picturestory r 
+11.29.25.770646 PL31 picturestory  
+11.29.25.786029 PL31 picturestory  
+11.29.25.801656 PL31 picturestory  
+11.29.25.801656 PL31 picturestory  
+11.29.25.942567 PL31 picturestory  
+11.29.25.942567 PL31 picturestory  
+11.29.25.957923 PL31 picturestory  
+11.29.25.973549 PL31 picturestory  
+11.29.26.067552 PL31 picturestory r 
+11.29.26.082961 PL31 picturestory r 
+11.29.26.082961 PL31 picturestory r 
+11.29.26.098562 PL31 picturestory r 
+11.29.26.114190 PL31 picturestory r 
+11.29.26.129847 PL31 picturestory r 
+11.29.26.145468 PL31 picturestory r 
+11.29.26.145468 PL31 picturestory r 
+11.29.26.317580 PL31 picturestory r 
+11.29.26.332961 PL31 picturestory r 
+11.29.26.348588 PL31 picturestory r 
+11.29.26.348588 PL31 picturestory r 
+11.29.26.364255 PL31 picturestory r 
+11.29.26.379842 PL31 picturestory r 
+11.29.26.395504 PL31 picturestory r 
+11.29.26.395504 PL31 picturestory r 
+11.29.26.536383 PL31 picturestory r 
+11.29.26.551771 PL31 picturestory r 
+11.29.26.567387 PL31 picturestory r 
+11.29.26.583013 PL31 picturestory r 
+11.29.26.708042 PL31 picturestory  
+11.29.26.708042 PL31 picturestory  
+11.29.26.723654 PL31 picturestory  
+11.29.26.739254 PL31 picturestory  
+11.29.26.817423 PL31 picturestory  
+11.29.26.833021 PL31 picturestory  
+11.29.26.833021 PL31 picturestory  
+11.29.26.848641 PL31 picturestory  
+11.29.26.989281 PL31 picturestory r 
+11.29.27.004925 PL31 picturestory r 
+11.29.27.020537 PL31 picturestory r 
+11.29.27.020537 PL31 picturestory r 
+11.29.27.145591 PL31 picturestory r 
+11.29.27.161180 PL31 picturestory r 
+11.29.27.176801 PL31 picturestory r 
+11.29.27.192427 PL31 picturestory r 
+11.29.27.317796 PL31 picturestory r 
+11.29.27.317796 PL31 picturestory r 
+11.29.27.333373 PL31 picturestory r 
+11.29.27.349026 PL31 picturestory r 
+11.29.27.505295 PL31 picturestory r 
+11.29.27.505295 PL31 picturestory r 
+11.29.27.520893 PL31 picturestory r 
+11.29.27.536519 PL31 picturestory r 
+11.29.27.645906 PL31 picturestory r 
+11.29.27.661532 PL31 picturestory r 
+11.29.27.677166 PL31 picturestory r 
+11.29.27.692786 PL31 picturestory r 
+11.29.27.974329 PL31 picturestory r 
+11.29.27.989717 PL31 picturestory r 
+11.29.27.989717 PL31 picturestory r 
+11.29.28.005319 PL31 picturestory r 
+11.29.28.068089 PL31 picturestory  
+11.29.28.068089 PL31 picturestory  
+11.29.28.083452 PL31 picturestory  
+11.29.28.099106 PL31 picturestory  
+11.29.28.255381 PL31 picturestory  
+11.29.28.255381 PL31 picturestory  
+11.29.28.270971 PL31 picturestory  
+11.29.28.286614 PL31 picturestory  
+11.29.28.349373 PL31 picturestory r 
+11.29.28.349373 PL31 picturestory r 
+11.29.28.364732 PL31 picturestory r 
+11.29.28.380358 PL31 picturestory r 
+11.29.28.458773 PL31 picturestory r 
+11.29.28.474118 PL31 picturestory r 
+11.29.28.474118 PL31 picturestory r 
+11.29.28.489745 PL31 picturestory r 
+11.29.28.615032 PL31 picturestory r 
+11.29.28.630403 PL31 picturestory r 
+11.29.28.630403 PL31 picturestory r 
+11.29.28.646054 PL31 picturestory r 
+11.29.28.661653 PL31 picturestory r 
+11.29.28.661653 PL31 picturestory r 
+11.29.28.677303 PL31 picturestory r 
+11.29.28.692892 PL31 picturestory r 
+11.29.28.927539 PL31 picturestory  
+11.29.28.927539 PL31 picturestory  
+11.29.28.952135 PL31 picturestory  
+11.29.28.963176 PL31 picturestory  
+11.29.29.017485 PL31 picturestory  
+11.29.29.032854 PL31 picturestory  
+11.29.29.048473 PL31 picturestory  
+11.29.29.048473 PL31 picturestory  
+11.29.29.220630 PL31 picturestory r 
+11.29.29.220630 PL31 picturestory r 
+11.29.29.236014 PL31 picturestory r 
+11.29.29.251657 PL31 picturestory r 
+11.29.29.251657 PL31 picturestory r 
+11.29.29.267285 PL31 picturestory r 
+11.29.29.282912 PL31 picturestory r 
+11.29.29.282912 PL31 picturestory r 
+11.29.29.423777 PL31 picturestory r 
+11.29.29.439145 PL31 picturestory r 
+11.29.29.454791 PL31 picturestory r 
+11.29.29.454791 PL31 picturestory r 
+11.29.29.580053 PL31 picturestory r 
+11.29.29.580053 PL31 picturestory r 
+11.29.29.595433 PL31 picturestory r 
+11.29.29.611058 PL31 picturestory r 
+11.29.29.751938 PL31 picturestory r 
+11.29.29.767341 PL31 picturestory r 
+11.29.29.767341 PL31 picturestory r 
+11.29.29.782972 PL31 picturestory r 
+11.29.29.923815 PL31 picturestory  
+11.29.29.939233 PL31 picturestory  
+11.29.29.954859 PL31 picturestory  
+11.29.29.954859 PL31 picturestory  
+11.29.30.173840 PL31 picturestory  
+11.29.30.189218 PL31 picturestory  
+11.29.30.189218 PL31 picturestory  
+11.29.30.204845 PL31 picturestory  
+11.29.30.345755 PL31 picturestory r 
+11.29.30.361111 PL31 picturestory r 
+11.29.30.376738 PL31 picturestory r 
+11.29.30.376738 PL31 picturestory r 
+11.29.30.392405 PL31 picturestory r 
+11.29.30.408030 PL31 picturestory r 
+11.29.30.408030 PL31 picturestory r 
+11.29.30.423618 PL31 picturestory r 
+11.29.30.564520 PL31 picturestory r 
+11.29.30.579910 PL31 picturestory r 
+11.29.30.579910 PL31 picturestory r 
+11.29.30.595546 PL31 picturestory r 
+11.29.30.705143 PL31 picturestory r 
+11.29.30.720550 PL31 picturestory r 
+11.29.30.720550 PL31 picturestory r 
+11.29.30.736151 PL31 picturestory r 
+11.29.30.892444 PL31 picturestory  
+11.29.30.892444 PL31 picturestory  
+11.29.30.908070 PL31 picturestory  
+11.29.30.923672 PL31 picturestory  
+11.29.31.094045 PL31 picturestory  
+11.29.31.102245 PL31 picturestory  
+11.29.31.102245 PL31 picturestory  
+11.29.31.117920 PL31 picturestory  
+11.29.31.227523 PL31 picturestory  
+11.29.31.242911 PL31 picturestory  
+11.29.31.258538 PL31 picturestory  
+11.29.31.258538 PL31 picturestory  
+11.29.31.430680 PL31 picturestory r 
+11.29.31.446032 PL31 picturestory r 
+11.29.31.461684 PL31 picturestory r 
+11.29.31.461684 PL31 picturestory r 
+11.29.31.571300 PL31 picturestory r 
+11.29.31.586709 PL31 picturestory r 
+11.29.31.602327 PL31 picturestory r 
+11.29.31.602327 PL31 picturestory r 
+11.29.31.727576 PL31 picturestory r 
+11.29.31.742965 PL31 picturestory r 
+11.29.31.742965 PL31 picturestory r 
+11.29.31.758591 PL31 picturestory r 
+11.29.31.805694 PL31 picturestory r 
+11.29.31.821071 PL31 picturestory r 
+11.29.31.836698 PL31 picturestory r 
+11.29.31.836698 PL31 picturestory r 
+11.29.31.883824 PL31 picturestory r 
+11.29.31.899238 PL31 picturestory r 
+11.29.31.899238 PL31 picturestory r 
+11.29.31.914831 PL31 picturestory r 
+11.29.32.055496 PL31 picturestory  
+11.29.32.055496 PL31 picturestory  
+11.29.32.071123 PL31 picturestory  
+11.29.32.086726 PL31 picturestory  
+11.29.32.086726 PL31 picturestory  
+11.29.32.102352 PL31 picturestory  
+11.29.32.117980 PL31 picturestory  
+11.29.32.117980 PL31 picturestory  
+11.29.32.180748 PL31 picturestory  
+11.29.32.196135 PL31 picturestory  
+11.29.32.211776 PL31 picturestory  
+11.29.32.211776 PL31 picturestory  
+11.29.32.305746 PL31 picturestory r 
+11.29.32.321162 PL31 picturestory r 
+11.29.32.336793 PL31 picturestory r 
+11.29.32.336793 PL31 picturestory r 
+11.29.32.352378 PL31 picturestory r 
+11.29.32.368045 PL31 picturestory r 
+11.29.32.368045 PL31 picturestory r 
+11.29.32.383631 PL31 picturestory r 
+11.29.32.477404 PL31 picturestory r 
+11.29.32.477404 PL31 picturestory r 
+11.29.32.493045 PL31 picturestory r 
+11.29.32.508671 PL31 picturestory r 
+11.29.32.524271 PL31 picturestory  
+11.29.32.524271 PL31 picturestory  
+11.29.32.539931 PL31 picturestory  
+11.29.32.555561 PL31 picturestory  
+11.29.32.586937 PL31 picturestory  
+11.29.32.602405 PL31 picturestory  
+11.29.32.618055 PL31 picturestory  
+11.29.32.618055 PL31 picturestory  
+11.29.32.665155 PL31 picturestory r 
+11.29.32.680571 PL31 picturestory r 
+11.29.32.696198 PL31 picturestory r 
+11.29.32.711829 PL31 picturestory r 
+11.29.32.727660 PL31 picturestory r 
+11.29.32.743069 PL31 picturestory r 
+11.29.32.743069 PL31 picturestory r 
+11.29.32.758695 PL31 picturestory r 
+11.29.32.837048 PL31 picturestory r 
+11.29.32.852431 PL31 picturestory r 
+11.29.32.852431 PL31 picturestory r 
+11.29.32.868067 PL31 picturestory r 
+11.29.32.883710 PL31 picturestory r 
+11.29.32.883710 PL31 picturestory r 
+11.29.32.899343 PL31 picturestory r 
+11.29.32.914988 PL31 picturestory r 
+11.29.32.987700 PL31 picturestory r 
+11.29.33.003352 PL31 picturestory r 
+11.29.33.003352 PL31 picturestory r 
+11.29.33.018955 PL31 picturestory r 
+11.29.33.018955 PL31 picturestory r 
+11.29.33.034606 PL31 picturestory r 
+11.29.33.050234 PL31 picturestory r 
+11.29.33.050234 PL31 picturestory r 
+11.29.33.097315 PL31 picturestory r 
+11.29.33.112750 PL31 picturestory r 
+11.29.33.112750 PL31 picturestory r 
+11.29.33.128377 PL31 picturestory r 
+11.29.33.175497 PL31 picturestory r 
+11.29.33.190872 PL31 picturestory r 
+11.29.33.190872 PL31 picturestory r 
+11.29.33.206498 PL31 picturestory r 
+11.29.33.253533 PL31 picturestory r 
+11.29.33.253533 PL31 picturestory r 
+11.29.33.268990 PL31 picturestory r 
+11.29.33.284607 PL31 picturestory r 
+11.29.33.347342 PL31 picturestory  
+11.29.33.362765 PL31 picturestory  
+11.29.33.378399 PL31 picturestory  
+11.29.33.378399 PL31 picturestory  
+11.29.33.394018 PL31 picturestory  
+11.29.33.409645 PL31 picturestory  
+11.29.33.409645 PL31 picturestory  
+11.29.33.425272 PL31 picturestory  
+11.29.33.519006 PL31 picturestory  
+11.29.33.519006 PL31 picturestory  
+11.29.33.534659 PL31 picturestory  
+11.29.33.550260 PL31 picturestory  
+11.29.33.565896 PL31 picturestory r 
+11.29.33.565896 PL31 picturestory r 
+11.29.33.581513 PL31 picturestory r 
+11.29.33.597152 PL31 picturestory r 
+11.29.33.644283 PL31 picturestory r 
+11.29.33.659671 PL31 picturestory r 
+11.29.33.675297 PL31 picturestory r 
+11.29.33.675297 PL31 picturestory r 
+11.29.33.690937 PL31 picturestory r 
+11.29.33.706527 PL31 picturestory r 
+11.29.33.722190 PL31 picturestory r 
+11.29.33.737820 PL31 picturestory r 
+11.29.33.800560 PL31 picturestory r 
+11.29.33.800560 PL31 picturestory r 
+11.29.33.815962 PL31 picturestory r 
+11.29.33.831581 PL31 picturestory r 
+11.29.33.878695 PL31 picturestory r 
+11.29.33.878695 PL31 picturestory r 
+11.29.33.894072 PL31 picturestory r 
+11.29.33.909710 PL31 picturestory r 
+11.29.33.940959 PL31 picturestory r 
+11.29.33.940959 PL31 picturestory r 
+11.29.33.956586 PL31 picturestory r 
+11.29.33.972212 PL31 picturestory r 
+11.29.34.065945 PL31 picturestory r 
+11.29.34.065945 PL31 picturestory r 
+11.29.34.081578 PL31 picturestory r 
+11.29.34.097243 PL31 picturestory r 
+11.29.34.097243 PL31 picturestory r 
+11.29.34.112859 PL31 picturestory r 
+11.29.34.128483 PL31 picturestory r 
+11.29.34.128483 PL31 picturestory r 
+11.29.34.222471 PL31 picturestory r 
+11.29.34.237857 PL31 picturestory r 
+11.29.34.253487 PL31 picturestory r 
+11.29.34.253487 PL31 picturestory r 
+11.29.34.269111 PL31 picturestory r 
+11.29.34.284738 PL31 picturestory r 
+11.29.34.284738 PL31 picturestory r 
+11.29.34.300357 PL31 picturestory r 
+11.29.34.378724 PL31 picturestory r 
+11.29.34.378724 PL31 picturestory r 
+11.29.34.394124 PL31 picturestory r 
+11.29.34.409762 PL31 picturestory r 
+11.29.34.425589 PL31 picturestory r 
+11.29.34.441017 PL31 picturestory r 
+11.29.34.441017 PL31 picturestory r 
+11.29.34.456631 PL31 picturestory r 
+11.29.34.534966 PL31 picturestory r 
+11.29.34.550399 PL31 picturestory r 
+11.29.34.550399 PL31 picturestory r 
+11.29.34.566025 PL31 picturestory r 
+11.29.34.597480 PL31 picturestory r 
+11.29.34.612896 PL31 picturestory r 
+11.29.34.612896 PL31 picturestory r 
+11.29.34.628523 PL31 picturestory r 
+11.29.34.691256 PL31 picturestory r 
+11.29.34.706656 PL31 picturestory r 
+11.29.34.706656 PL31 picturestory r 
+11.29.34.722258 PL31 picturestory r 
+11.29.34.800637 PL31 picturestory r 
+11.29.34.816056 PL31 picturestory r 
+11.29.34.816056 PL31 picturestory r 
+11.29.34.831683 PL31 picturestory r 
+11.29.34.847306 PL31 picturestory r 
+11.29.34.862936 PL31 picturestory r 
+11.29.34.862936 PL31 picturestory r 
+11.29.34.878559 PL31 picturestory r 
+11.29.35.003538 PL31 picturestory r 
+11.29.35.003538 PL31 picturestory r 
+11.29.35.019165 PL31 picturestory r 
+11.29.35.019165 PL31 picturestory r 
+11.29.35.034815 PL31 picturestory r 
+11.29.35.050444 PL31 picturestory r 
+11.29.35.050444 PL31 picturestory r 
+11.29.35.066069 PL31 picturestory r 
+11.29.35.144223 PL31 picturestory r 
+11.29.35.159842 PL31 picturestory r 
+11.29.35.159842 PL31 picturestory r 
+11.29.35.175458 PL31 picturestory r 
+11.29.35.191074 PL31 picturestory  
+11.29.35.191074 PL31 picturestory  
+11.29.35.206694 PL31 picturestory  
+11.29.35.206694 PL31 picturestory  
+11.29.35.285083 PL31 picturestory  
+11.29.35.300469 PL31 picturestory  
+11.29.35.300469 PL31 picturestory  
+11.29.35.316394 PL31 picturestory  
+11.29.35.347650 PL31 picturestory r 
+11.29.35.363275 PL31 picturestory r 
+11.29.35.363275 PL31 picturestory r 
+11.29.35.378935 PL31 picturestory r 
+11.29.35.441659 PL31 picturestory r 
+11.29.35.457061 PL31 picturestory r 
+11.29.35.472675 PL31 picturestory r 
+11.29.35.472675 PL31 picturestory r 
+11.29.35.551053 PL31 picturestory r 
+11.29.35.566456 PL31 picturestory r 
+11.29.35.566456 PL31 picturestory r 
+11.29.35.582082 PL31 picturestory r 
+11.29.35.597708 PL31 picturestory r 
+11.29.35.597708 PL31 picturestory r 
+11.29.35.613326 PL31 picturestory r 
+11.29.35.613326 PL31 picturestory r 
+11.29.35.738577 PL31 picturestory r 
+11.29.35.738577 PL31 picturestory r 
+11.29.35.753974 PL31 picturestory r 
+11.29.35.769611 PL31 picturestory r 
+11.29.35.785194 PL31 picturestory r 
+11.29.35.785194 PL31 picturestory r 
+11.29.35.800856 PL31 picturestory r 
+11.29.35.816452 PL31 picturestory r 
+11.29.35.894847 PL31 picturestory r 
+11.29.35.910249 PL31 picturestory r 
+11.29.35.910249 PL31 picturestory r 
+11.29.35.925874 PL31 picturestory r 
+11.29.35.941501 PL31 picturestory r 
+11.29.35.957127 PL31 picturestory r 
+11.29.35.957127 PL31 picturestory r 
+11.29.35.972714 PL31 picturestory r 
+11.29.36.066726 PL31 picturestory r 
+11.29.36.066726 PL31 picturestory r 
+11.29.36.082126 PL31 picturestory r 
+11.29.36.097753 PL31 picturestory r 
+11.29.36.113593 PL31 picturestory r 
+11.29.36.129006 PL31 picturestory r 
+11.29.36.144633 PL31 picturestory r 
+11.29.36.160269 PL31 picturestory r 
+11.29.36.238637 PL31 picturestory r 
+11.29.36.238637 PL31 picturestory r 
+11.29.36.254019 PL31 picturestory r 
+11.29.36.269626 PL31 picturestory r 
+11.29.36.316754 PL31 picturestory  
+11.29.36.332153 PL31 picturestory  
+11.29.36.332153 PL31 picturestory  
+11.29.36.347804 PL31 picturestory  
+11.29.36.379250 PL31 picturestory  
+11.29.36.394661 PL31 picturestory  
+11.29.36.394661 PL31 picturestory  
+11.29.36.410287 PL31 picturestory  
+11.29.36.519904 PL31 picturestory r 
+11.29.36.535307 PL31 picturestory r 
+11.29.36.535307 PL31 picturestory r 
+11.29.36.550931 PL31 picturestory r 
+11.29.36.566560 PL31 picturestory r 
+11.29.36.566560 PL31 picturestory r 
+11.29.36.582192 PL31 picturestory r 
+11.29.36.597823 PL31 picturestory r 
+11.29.36.707411 PL31 picturestory r 
+11.29.36.707411 PL31 picturestory r 
+11.29.36.722794 PL31 picturestory r 
+11.29.36.738458 PL31 picturestory r 
+11.29.36.738458 PL31 picturestory  
+11.29.36.754077 PL31 picturestory  
+11.29.36.769677 PL31 picturestory  
+11.29.36.769677 PL31 picturestory  
+11.29.36.879310 PL31 picturestory  
+11.29.36.879310 PL31 picturestory  
+11.29.36.894725 PL31 picturestory  
+11.29.36.910351 PL31 picturestory  
+11.29.36.910351 PL31 picturestory r 
+11.29.36.925976 PL31 picturestory r 
+11.29.36.941600 PL31 picturestory r 
+11.29.36.941600 PL31 picturestory r 
+11.29.37.035340 PL31 picturestory r 
+11.29.37.050980 PL31 picturestory r 
+11.29.37.050980 PL31 picturestory r 
+11.29.37.066582 PL31 picturestory r 
+11.29.37.113705 PL31 picturestory r 
+11.29.37.129114 PL31 picturestory r 
+11.29.37.129114 PL31 picturestory r 
+11.29.37.144738 PL31 picturestory r 
+11.29.37.207475 PL31 picturestory r 
+11.29.37.222847 PL31 picturestory r 
+11.29.37.238514 PL31 picturestory r 
+11.29.37.238514 PL31 picturestory r 
+11.29.37.301243 PL31 picturestory  
+11.29.37.301243 PL31 picturestory  
+11.29.37.316884 PL31 picturestory  
+11.29.37.316884 PL31 picturestory  
+11.29.37.395284 PL31 picturestory  
+11.29.37.395284 PL31 picturestory  
+11.29.37.410688 PL31 picturestory  
+11.29.37.426273 PL31 picturestory  
+11.29.39.375363 PL31 picturestory  
+11.29.39.390769 PL31 picturestory  
+11.29.39.390769 PL31 picturestory  
+11.29.39.406371 PL31 picturestory  

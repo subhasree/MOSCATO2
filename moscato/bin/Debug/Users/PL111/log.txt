@@ -1,0 +1,3851 @@
+03.34.44.102318 PL111 login 
+03.34.53.185000 PL111 words 1 
+03.34.53.416653 PL111 words 1 
+03.34.53.604173 PL111 words 1 
+03.34.54.119854 PL111 words 1 
+03.34.54.166783 PL111 words 1 
+03.34.54.356793 PL111 words 1 
+03.34.54.544313 PL111 words 1 
+03.34.54.731835 PL111 words 1 
+03.34.54.938517 PL111 words 1 
+03.34.55.172917 PL111 words 1 
+03.34.55.410428 PL111 words 1 
+03.34.55.629201 PL111 words 1 
+03.34.55.816734 PL111 words 1 
+03.34.56.035495 PL111 words 1 
+03.34.56.238642 PL111 words 1 
+03.34.56.441789 PL111 words 1 
+03.34.56.660563 PL111 words 1 
+03.34.56.863708 PL111 words 1 
+03.34.57.051276 PL111 words 1 
+03.34.57.254378 PL111 words 1 
+03.34.57.427471 PL111 words 1 
+03.34.57.627329 PL111 words 1 
+03.34.57.815543 PL111 words 1 
+03.34.58.035878 PL111 words 1 
+03.34.58.224085 PL111 words 1 
+03.34.58.440374 PL111 words 2 
+03.34.58.628625 PL111 words 2 
+03.34.58.820915 PL111 words 2 
+03.34.58.966787 PL111 words 2 
+03.34.59.137948 PL111 words 2 
+03.34.59.565950 PL111 words 2 
+03.34.59.706553 PL111 words 2 
+03.34.59.847192 PL111 words 2 
+03.35.00.003497 PL111 words 2 
+03.35.00.148867 PL111 words 2 
+03.35.00.461360 PL111 words 2 
+03.35.00.664545 PL111 words 2 
+03.35.00.836399 PL111 words 2 
+03.35.01.008294 PL111 words 2 
+03.35.01.180187 PL111 words 2 
+03.35.01.367770 PL111 words 2 
+03.35.01.539669 PL111 words 2 
+03.35.01.712114 PL111 words 2 
+03.35.01.906168 PL111 words 2 
+03.35.02.093687 PL111 words 2 
+03.35.02.265581 PL111 words 2 
+03.35.02.447843 PL111 words 2 
+03.35.02.627785 PL111 words 2 
+03.35.02.799679 PL111 words 2 
+03.35.02.971572 PL111 words 2 
+03.35.03.152405 PL111 words 2 
+03.35.03.324286 PL111 words 2 
+03.35.03.496180 PL111 words 2 
+03.35.03.668078 PL111 words 2 
+03.35.03.840008 PL111 words 2 
+03.35.04.011861 PL111 words 2 
+03.35.04.183754 PL111 words 2 
+03.35.04.386902 PL111 words 2 
+03.35.04.590098 PL111 words 2 
+03.35.04.777567 PL111 words 2 
+03.35.04.965127 PL111 words 2 
+03.35.05.168235 PL111 words 2 
+03.35.05.371381 PL111 words 2 
+03.35.05.558940 PL111 words 2 
+03.35.05.746421 PL111 words 2 
+03.35.05.933942 PL111 words 2 
+03.35.06.105872 PL111 words 2 
+03.35.06.293404 PL111 words 2 
+03.35.06.480877 PL111 words 2 
+03.35.06.668396 PL111 words 2 
+03.35.06.871543 PL111 words 2 
+03.35.07.074691 PL111 words 2 
+03.35.07.293463 PL111 words 2 
+03.35.07.496649 PL111 words 2 
+03.35.07.715424 PL111 words 2 
+03.35.07.918608 PL111 words 2 
+03.35.08.106090 PL111 words 2 
+03.35.08.481129 PL111 words 2 
+03.35.08.699939 PL111 words 2 
+03.35.08.903051 PL111 words 2 
+03.35.09.121824 PL111 words 2 
+03.35.09.340597 PL111 words 2 
+03.35.09.543745 PL111 words 2 
+03.35.09.746892 PL111 words 2 
+03.35.09.918831 PL111 words 2 
+03.35.10.340810 PL111 words 2 
+03.35.10.534179 PL111 words 2 
+03.35.10.752953 PL111 words 2 
+03.35.10.987350 PL111 words 2 
+03.35.11.237387 PL111 words 2 
+03.35.11.503032 PL111 words 2 
+03.35.11.706179 PL111 words 2 
+03.35.11.878071 PL111 words 2 
+03.35.12.081217 PL111 words 2 
+03.35.12.291549 PL111 words 2 
+03.35.12.491511 PL111 words 2 
+03.35.12.692473 PL111 words 2 
+03.35.12.900759 PL111 words 2 
+03.35.13.119531 PL111 words 2 
+03.35.13.322680 PL111 words 2 
+03.35.13.510198 PL111 words 2 
+03.35.13.713344 PL111 words 2 
+03.35.13.900907 PL111 words 2 
+03.35.14.150934 PL111 words 2 
+03.35.14.400960 PL111 words 2 
+03.35.14.604114 PL111 words 2 
+03.35.14.807258 PL111 words 2 
+03.35.14.979105 PL111 words 2 
+03.35.15.370900 PL111 words 2 
+03.35.15.558419 PL111 words 2 
+03.35.15.761605 PL111 words 2 
+03.35.15.980381 PL111 words 2 
+03.35.16.199114 PL111 words 2 
+03.35.16.417935 PL111 words 2 
+03.35.16.652341 PL111 words 2 
+03.35.16.933612 PL111 words 2 
+03.35.17.152430 PL111 words 2 
+03.35.17.433666 PL111 words 2 
+03.35.17.652490 PL111 words 2 
+03.35.17.886886 PL111 words 2 
+03.35.18.105653 PL111 words 2 
+03.35.18.308760 PL111 words 2 
+03.35.18.558787 PL111 words 2 
+03.35.18.793187 PL111 words 2 
+03.35.19.011960 PL111 words 2 
+03.35.19.230734 PL111 words 2 
+03.35.19.480834 PL111 words 2 
+03.35.19.730847 PL111 words 2 
+03.35.19.933968 PL111 words 2 
+03.35.20.199662 PL111 words 2 
+03.35.20.449688 PL111 words 2 
+03.35.20.684049 PL111 words 2 
+03.35.20.918451 PL111 words 2 
+03.35.21.137222 PL111 words 2 
+03.35.21.340473 PL111 words 2 
+03.35.21.543647 PL111 words 2 
+03.35.21.746806 PL111 words 2 
+03.35.21.934289 PL111 words 2 
+03.35.22.153061 PL111 words 2 
+03.35.22.373265 PL111 words 2 
+03.35.22.607667 PL111 words 2 
+03.35.22.810813 PL111 words 2 
+03.35.22.998332 PL111 words 2 
+03.35.23.201527 PL111 words 2 
+03.35.23.388999 PL111 words 2 
+03.35.23.576521 PL111 words 2 
+03.35.23.798335 PL111 words 2 
+03.35.23.987919 PL111 words 2 
+03.35.29.467667 PL111 words 2 
+03.35.29.689657 PL111 words 2 
+03.35.29.905847 PL111 words 2 
+03.35.30.112013 PL111 words 2 
+03.35.30.352116 PL111 words 2 
+03.35.30.637881 PL111 words 2 
+03.35.30.862980 PL111 words 2 
+03.35.31.055494 PL111 words 2 
+03.35.31.296133 PL111 words 2 
+03.35.31.535904 PL111 words 2 
+03.35.31.759867 PL111 words 2 
+03.35.31.961904 PL111 words 2 
+03.35.32.198031 PL111 words 2 
+03.35.32.403175 PL111 words 2 
+03.35.32.616379 PL111 words 2 
+03.35.32.813604 PL111 words 2 
+03.35.33.013731 PL111 words 2 
+03.35.33.229915 PL111 words 2 
+03.35.33.699378 PL111 words 2 
+03.35.33.899979 PL111 words 2 
+03.35.36.688565 PL111 words 2 
+03.35.36.876125 PL111 words 2 
+03.35.37.032389 PL111 words 2 
+03.35.37.563699 PL111 words 2 
+03.35.37.594913 PL111 words 2 
+03.35.37.641793 PL111 words 2 
+03.35.37.673082 PL111 words 2 
+03.35.37.704300 PL111 words 2 
+03.35.37.751180 PL111 words 2 
+03.35.37.782433 PL111 words 2 
+03.35.37.813688 PL111 words 2 
+03.35.37.860605 PL111 words 2 
+03.35.37.891858 PL111 words 2 
+03.35.37.938739 PL111 words 2 
+03.35.37.969991 PL111 words 2 
+03.35.38.001207 PL111 words 2 
+03.35.38.048130 PL111 words 2 
+03.35.38.079382 PL111 words 2 
+03.35.38.126221 PL111 words 2 
+03.35.38.157473 PL111 words 2 
+03.35.38.188765 PL111 words 2 
+03.35.38.235608 PL111 words 2 
+03.35.38.266860 PL111 words 2 
+03.35.38.298113 PL111 words 2 
+03.35.38.344995 PL111 words 2 
+03.35.38.376285 PL111 words 2 
+03.35.38.423235 PL111 words 2 
+03.35.38.454493 PL111 words 2 
+03.35.38.485708 PL111 words 2 
+03.35.38.532620 PL111 words 2 
+03.35.38.563878 PL111 words 2 
+03.35.38.595107 PL111 words 2 
+03.35.38.642013 PL111 words 2 
+03.35.38.673260 PL111 words 2 
+03.35.38.720163 PL111 words 2 
+03.35.38.751404 PL111 words 2 
+03.35.38.782613 PL111 words 2 
+03.35.38.829494 PL111 words 2 
+03.35.38.860747 PL111 words 2 
+03.35.38.907628 PL111 words 2 
+03.35.38.938914 PL111 words 2 
+03.35.38.970173 PL111 words 2 
+03.35.39.017014 PL111 words 2 
+03.35.39.048267 PL111 words 2 
+03.35.39.079554 PL111 words 2 
+03.35.39.126401 PL111 words 2 
+03.35.39.157653 PL111 words 2 
+03.35.39.204574 PL111 words 2 
+03.35.39.235788 PL111 words 2 
+03.35.39.267041 PL111 words 2 
+03.35.39.313961 PL111 words 2 
+03.35.39.345225 PL111 words 2 
+03.35.39.376472 PL111 words 2 
+03.35.39.423307 PL111 words 2 
+03.35.39.454602 PL111 words 2 
+03.35.39.501442 PL111 words 2 
+03.35.39.532727 PL111 words 2 
+03.35.39.563981 PL111 words 2 
+03.35.39.610863 PL111 words 2 
+03.35.39.642120 PL111 words 2 
+03.35.39.673334 PL111 words 2 
+03.35.39.720215 PL111 words 2 
+03.35.39.751520 PL111 words 2 
+03.35.39.798390 PL111 words 2 
+03.35.39.829601 PL111 words 2 
+03.35.39.860854 PL111 words 2 
+03.35.39.907735 PL111 words 2 
+03.35.39.938989 PL111 words 2 
+03.35.39.985867 PL111 words 2 
+03.35.40.017121 PL111 words 2 
+03.35.40.048375 PL111 words 2 
+03.35.40.095257 PL111 words 2 
+03.35.40.126508 PL111 words 2 
+03.35.40.314030 PL111 words 1 
+03.35.40.829747 PL111 words 1 
+03.35.40.876588 PL111 words 1 
+03.35.40.907844 PL111 words 1 
+03.35.40.939095 PL111 words 1 
+03.35.40.986002 PL111 words 1 
+03.35.41.017235 PL111 words 1 
+03.35.41.064109 PL111 words 1 
+03.35.41.095362 PL111 words 1 
+03.35.41.126665 PL111 words 1 
+03.35.41.173496 PL111 words 1 
+03.35.41.204748 PL111 words 1 
+03.35.41.251628 PL111 words 1 
+03.35.41.282883 PL111 words 1 
+03.35.41.314220 PL111 words 1 
+03.35.41.354430 PL111 words 1 
+03.35.41.385634 PL111 words 1 
+03.35.41.432513 PL111 words 1 
+03.35.41.463798 PL111 words 1 
+03.35.41.510682 PL111 words 1 
+03.35.41.541946 PL111 words 1 
+03.35.41.573192 PL111 words 1 
+03.35.41.620075 PL111 words 1 
+03.35.41.651284 PL111 words 1 
+03.35.41.698165 PL111 words 1 
+03.35.41.729418 PL111 words 1 
+03.35.41.760672 PL111 words 1 
+03.35.41.807592 PL111 words 1 
+03.35.41.838843 PL111 words 1 
+03.35.41.870059 PL111 words 1 
+03.35.41.916969 PL111 words 1 
+03.35.41.948233 PL111 words 1 
+03.35.41.995072 PL111 words 1 
+03.35.42.026325 PL111 words 1 
+03.35.42.057579 PL111 words 1 
+03.35.42.104458 PL111 words 1 
+03.35.42.135751 PL111 words 1 
+03.35.42.166977 PL111 words 1 
+03.35.42.213871 PL111 words 1 
+03.35.42.245098 PL111 words 1 
+03.35.42.292020 PL111 words 1 
+03.35.42.323272 PL111 words 1 
+03.35.42.354486 PL111 words 1 
+03.35.42.401403 PL111 words 1 
+03.35.42.432659 PL111 words 1 
+03.35.42.463874 PL111 words 1 
+03.35.42.510753 PL111 words 1 
+03.35.42.542005 PL111 words 1 
+03.35.42.588885 PL111 words 1 
+03.35.42.620139 PL111 words 1 
+03.35.42.651392 PL111 words 1 
+03.35.42.698273 PL111 words 1 
+03.35.42.729526 PL111 words 1 
+03.35.42.776456 PL111 words 1 
+03.35.42.807702 PL111 words 1 
+03.35.42.838938 PL111 words 1 
+03.35.42.885841 PL111 words 1 
+03.35.42.917157 PL111 words 1 
+03.35.42.948337 PL111 words 1 
+03.35.42.995179 PL111 words 1 
+03.35.43.026471 PL111 words 1 
+03.35.43.073312 PL111 words 1 
+03.35.43.104566 PL111 words 1 
+03.35.43.135821 PL111 words 1 
+03.35.43.182739 PL111 words 1 
+03.35.43.213966 PL111 words 1 
+03.35.43.245206 PL111 words 1 
+03.35.43.292087 PL111 words 1 
+03.35.43.323339 PL111 words 1 
+03.35.43.370273 PL111 words 1 
+03.35.43.401525 PL111 words 1 
+03.35.43.432767 PL111 words 1 
+03.35.43.479650 PL111 words 1 
+03.35.43.510901 PL111 words 1 
+03.35.43.542112 PL111 words 1 
+03.35.43.588993 PL111 words 1 
+03.35.43.620284 PL111 words 1 
+03.35.43.667167 PL111 words 1 
+03.35.43.698414 PL111 words 1 
+03.35.43.729676 PL111 words 1 
+03.35.43.776562 PL111 words 1 
+03.35.43.807819 PL111 words 1 
+03.35.43.854690 PL111 words 1 
+03.35.43.885900 PL111 words 1 
+03.35.43.917193 PL111 words 1 
+03.35.43.964067 PL111 words 1 
+03.35.43.995307 PL111 words 1 
+03.35.44.026590 PL111 words 1 
+03.35.44.073471 PL111 words 1 
+03.35.44.104673 PL111 words 1 
+03.35.44.151556 PL111 words 1 
+03.35.44.182809 PL111 words 1 
+03.35.44.214062 PL111 words 1 
+03.35.44.260979 PL111 words 1 
+03.35.44.292227 PL111 words 1 
+10.02.28.687346 PL111 login 
+10.03.07.291738 PL111 picturestory v 
+10.03.07.416760 PL111 picturestory v 
+10.03.07.604271 PL111 picturestory v 
+10.03.07.698013 PL111 picturestory v 
+10.03.07.901195 PL111 picturestory v 
+10.03.07.948069 PL111 picturestory v 
+10.03.08.151216 PL111 picturestory v 
+10.03.08.260601 PL111 picturestory v 
+10.03.08.416859 PL111 picturestory v 
+10.03.08.510629 PL111 picturestory v 
+10.03.08.666912 PL111 picturestory v 
+10.03.08.760646 PL111 picturestory v 
+10.03.08.979431 PL111 picturestory v 
+10.03.08.994837 PL111 picturestory v 
+10.03.09.213827 PL111 picturestory v 
+10.03.09.354453 PL111 picturestory v 
+10.03.09.526354 PL111 picturestory v 
+10.03.09.635507 PL111 picturestory v 
+10.03.09.823284 PL111 picturestory v 
+10.03.09.932677 PL111 picturestory v 
+10.03.10.135788 PL111 picturestory v 
+10.03.10.292065 PL111 picturestory v 
+10.03.10.432728 PL111 picturestory v 
+10.03.10.588733 PL111 picturestory v 
+10.03.10.745228 PL111 picturestory v 
+10.03.10.870243 PL111 picturestory v 
+10.03.11.026513 PL111 picturestory v 
+10.03.11.151290 PL111 picturestory v 
+10.03.11.281838 PL111 picturestory v 
+10.03.11.422239 PL111 picturestory v 
+10.03.11.547464 PL111 picturestory v 
+10.03.11.672503 PL111 picturestory v 
+10.03.11.797522 PL111 picturestory v 
+10.03.11.922529 PL111 picturestory v 
+10.03.12.063163 PL111 picturestory v 
+10.03.12.187913 PL111 picturestory v 
+10.03.12.344425 PL111 picturestory v 
+10.03.12.453821 PL111 picturestory v 
+10.03.12.610084 PL111 picturestory v 
+10.03.12.703850 PL111 picturestory v 
+10.03.12.860129 PL111 picturestory v 
+10.03.12.985136 PL111 picturestory v 
+10.03.13.172648 PL111 picturestory v 
+10.03.13.297654 PL111 picturestory v 
+10.03.13.453941 PL111 picturestory v 
+10.03.13.609975 PL111 picturestory v 
+10.03.13.735197 PL111 picturestory v 
+10.03.13.891497 PL111 picturestory v 
+10.03.14.016480 PL111 picturestory v 
+10.03.14.188393 PL111 picturestory v 
+10.03.14.329014 PL111 picturestory v 
+10.03.14.485287 PL111 picturestory v 
+10.03.14.641313 PL111 picturestory v 
+10.03.14.782185 PL111 picturestory v 
+10.03.14.954195 PL111 picturestory v 
+10.03.15.063822 PL111 picturestory v 
+10.03.15.220090 PL111 picturestory v 
+10.03.15.345136 PL111 picturestory v 
+10.03.15.501409 PL111 picturestory v 
+10.03.15.642015 PL111 picturestory v 
+10.03.15.767054 PL111 picturestory v 
+10.03.15.923306 PL111 picturestory v 
+10.03.16.095201 PL111 picturestory v 
+10.03.16.251464 PL111 picturestory v 
+10.03.16.376469 PL111 picturestory v 
+10.03.16.548394 PL111 picturestory v 
+10.03.16.704658 PL111 picturestory v 
+10.03.16.845260 PL111 picturestory v 
+10.03.16.985919 PL111 picturestory v 
+10.03.17.110941 PL111 picturestory v 
+10.03.17.345341 PL111 picturestory v 
+10.03.17.986047 PL111 picturestory v 
+10.03.18.142218 PL111 picturestory  
+10.03.18.251704 PL111 picturestory  
+10.03.18.392343 PL111 picturestory  
+10.03.18.486073 PL111 picturestory  
+10.03.18.673613 PL111 picturestory v 
+10.03.18.751735 PL111 picturestory v 
+10.03.18.907744 PL111 picturestory v 
+10.03.18.986128 PL111 picturestory v 
+10.03.19.189303 PL111 picturestory v 
+10.03.19.236180 PL111 picturestory v 
+10.03.19.408080 PL111 picturestory v 
+10.03.19.501798 PL111 picturestory v 
+10.03.19.658096 PL111 picturestory v 
+10.03.19.783110 PL111 picturestory v 
+10.03.19.908094 PL111 picturestory v 
+10.03.20.033139 PL111 picturestory  
+10.03.20.173776 PL111 picturestory  
+10.03.20.314391 PL111 picturestory v 
+10.03.20.439203 PL111 picturestory v 
+10.03.20.564453 PL111 picturestory v 
+10.03.20.673837 PL111 picturestory v 
+10.03.20.876984 PL111 picturestory v 
+10.03.21.001980 PL111 picturestory v 
+10.03.21.189496 PL111 picturestory v 
+10.03.21.220741 PL111 picturestory v 
+10.03.21.439541 PL111 picturestory v 
+10.03.21.517671 PL111 picturestory v 
+10.03.21.705194 PL111 picturestory v 
+10.03.21.814587 PL111 picturestory v 
+10.03.21.986429 PL111 picturestory v 
+10.03.22.252129 PL111 picturestory v 
+10.03.22.455256 PL111 picturestory v 
+10.03.22.564648 PL111 picturestory v 
+10.03.22.752169 PL111 picturestory v 
+10.03.22.845931 PL111 picturestory v 
+10.03.23.017834 PL111 picturestory v 
+10.03.23.127212 PL111 picturestory v 
+10.03.23.330342 PL111 picturestory v 
+10.03.23.377232 PL111 picturestory v 
+10.03.23.580145 PL111 picturestory v 
+10.03.23.705406 PL111 picturestory v 
+10.03.23.923947 PL111 picturestory v 
+10.03.24.064801 PL111 picturestory v 
+10.03.24.173935 PL111 picturestory v 
+10.03.24.361695 PL111 picturestory v 
+10.03.24.533597 PL111 picturestory v 
+10.03.24.643012 PL111 picturestory v 
+10.03.24.814880 PL111 picturestory v 
+10.03.24.955542 PL111 picturestory v 
+10.03.25.143050 PL111 picturestory v 
+10.03.25.236788 PL111 picturestory v 
+10.03.25.377454 PL111 picturestory v 
+10.03.25.486838 PL111 picturestory v 
+10.03.25.643118 PL111 picturestory v 
+10.03.25.736865 PL111 picturestory v 
+10.03.25.893135 PL111 picturestory v 
+10.03.26.033751 PL111 picturestory v 
+10.03.26.143153 PL111 picturestory v 
+10.03.26.283809 PL111 picturestory v 
+10.03.26.377552 PL111 picturestory v 
+10.03.26.533826 PL111 picturestory v 
+10.03.26.643194 PL111 picturestory v 
+10.03.26.799497 PL111 picturestory v 
+10.03.26.956090 PL111 picturestory v 
+10.03.27.065468 PL111 picturestory v 
+10.03.27.315530 PL111 picturestory v 
+10.03.27.503043 PL111 picturestory v 
+10.03.27.659298 PL111 picturestory v 
+10.03.27.862192 PL111 picturestory v 
+10.03.28.003104 PL111 picturestory v 
+10.03.28.190595 PL111 picturestory v 
+10.03.28.253111 PL111 picturestory v 
+10.03.28.471887 PL111 picturestory v 
+10.03.28.612546 PL111 picturestory  
+10.03.28.737587 PL111 picturestory  
+10.03.28.971687 PL111 picturestory v 
+10.03.28.971687 PL111 picturestory v 
+10.03.29.221985 PL111 picturestory v 
+10.03.29.300131 PL111 picturestory v 
+10.03.29.550129 PL111 picturestory v 
+10.03.29.581381 PL111 picturestory v 
+10.03.29.800155 PL111 picturestory  
+10.03.29.878619 PL111 picturestory  
+10.03.30.113042 PL111 picturestory v 
+10.03.30.144291 PL111 picturestory v 
+10.03.30.331798 PL111 picturestory v 
+10.03.30.409984 PL111 picturestory v 
+10.03.30.597227 PL111 picturestory v 
+10.03.30.738094 PL111 picturestory v 
+10.03.30.863128 PL111 picturestory v 
+10.03.31.050617 PL111 picturestory v 
+10.03.31.081873 PL111 picturestory v 
+10.03.31.300647 PL111 picturestory v 
+10.03.31.331896 PL111 picturestory v 
+10.03.31.535089 PL111 picturestory v 
+10.03.31.644443 PL111 picturestory v 
+10.03.31.816340 PL111 picturestory v 
+10.03.31.956999 PL111 picturestory  
+10.03.32.035125 PL111 picturestory  
+10.03.32.222645 PL111 picturestory v 
+10.03.32.331812 PL111 picturestory v 
+10.03.32.520915 PL111 picturestory v 
+10.03.32.691417 PL111 picturestory v 
+10.03.32.832090 PL111 picturestory v 
+10.03.33.019608 PL111 picturestory v 
+10.03.33.082110 PL111 picturestory v 
+10.03.33.285232 PL111 picturestory  
+10.03.33.410028 PL111 picturestory  
+10.03.33.597815 PL111 picturestory v 
+10.03.33.644669 PL111 picturestory v 
+10.03.33.847793 PL111 picturestory v 
+10.03.33.879053 PL111 picturestory v 
+10.03.34.066581 PL111 picturestory v 
+10.03.34.160334 PL111 picturestory v 
+10.03.34.316376 PL111 picturestory v 
+10.03.34.379133 PL111 picturestory v 
+10.03.34.519758 PL111 picturestory v 
+10.03.34.675764 PL111 picturestory  
+10.03.34.926084 PL111 picturestory  
+10.03.34.926084 PL111 picturestory  
+10.03.35.161472 PL111 picturestory  
+10.03.35.349194 PL111 picturestory v 
+10.03.35.364610 PL111 picturestory v 
+10.03.35.552339 PL111 picturestory v 
+10.03.35.677369 PL111 picturestory v 
+10.03.35.802373 PL111 picturestory v 
+10.03.35.989888 PL111 picturestory v 
+10.03.36.021137 PL111 picturestory v 
+10.03.36.224317 PL111 picturestory v 
+10.03.36.255344 PL111 picturestory v 
+10.03.36.427466 PL111 picturestory v 
+10.03.36.599131 PL111 picturestory v 
+10.03.36.646241 PL111 picturestory v 
+10.03.36.833730 PL111 picturestory  
+10.03.37.015057 PL111 picturestory  
+10.03.37.265104 PL111 picturestory  
+10.03.37.514126 PL111 picturestory v 
+10.03.37.686019 PL111 picturestory v 
+10.03.37.873537 PL111 picturestory v 
+10.03.37.982915 PL111 picturestory v 
+10.03.38.217315 PL111 picturestory v 
+10.03.38.404834 PL111 picturestory vv 
+10.03.38.561111 PL111 picturestory vv 
+10.03.38.811118 PL111 picturestory  
+10.03.38.920775 PL111 picturestory  
+10.03.39.186447 PL111 picturestory  
+10.03.39.217694 PL111 picturestory v 
+10.03.39.404951 PL111 picturestory v 
+10.03.39.577086 PL111 picturestory  
+10.03.39.717755 PL111 picturestory  
+10.03.39.856786 PL111 picturestory v 
+10.03.39.981823 PL111 picturestory v 
+10.03.40.153726 PL111 picturestory  
+10.03.40.294122 PL111 picturestory  
+10.03.40.637880 PL111 picturestory v 
+10.03.40.716016 PL111 picturestory v 
+10.03.40.966375 PL111 picturestory v 
+10.03.41.107015 PL111 picturestory v 
+10.03.41.325826 PL111 picturestory v 
+10.03.41.486884 PL111 picturestory v 
+10.03.41.640279 PL111 picturestory v 
+10.03.41.765293 PL111 picturestory v 
+10.03.41.984292 PL111 picturestory  
+10.03.42.140572 PL111 picturestory  
+10.03.42.296610 PL111 picturestory v 
+10.03.42.437475 PL111 picturestory v 
+10.03.42.624987 PL111 picturestory v 
+10.03.42.734381 PL111 picturestory v 
+10.03.42.921880 PL111 picturestory v 
+10.03.43.078150 PL111 picturestory  
+10.03.43.218788 PL111 picturestory  
+10.03.43.421958 PL111 picturestory v 
+10.03.43.687598 PL111 picturestory v 
+10.03.43.890729 PL111 picturestory v 
+10.03.44.015758 PL111 picturestory v 
+10.03.44.234540 PL111 picturestory  
+10.03.44.359547 PL111 picturestory  
+10.03.44.547077 PL111 picturestory v 
+10.03.44.687716 PL111 picturestory v 
+10.03.44.891256 PL111 picturestory v 
+10.03.45.000627 PL111 picturestory v 
+10.03.45.250653 PL111 picturestory v 
+10.03.45.344404 PL111 picturestory v 
+10.03.45.531830 PL111 picturestory v 
+10.03.45.719462 PL111 picturestory v 
+10.03.45.813224 PL111 picturestory v 
+10.03.46.031726 PL111 picturestory v 
+10.03.46.156993 PL111 picturestory v 
+10.03.46.360138 PL111 picturestory v 
+10.03.46.422637 PL111 picturestory v 
+10.03.46.641444 PL111 picturestory v 
+10.03.46.782044 PL111 picturestory v 
+10.03.47.000855 PL111 picturestory v 
+10.03.47.141220 PL111 picturestory v 
+10.03.47.375875 PL111 picturestory v 
+10.03.47.391285 PL111 picturestory v 
+10.03.47.688431 PL111 picturestory v 
+10.03.47.891555 PL111 picturestory v 
+10.03.48.079083 PL111 picturestory v 
+10.03.48.282240 PL111 picturestory v 
+10.03.48.532020 PL111 picturestory v 
+10.03.48.657275 PL111 picturestory v 
+10.03.48.876551 PL111 picturestory  
+10.03.49.032818 PL111 picturestory  
+10.03.49.282839 PL111 picturestory v 
+10.03.49.423469 PL111 picturestory v 
+10.03.49.673522 PL111 picturestory v 
+10.03.49.829789 PL111 picturestory v 
+10.03.50.033004 PL111 picturestory v 
+10.03.50.189266 PL111 picturestory v 
+10.03.50.361170 PL111 picturestory v 
+10.03.50.423643 PL111 picturestory v 
+10.03.50.658054 PL111 picturestory v 
+10.03.50.783058 PL111 picturestory v 
+10.03.50.970587 PL111 picturestory v 
+10.03.51.064359 PL111 picturestory v 
+10.03.51.314394 PL111 picturestory  
+10.03.51.470663 PL111 picturestory  
+10.03.51.705049 PL111 picturestory v 
+10.03.51.845795 PL111 picturestory v 
+10.03.51.986716 PL111 picturestory v 
+10.03.52.314857 PL111 picturestory v 
+10.03.52.486491 PL111 picturestory v 
+10.03.52.627406 PL111 picturestory v 
+10.03.52.830538 PL111 picturestory v 
+10.03.52.986785 PL111 picturestory v 
+10.03.53.143073 PL111 picturestory v 
+10.03.53.299338 PL111 picturestory v 
+10.03.53.471015 PL111 picturestory v 
+10.03.53.596239 PL111 picturestory v 
+10.03.53.752507 PL111 picturestory v 
+10.03.53.861910 PL111 picturestory v 
+10.03.54.018176 PL111 picturestory  
+10.03.54.143191 PL111 picturestory  
+10.03.54.315092 PL111 picturestory v 
+10.03.54.424455 PL111 picturestory v 
+10.03.54.705493 PL111 picturestory v 
+10.03.54.893049 PL111 picturestory  
+10.03.55.127654 PL111 picturestory  
+10.03.55.315191 PL111 picturestory v 
+10.03.55.580573 PL111 picturestory v 
+10.03.55.737091 PL111 picturestory v 
+10.03.55.971861 PL111 picturestory v 
+10.03.56.175027 PL111 picturestory v 
+10.03.56.425025 PL111 picturestory v 
+10.03.56.596699 PL111 picturestory v 
+10.03.56.909479 PL111 picturestory v 
+10.03.57.002995 PL111 picturestory v 
+10.03.57.190761 PL111 picturestory v 
+10.04.11.863233 PL111 picturestory t 
+10.04.11.863233 PL111 picturestory t 
+10.04.11.997923 PL111 picturestory t 
+10.04.12.013313 PL111 picturestory t 
+10.04.12.154208 PL111 picturestory t 
+10.04.12.169563 PL111 picturestory t 
+10.04.12.263566 PL111 picturestory t 
+10.04.12.278951 PL111 picturestory t 
+10.04.12.419806 PL111 picturestory t 
+10.04.12.419806 PL111 picturestory t 
+10.04.12.497971 PL111 picturestory t 
+10.04.12.513350 PL111 picturestory t 
+10.04.12.654229 PL111 picturestory t 
+10.04.12.669634 PL111 picturestory t 
+10.04.12.763619 PL111 picturestory t 
+10.04.12.763619 PL111 picturestory t 
+10.04.12.903994 PL111 picturestory t 
+10.04.12.903994 PL111 picturestory t 
+10.04.13.013637 PL111 picturestory t 
+10.04.13.013637 PL111 picturestory t 
+10.04.13.169647 PL111 picturestory t 
+10.04.13.169647 PL111 picturestory t 
+10.04.13.279306 PL111 picturestory t 
+10.04.13.294703 PL111 picturestory t 
+10.04.13.466814 PL111 picturestory t 
+10.04.13.482189 PL111 picturestory t 
+10.04.13.560586 PL111 picturestory t 
+10.04.13.560586 PL111 picturestory t 
+10.04.13.685605 PL111 picturestory t 
+10.04.13.700953 PL111 picturestory t 
+10.04.13.794989 PL111 picturestory t 
+10.04.13.810365 PL111 picturestory t 
+10.04.13.966607 PL111 picturestory t 
+10.04.13.966607 PL111 picturestory t 
+10.04.14.076256 PL111 picturestory t 
+10.04.14.091645 PL111 picturestory t 
+10.04.14.216928 PL111 picturestory t 
+10.04.14.232261 PL111 picturestory t 
+10.04.14.326296 PL111 picturestory t 
+10.04.14.341672 PL111 picturestory t 
+10.04.14.482558 PL111 picturestory t 
+10.04.14.497939 PL111 picturestory t 
+10.04.14.591944 PL111 picturestory t 
+10.04.14.591944 PL111 picturestory t 
+10.04.14.716963 PL111 picturestory t 
+10.04.14.732339 PL111 picturestory t 
+10.04.14.857595 PL111 picturestory t 
+10.04.14.872954 PL111 picturestory t 
+10.04.14.967004 PL111 picturestory t 
+10.04.14.967004 PL111 picturestory t 
+10.04.15.107372 PL111 picturestory t 
+10.04.15.107372 PL111 picturestory t 
+10.04.15.248272 PL111 picturestory t 
+10.04.15.263646 PL111 picturestory t 
+10.04.15.404536 PL111 picturestory t 
+10.04.15.419916 PL111 picturestory t 
+10.04.15.529519 PL111 picturestory t 
+10.04.15.544918 PL111 picturestory t 
+10.04.15.670189 PL111 picturestory t 
+10.04.15.685565 PL111 picturestory t 
+10.04.15.779574 PL111 picturestory t 
+10.04.15.794953 PL111 picturestory t 
+10.04.15.951790 PL111 picturestory t 
+10.04.15.967203 PL111 picturestory t 
+10.04.16.092400 PL111 picturestory t 
+10.04.16.092400 PL111 picturestory t 
+10.04.16.233074 PL111 picturestory t 
+10.04.16.248461 PL111 picturestory t 
+10.04.16.358095 PL111 picturestory t 
+10.04.16.373472 PL111 picturestory t 
+10.04.16.514359 PL111 picturestory t 
+10.04.16.529740 PL111 picturestory t 
+10.04.16.654979 PL111 picturestory t 
+10.04.16.670393 PL111 picturestory t 
+10.04.16.795370 PL111 picturestory t 
+10.04.16.795370 PL111 picturestory t 
+10.04.16.873745 PL111 picturestory t 
+10.04.16.889153 PL111 picturestory t 
+10.04.17.061295 PL111 picturestory t 
+10.04.17.076652 PL111 picturestory t 
+10.04.17.186298 PL111 picturestory t 
+10.04.17.201687 PL111 picturestory t 
+10.04.17.342575 PL111 picturestory t 
+10.04.17.342575 PL111 picturestory t 
+10.04.17.451964 PL111 picturestory t 
+10.04.17.467357 PL111 picturestory t 
+10.04.17.592586 PL111 picturestory t 
+10.04.17.607981 PL111 picturestory t 
+10.04.17.811373 PL111 picturestory t 
+10.04.17.811373 PL111 picturestory t 
+10.04.17.936387 PL111 picturestory t 
+10.04.17.951743 PL111 picturestory t 
+10.04.18.139538 PL111 picturestory t 
+10.04.18.139538 PL111 picturestory t 
+10.04.18.217663 PL111 picturestory t 
+10.04.18.233066 PL111 picturestory t 
+10.04.18.452039 PL111 picturestory t 
+10.04.18.467453 PL111 picturestory t 
+10.04.18.592689 PL111 picturestory t 
+10.04.18.608089 PL111 picturestory t 
+10.04.18.748943 PL111 picturestory t 
+10.04.18.764368 PL111 picturestory t 
+10.04.18.842717 PL111 picturestory t 
+10.04.18.858132 PL111 picturestory t 
+10.04.19.202142 PL111 picturestory t 
+10.04.19.217528 PL111 picturestory t 
+10.04.19.483421 PL111 picturestory t 
+10.04.19.498808 PL111 picturestory t 
+10.04.19.655316 PL111 picturestory t 
+10.04.19.655316 PL111 picturestory t 
+10.04.19.780064 PL111 picturestory t 
+10.04.19.780064 PL111 picturestory t 
+10.04.19.983480 PL111 picturestory t 
+10.04.19.983480 PL111 picturestory t 
+10.04.20.108490 PL111 picturestory t 
+10.04.20.123854 PL111 picturestory t 
+10.04.20.280119 PL111 picturestory t 
+10.04.20.280119 PL111 picturestory t 
+10.04.20.421015 PL111 picturestory t 
+10.04.20.436409 PL111 picturestory t 
+10.04.20.561668 PL111 picturestory t 
+10.04.20.577034 PL111 picturestory t 
+10.04.20.686675 PL111 picturestory t 
+10.04.20.686675 PL111 picturestory t 
+10.04.20.920813 PL111 picturestory t 
+10.04.20.936476 PL111 picturestory t 
+10.04.21.155465 PL111 picturestory  
+10.04.21.170879 PL111 picturestory  
+10.04.21.295853 PL111 picturestory  
+10.04.21.295853 PL111 picturestory  
+10.04.21.452394 PL111 picturestory t 
+10.04.21.452394 PL111 picturestory t 
+10.04.21.546154 PL111 picturestory t 
+10.04.21.561557 PL111 picturestory t 
+10.04.21.733400 PL111 picturestory t 
+10.04.21.749066 PL111 picturestory t 
+10.04.21.858674 PL111 picturestory t 
+10.04.21.858674 PL111 picturestory t 
+10.04.22.014957 PL111 picturestory t 
+10.04.22.030330 PL111 picturestory t 
+10.04.22.218088 PL111 picturestory  
+10.04.22.233478 PL111 picturestory  
+10.04.22.233478 PL111 picturestory  
+10.04.22.249079 PL111 picturestory  
+10.04.22.514748 PL111 picturestory t 
+10.04.22.514748 PL111 picturestory t 
+10.04.22.530409 PL111 picturestory t 
+10.04.22.546036 PL111 picturestory t 
+10.04.22.827528 PL111 picturestory t 
+10.04.22.827528 PL111 picturestory t 
+10.04.22.952546 PL111 picturestory t 
+10.04.22.967954 PL111 picturestory t 
+10.04.23.171309 PL111 picturestory t 
+10.04.23.171309 PL111 picturestory t 
+10.04.23.374450 PL111 picturestory t 
+10.04.23.389852 PL111 picturestory t 
+10.04.23.577608 PL111 picturestory t 
+10.04.23.592975 PL111 picturestory t 
+10.04.23.765130 PL111 picturestory t 
+10.04.23.780494 PL111 picturestory t 
+10.04.23.843274 PL111 picturestory t 
+10.04.23.858652 PL111 picturestory t 
+10.04.24.093282 PL111 picturestory t 
+10.04.24.108654 PL111 picturestory t 
+10.04.24.280822 PL111 picturestory  
+10.04.24.280822 PL111 picturestory  
+10.04.24.437079 PL111 picturestory  
+10.04.24.437079 PL111 picturestory  
+10.04.24.624597 PL111 picturestory t 
+10.04.24.639986 PL111 picturestory t 
+10.04.24.671469 PL111 picturestory t 
+10.04.24.686866 PL111 picturestory t 
+10.04.24.999389 PL111 picturestory t 
+10.04.25.015027 PL111 picturestory t 
+10.04.25.171525 PL111 picturestory t 
+10.04.25.186920 PL111 picturestory t 
+10.04.25.327804 PL111 picturestory t 
+10.04.25.343187 PL111 picturestory t 
+10.04.25.765342 PL111 picturestory  
+10.04.25.780709 PL111 picturestory  
+10.04.25.906414 PL111 picturestory  
+10.04.25.921769 PL111 picturestory  
+10.04.26.125171 PL111 picturestory t 
+10.04.26.140565 PL111 picturestory t 
+10.04.26.250169 PL111 picturestory t 
+10.04.26.265592 PL111 picturestory t 
+10.04.26.562725 PL111 picturestory t 
+10.04.26.562725 PL111 picturestory t 
+10.04.26.734627 PL111 picturestory t 
+10.04.26.734627 PL111 picturestory t 
+10.04.26.969018 PL111 picturestory  
+10.04.26.969018 PL111 picturestory  
+10.04.27.172174 PL111 picturestory  
+10.04.27.187570 PL111 picturestory  
+10.04.27.375301 PL111 picturestory t 
+10.04.27.390701 PL111 picturestory t 
+10.04.27.547193 PL111 picturestory t 
+10.04.27.562594 PL111 picturestory t 
+10.04.27.734725 PL111 picturestory t 
+10.04.27.750113 PL111 picturestory t 
+10.04.27.953477 PL111 picturestory t 
+10.04.27.968891 PL111 picturestory t 
+10.04.28.141016 PL111 picturestory t 
+10.04.28.156407 PL111 picturestory t 
+10.04.28.281654 PL111 picturestory t 
+10.04.28.281654 PL111 picturestory t 
+10.04.28.516049 PL111 picturestory t 
+10.04.28.516049 PL111 picturestory t 
+10.04.28.719216 PL111 picturestory t 
+10.04.28.734576 PL111 picturestory t 
+10.04.28.875472 PL111 picturestory t 
+10.04.28.891179 PL111 picturestory t 
+10.04.29.078966 PL111 picturestory t 
+10.04.29.094352 PL111 picturestory t 
+10.04.29.219615 PL111 picturestory t 
+10.04.29.234993 PL111 picturestory t 
+10.04.29.485244 PL111 picturestory t 
+10.04.29.500646 PL111 picturestory t 
+10.04.29.657162 PL111 picturestory t 
+10.04.29.672554 PL111 picturestory t 
+10.04.29.829053 PL111 picturestory t 
+10.04.29.829053 PL111 picturestory t 
+10.04.30.016578 PL111 picturestory t 
+10.04.30.031973 PL111 picturestory t 
+10.04.30.141597 PL111 picturestory t 
+10.04.30.156968 PL111 picturestory t 
+10.04.30.563497 PL111 picturestory t 
+10.04.30.578864 PL111 picturestory t 
+10.04.30.704151 PL111 picturestory t 
+10.04.30.719527 PL111 picturestory t 
+10.04.30.970141 PL111 picturestory  
+10.04.30.985521 PL111 picturestory  
+10.04.31.142024 PL111 picturestory  
+10.04.31.142024 PL111 picturestory  
+10.04.31.313901 PL111 picturestory t 
+10.04.31.329321 PL111 picturestory t 
+10.04.31.485584 PL111 picturestory t 
+10.04.31.501175 PL111 picturestory t 
+10.04.31.704365 PL111 picturestory t 
+10.04.31.719979 PL111 picturestory t 
+10.04.31.860614 PL111 picturestory t 
+10.04.31.876246 PL111 picturestory t 
+10.04.32.064006 PL111 picturestory  
+10.04.32.079389 PL111 picturestory  
+10.04.32.235903 PL111 picturestory  
+10.04.32.251280 PL111 picturestory  
+10.04.32.439050 PL111 picturestory t 
+10.04.32.454428 PL111 picturestory t 
+10.04.32.579669 PL111 picturestory t 
+10.04.32.595069 PL111 picturestory t 
+10.04.33.110988 PL111 picturestory t 
+10.04.33.126391 PL111 picturestory t 
+10.04.33.267267 PL111 picturestory t 
+10.04.33.282642 PL111 picturestory t 
+10.04.33.532896 PL111 picturestory t 
+10.04.33.548311 PL111 picturestory t 
+10.04.33.704798 PL111 picturestory t 
+10.04.33.720189 PL111 picturestory t 
+10.04.33.892319 PL111 picturestory t 
+10.04.33.907709 PL111 picturestory t 
+10.04.34.064224 PL111 picturestory t 
+10.04.34.079602 PL111 picturestory t 
+10.04.34.267376 PL111 picturestory t 
+10.04.34.282764 PL111 picturestory t 
+10.04.34.454885 PL111 picturestory t 
+10.04.34.470245 PL111 picturestory t 
+10.04.34.642140 PL111 picturestory t 
+10.04.34.642140 PL111 picturestory t 
+10.04.34.798668 PL111 picturestory t 
+10.04.34.814057 PL111 picturestory t 
+10.04.35.017442 PL111 picturestory t 
+10.04.35.032830 PL111 picturestory t 
+10.04.35.095566 PL111 picturestory t 
+10.04.35.095566 PL111 picturestory t 
+10.04.35.361208 PL111 picturestory t 
+10.04.35.361208 PL111 picturestory t 
+10.04.35.486258 PL111 picturestory t 
+10.04.35.486258 PL111 picturestory t 
+10.04.35.720651 PL111 picturestory t 
+10.04.35.720651 PL111 picturestory t 
+10.04.35.892534 PL111 picturestory t 
+10.04.35.892534 PL111 picturestory t 
+10.04.36.111317 PL111 picturestory t 
+10.04.36.111317 PL111 picturestory t 
+10.04.36.267378 PL111 picturestory t 
+10.04.36.267378 PL111 picturestory t 
+10.04.36.501977 PL111 picturestory t 
+10.04.36.517364 PL111 picturestory t 
+10.04.36.642597 PL111 picturestory t 
+10.04.36.657980 PL111 picturestory t 
+10.04.36.798896 PL111 picturestory t 
+10.04.36.814247 PL111 picturestory t 
+10.04.37.033273 PL111 picturestory t 
+10.04.37.048683 PL111 picturestory t 
+10.04.37.158306 PL111 picturestory t 
+10.04.37.173685 PL111 picturestory t 
+10.04.37.421822 PL111 picturestory t 
+10.04.37.437214 PL111 picturestory t 
+10.04.37.540447 PL111 picturestory t 
+10.04.37.548631 PL111 picturestory t 
+10.04.37.689535 PL111 picturestory t 
+10.04.37.704925 PL111 picturestory t 
+10.04.37.939955 PL111 picturestory t 
+10.04.37.955328 PL111 picturestory t 
+10.04.38.109427 PL111 picturestory t 
+10.04.38.124818 PL111 picturestory t 
+10.04.38.296940 PL111 picturestory t 
+10.04.38.312351 PL111 picturestory t 
+10.04.38.499889 PL111 picturestory t 
+10.04.38.499889 PL111 picturestory t 
+10.04.38.687620 PL111 picturestory t 
+10.04.38.703001 PL111 picturestory t 
+10.04.38.843859 PL111 picturestory t 
+10.04.38.859278 PL111 picturestory t 
+10.04.39.062639 PL111 picturestory t 
+10.04.39.062639 PL111 picturestory t 
+10.04.39.250153 PL111 picturestory t 
+10.04.39.250153 PL111 picturestory t 
+10.04.39.500208 PL111 picturestory t 
+10.04.39.515586 PL111 picturestory t 
+10.04.39.640824 PL111 picturestory  
+10.04.39.656201 PL111 picturestory  
+10.04.39.812710 PL111 picturestory  
+10.04.39.828095 PL111 picturestory  
+10.04.40.061312 PL111 picturestory  
+10.04.40.076729 PL111 picturestory  
+10.04.40.186329 PL111 picturestory t 
+10.04.40.201729 PL111 picturestory t 
+10.04.40.373608 PL111 picturestory t 
+10.04.40.373608 PL111 picturestory t 
+10.04.40.577016 PL111 picturestory t 
+10.04.40.577016 PL111 picturestory t 
+10.04.40.686384 PL111 picturestory t 
+10.04.40.686384 PL111 picturestory t 
+10.04.40.952058 PL111 picturestory t 
+10.04.40.967411 PL111 picturestory t 
+10.04.40.998928 PL111 picturestory  
+10.04.41.014304 PL111 picturestory  
+10.04.41.295571 PL111 picturestory  
+10.04.41.295571 PL111 picturestory  
+10.04.41.534440 PL111 picturestory t 
+10.04.41.546481 PL111 picturestory t 
+10.04.41.550641 PL111 picturestory t 
+10.04.41.566294 PL111 picturestory t 
+10.04.41.800670 PL111 picturestory t 
+10.04.41.800670 PL111 picturestory t 
+10.04.41.957210 PL111 picturestory t 
+10.04.41.957210 PL111 picturestory t 
+10.04.42.175709 PL111 picturestory t 
+10.04.42.175709 PL111 picturestory t 
+10.04.42.306031 PL111 picturestory t 
+10.04.42.321385 PL111 picturestory t 
+10.04.42.493522 PL111 picturestory t 
+10.04.42.508928 PL111 picturestory t 
+10.04.42.666785 PL111 picturestory t 
+10.04.42.682146 PL111 picturestory t 
+10.04.42.885548 PL111 picturestory t 
+10.04.42.900945 PL111 picturestory t 
+10.04.43.010579 PL111 picturestory t 
+10.04.43.025958 PL111 picturestory t 
+10.04.43.229354 PL111 picturestory  
+10.04.43.229354 PL111 picturestory  
+10.04.43.416873 PL111 picturestory  
+10.04.43.432251 PL111 picturestory  
+10.04.43.651281 PL111 picturestory t 
+10.04.43.666670 PL111 picturestory t 
+10.04.43.869969 PL111 picturestory t 
+10.04.43.869969 PL111 picturestory t 
+10.04.44.041930 PL111 picturestory  
+10.04.44.057319 PL111 picturestory  
+10.04.44.182581 PL111 picturestory  
+10.04.44.197979 PL111 picturestory  
+10.04.44.416982 PL111 picturestory  
+10.04.44.416982 PL111 picturestory  
+10.04.44.604483 PL111 picturestory t 
+10.04.44.619880 PL111 picturestory t 
+10.04.44.745157 PL111 picturestory t 
+10.04.44.760537 PL111 picturestory t 
+10.04.44.932660 PL111 picturestory t 
+10.04.44.948059 PL111 picturestory t 
+10.04.45.042018 PL111 picturestory t 
+10.04.45.042018 PL111 picturestory t 
+10.04.45.307427 PL111 picturestory t 
+10.04.45.307427 PL111 picturestory t 
+10.04.45.401453 PL111 picturestory  
+10.04.45.401453 PL111 picturestory  
+10.04.45.542101 PL111 picturestory  
+10.04.45.557480 PL111 picturestory  
+10.04.45.792097 PL111 picturestory  
+10.04.45.807508 PL111 picturestory  
+10.04.45.901523 PL111 picturestory t 
+10.04.45.916894 PL111 picturestory t 
+10.04.46.057783 PL111 picturestory t 
+10.04.46.073161 PL111 picturestory t 
+10.04.46.307536 PL111 picturestory t 
+10.04.46.307536 PL111 picturestory t 
+10.04.46.339049 PL111 picturestory t 
+10.04.46.354441 PL111 picturestory t 
+10.04.46.542211 PL111 picturestory t 
+10.04.46.557589 PL111 picturestory t 
+10.04.46.823473 PL111 picturestory t 
+10.04.46.838869 PL111 picturestory t 
+10.04.46.932875 PL111 picturestory t 
+10.04.46.948255 PL111 picturestory t 
+10.04.47.104564 PL111 picturestory t 
+10.04.47.104564 PL111 picturestory t 
+10.04.47.339159 PL111 picturestory t 
+10.04.47.354548 PL111 picturestory t 
+10.04.47.401647 PL111 picturestory t 
+10.04.47.417046 PL111 picturestory t 
+10.04.47.573578 PL111 picturestory t 
+10.04.47.588948 PL111 picturestory t 
+10.04.47.792334 PL111 picturestory t 
+10.04.47.807722 PL111 picturestory t 
+10.04.47.839208 PL111 picturestory t 
+10.04.47.854603 PL111 picturestory t 
+10.04.48.042370 PL111 picturestory t 
+10.04.48.057724 PL111 picturestory t 
+10.04.48.120472 PL111 picturestory t 
+10.04.48.135898 PL111 picturestory t 
+10.04.48.292396 PL111 picturestory t 
+10.04.48.307775 PL111 picturestory t 
+10.04.48.448656 PL111 picturestory t 
+10.04.48.448656 PL111 picturestory t 
+10.04.48.542423 PL111 picturestory t 
+10.04.48.557803 PL111 picturestory t 
+10.04.48.729925 PL111 picturestory t 
+10.04.48.745322 PL111 picturestory t 
+10.04.48.854958 PL111 picturestory t 
+10.04.48.870337 PL111 picturestory t 
+10.04.49.104973 PL111 picturestory t 
+10.04.49.120364 PL111 picturestory t 
+10.04.49.182863 PL111 picturestory t 
+10.04.49.198496 PL111 picturestory t 
+10.04.49.355012 PL111 picturestory t 
+10.04.49.370366 PL111 picturestory t 
+10.04.49.573778 PL111 picturestory t 
+10.04.49.589179 PL111 picturestory t 
+10.04.49.683172 PL111 picturestory  
+10.04.49.698551 PL111 picturestory  
+10.04.49.808181 PL111 picturestory  
+10.04.49.823566 PL111 picturestory  
+10.04.50.026947 PL111 picturestory  
+10.04.50.042338 PL111 picturestory  
+10.04.50.058184 PL111 picturestory t 
+10.04.50.073603 PL111 picturestory t 
+10.04.50.245702 PL111 picturestory t 
+10.04.50.261128 PL111 picturestory t 
+10.04.50.370745 PL111 picturestory t 
+10.04.50.386119 PL111 picturestory t 
+10.04.50.511382 PL111 picturestory t 
+10.04.50.526764 PL111 picturestory t 
+10.04.50.745784 PL111 picturestory t 
+10.04.50.761170 PL111 picturestory t 
+10.04.50.776793 PL111 picturestory  
+10.04.50.792418 PL111 picturestory  
+10.04.51.089561 PL111 picturestory  
+10.04.51.104951 PL111 picturestory  
+10.04.51.120578 PL111 picturestory  
+10.04.51.136205 PL111 picturestory  
+10.04.51.464599 PL111 picturestory  
+10.04.51.480005 PL111 picturestory  
+10.04.51.480005 PL111 picturestory t 
+10.04.51.495592 PL111 picturestory t 
+10.04.51.730230 PL111 picturestory t 
+10.04.51.730230 PL111 picturestory t 
+10.04.51.777145 PL111 picturestory  
+10.04.51.777145 PL111 picturestory  
+10.04.52.027164 PL111 picturestory  
+10.04.52.042526 PL111 picturestory  
+10.04.52.167806 PL111 picturestory  
+10.04.52.183168 PL111 picturestory  
+10.04.52.417814 PL111 picturestory  
+10.04.52.433219 PL111 picturestory  
+10.04.52.558471 PL111 picturestory t 
+10.04.52.573860 PL111 picturestory t 
+10.04.52.652249 PL111 picturestory t 
+10.04.52.667624 PL111 picturestory t 
+10.04.52.870984 PL111 picturestory t 
+10.04.52.886406 PL111 picturestory t 
+10.04.52.933514 PL111 picturestory  
+10.04.52.933514 PL111 picturestory  
+10.04.53.199176 PL111 picturestory  
+10.04.53.214553 PL111 picturestory  
+10.04.53.230206 PL111 picturestory  
+10.04.53.230206 PL111 picturestory  
+10.04.53.568911 PL111 picturestory t 
+10.04.53.584564 PL111 picturestory t 
+10.04.53.600165 PL111 picturestory t 
+10.04.53.615819 PL111 picturestory t 
+10.04.53.782416 PL111 picturestory t 
+10.04.53.796871 PL111 picturestory t 
+10.04.54.000618 PL111 picturestory t 
+10.04.54.015996 PL111 picturestory t 
+10.04.54.235031 PL111 picturestory  
+10.04.54.235031 PL111 picturestory  
+10.04.54.250371 PL111 picturestory  
+10.04.54.266023 PL111 picturestory  
+10.04.54.453773 PL111 picturestory  
+10.04.54.469171 PL111 picturestory  
+10.04.54.625686 PL111 picturestory t 
+10.04.54.641064 PL111 picturestory t 
+10.04.54.719402 PL111 picturestory t 
+10.04.54.734832 PL111 picturestory t 
+10.04.54.938202 PL111 picturestory  
+10.04.54.953582 PL111 picturestory  
+10.04.55.000697 PL111 picturestory  
+10.04.55.016083 PL111 picturestory  
+10.04.55.188247 PL111 picturestory  
+10.04.55.203628 PL111 picturestory  
+10.04.55.219251 PL111 picturestory t 
+10.04.55.234852 PL111 picturestory t 
+10.04.55.391396 PL111 picturestory t 
+10.04.55.406772 PL111 picturestory t 
+10.04.55.532023 PL111 picturestory  
+10.04.55.547386 PL111 picturestory  
+10.04.55.657045 PL111 picturestory  
+10.04.55.657045 PL111 picturestory  
+10.04.55.844569 PL111 picturestory t 
+10.04.55.859945 PL111 picturestory t 
+10.04.55.891436 PL111 picturestory t 
+10.04.55.906827 PL111 picturestory t 
+10.04.56.094600 PL111 picturestory t 
+10.04.56.109971 PL111 picturestory t 
+10.04.56.125599 PL111 picturestory t 
+10.04.56.141251 PL111 picturestory t 
+10.04.56.328982 PL111 picturestory t 
+10.04.56.344347 PL111 picturestory t 
+10.04.56.438106 PL111 picturestory t 
+10.04.56.438106 PL111 picturestory t 
+10.04.56.563363 PL111 picturestory t 
+10.04.56.578776 PL111 picturestory t 
+10.04.56.766510 PL111 picturestory t 
+10.04.56.781933 PL111 picturestory t 
+10.04.56.813422 PL111 picturestory t 
+10.04.56.828790 PL111 picturestory t 
+10.04.57.032182 PL111 picturestory  
+10.04.57.032182 PL111 picturestory  
+10.04.57.204058 PL111 picturestory  
+10.04.57.204058 PL111 picturestory  
+10.04.57.438487 PL111 picturestory t 
+10.04.57.438487 PL111 picturestory t 
+10.04.57.469710 PL111 picturestory t 
+10.04.57.485119 PL111 picturestory t 
+10.04.57.626008 PL111 picturestory t 
+10.04.57.641386 PL111 picturestory t 
+10.04.57.844786 PL111 picturestory  
+10.04.57.860180 PL111 picturestory  
+10.04.57.875805 PL111 picturestory  
+10.04.57.891439 PL111 picturestory  
+10.04.58.094795 PL111 picturestory t 
+10.04.58.110201 PL111 picturestory t 
+10.04.58.251062 PL111 picturestory t 
+10.04.58.266454 PL111 picturestory t 
+10.04.58.482981 PL111 picturestory  
+10.04.58.498633 PL111 picturestory  
+10.04.58.514259 PL111 picturestory  
+10.04.58.529887 PL111 picturestory  
+10.04.58.764544 PL111 picturestory  
+10.04.58.764544 PL111 picturestory  
+10.04.58.941327 PL111 picturestory t 
+10.04.58.956709 PL111 picturestory t 
+10.04.59.050708 PL111 picturestory t 
+10.04.59.066094 PL111 picturestory t 
+10.04.59.285117 PL111 picturestory t 
+10.04.59.300512 PL111 picturestory t 
+10.04.59.394520 PL111 picturestory t 
+10.04.59.409857 PL111 picturestory t 
+10.04.59.550774 PL111 picturestory t 
+10.04.59.566167 PL111 picturestory t 
+10.04.59.753885 PL111 picturestory  
+10.04.59.753885 PL111 picturestory  
+10.04.59.769296 PL111 picturestory  
+10.04.59.784923 PL111 picturestory  
+10.04.59.988318 PL111 picturestory tt 
+10.05.00.003696 PL111 picturestory tt 
+10.05.00.019297 PL111 picturestory tt 
+10.05.00.034923 PL111 picturestory tt 
+10.05.00.207092 PL111 picturestory tt 
+10.05.00.222474 PL111 picturestory tt 
+10.05.00.378987 PL111 picturestory  
+10.05.00.394371 PL111 picturestory  
+10.05.00.472709 PL111 picturestory  
+10.05.00.488122 PL111 picturestory  
+10.05.00.691519 PL111 picturestory t 
+10.05.00.706914 PL111 picturestory t 
+10.05.00.722538 PL111 picturestory t 
+10.05.00.722538 PL111 picturestory t 
+10.05.00.957160 PL111 picturestory tt 
+10.05.00.972538 PL111 picturestory tt 
+10.05.01.097809 PL111 picturestory tt 
+10.05.01.113208 PL111 picturestory tt 
+10.05.01.316566 PL111 picturestory  
+10.05.01.331964 PL111 picturestory  
+10.05.01.394486 PL111 picturestory  
+10.05.01.410097 PL111 picturestory  
+10.05.01.660349 PL111 picturestory t 
+10.05.01.660349 PL111 picturestory t 
+10.05.01.894498 PL111 picturestory t 
+10.05.01.894498 PL111 picturestory t 
+10.05.02.129172 PL111 picturestory  
+10.05.02.144525 PL111 picturestory  
+10.05.02.160192 PL111 picturestory  
+10.05.02.160192 PL111 picturestory  
+10.05.02.504212 PL111 picturestory tt 
+10.05.02.504212 PL111 picturestory tt 
+10.05.02.629202 PL111 picturestory tt 
+10.05.02.644580 PL111 picturestory tt 
+10.05.02.863630 PL111 picturestory t 
+10.05.02.878979 PL111 picturestory t 
+10.05.03.035520 PL111 picturestory t 
+10.05.03.050916 PL111 picturestory t 
+10.05.03.269697 PL111 picturestory  
+10.05.03.285310 PL111 picturestory  
+10.05.03.363406 PL111 picturestory  
+10.05.03.363406 PL111 picturestory  
+10.05.03.611938 PL111 picturestory  
+10.05.03.627305 PL111 picturestory  
+10.05.03.752306 PL111 picturestory  
+10.05.03.767960 PL111 picturestory  
+10.05.03.940088 PL111 picturestory  
+10.05.03.955477 PL111 picturestory  
+10.05.04.096320 PL111 picturestory t 
+10.05.04.111762 PL111 picturestory t 
+10.05.04.205751 PL111 picturestory t 
+10.05.04.221146 PL111 picturestory t 
+10.05.04.377393 PL111 picturestory  
+10.05.04.377393 PL111 picturestory  
+10.05.04.471375 PL111 picturestory  
+10.05.04.486788 PL111 picturestory  
+10.05.04.737059 PL111 picturestory t 
+10.05.04.737059 PL111 picturestory t 
+10.05.04.971460 PL111 picturestory t 
+10.05.04.986855 PL111 picturestory t 
+10.05.05.252709 PL111 picturestory t 
+10.05.05.252709 PL111 picturestory t 
+10.05.05.283973 PL111 picturestory t 
+10.05.05.299346 PL111 picturestory t 
+10.05.05.533989 PL111 picturestory t 
+10.05.05.549399 PL111 picturestory t 
+10.05.05.690271 PL111 picturestory  
+10.05.05.705665 PL111 picturestory  
+10.05.05.815282 PL111 picturestory  
+10.05.05.830679 PL111 picturestory  
+10.05.06.034041 PL111 picturestory t 
+10.05.06.049429 PL111 picturestory t 
+10.05.06.096520 PL111 picturestory t 
+10.05.06.096520 PL111 picturestory t 
+10.05.06.346590 PL111 picturestory t 
+10.05.06.346590 PL111 picturestory t 
+10.05.06.377611 PL111 picturestory t 
+10.05.06.377611 PL111 picturestory t 
+10.05.06.549481 PL111 picturestory t 
+10.05.06.565109 PL111 picturestory t 
+10.05.06.768298 PL111 picturestory t 
+10.05.06.768298 PL111 picturestory t 
+10.05.06.846663 PL111 picturestory t 
+10.05.06.846663 PL111 picturestory t 
+10.05.07.112303 PL111 picturestory t 
+10.05.07.127675 PL111 picturestory t 
+10.05.07.331067 PL111 picturestory t 
+10.05.07.331067 PL111 picturestory t 
+10.05.07.471727 PL111 picturestory t 
+10.05.07.471727 PL111 picturestory t 
+10.05.07.673698 PL111 picturestory  
+10.05.07.689326 PL111 picturestory  
+10.05.07.814586 PL111 picturestory  
+10.05.07.830003 PL111 picturestory  
+10.05.08.034630 PL111 picturestory t 
+10.05.08.034630 PL111 picturestory t 
+10.05.08.175002 PL111 picturestory t 
+10.05.08.175002 PL111 picturestory t 
+10.05.08.362789 PL111 picturestory t 
+10.05.08.378141 PL111 picturestory t 
+10.05.08.539727 PL111 picturestory t 
+10.05.08.539727 PL111 picturestory t 
+10.05.08.758730 PL111 picturestory t 
+10.05.08.774119 PL111 picturestory t 
+10.05.08.930604 PL111 picturestory t 
+10.05.08.961639 PL111 picturestory t 
+10.05.09.133773 PL111 picturestory t 
+10.05.09.149169 PL111 picturestory t 
+10.05.09.242911 PL111 picturestory t 
+10.05.09.242911 PL111 picturestory t 
+10.05.09.477324 PL111 picturestory t 
+10.05.09.477324 PL111 picturestory t 
+10.05.09.649454 PL111 picturestory  
+10.05.09.664819 PL111 picturestory  
+10.05.22.513499 PL111 picturestory r 
+10.05.22.528906 PL111 picturestory r 
+10.05.22.544507 PL111 picturestory r 
+10.05.23.040889 PL111 picturestory r 
+10.05.23.056499 PL111 picturestory r 
+10.05.23.056499 PL111 picturestory r 
+10.05.23.259619 PL111 picturestory r 
+10.05.23.259619 PL111 picturestory r 
+10.05.23.275265 PL111 picturestory r 
+10.05.23.384870 PL111 picturestory r 
+10.05.23.400278 PL111 picturestory r 
+10.05.23.400278 PL111 picturestory r 
+10.05.23.509901 PL111 picturestory r 
+10.05.23.525311 PL111 picturestory r 
+10.05.23.540919 PL111 picturestory r 
+10.05.23.634929 PL111 picturestory r 
+10.05.23.650323 PL111 picturestory r 
+10.05.23.665908 PL111 picturestory r 
+10.05.23.791155 PL111 picturestory r 
+10.05.23.791155 PL111 picturestory r 
+10.05.23.806572 PL111 picturestory r 
+10.05.23.916177 PL111 picturestory r 
+10.05.23.931586 PL111 picturestory r 
+10.05.23.931586 PL111 picturestory r 
+10.05.24.056807 PL111 picturestory r 
+10.05.24.072233 PL111 picturestory r 
+10.05.24.087861 PL111 picturestory r 
+10.05.24.197468 PL111 picturestory r 
+10.05.24.197468 PL111 picturestory r 
+10.05.24.212866 PL111 picturestory r 
+10.05.24.338109 PL111 picturestory r 
+10.05.24.353507 PL111 picturestory r 
+10.05.24.369133 PL111 picturestory r 
+10.05.24.463120 PL111 picturestory r 
+10.05.24.478534 PL111 picturestory r 
+10.05.24.494146 PL111 picturestory r 
+10.05.24.603750 PL111 picturestory r 
+10.05.24.634798 PL111 picturestory r 
+10.05.24.666062 PL111 picturestory r 
+10.05.24.759783 PL111 picturestory r 
+10.05.24.775401 PL111 picturestory r 
+10.05.24.806694 PL111 picturestory r 
+10.05.24.900687 PL111 picturestory r 
+10.05.24.916081 PL111 picturestory r 
+10.05.24.947334 PL111 picturestory r 
+10.05.25.041370 PL111 picturestory r 
+10.05.25.057014 PL111 picturestory r 
+10.05.25.088277 PL111 picturestory r 
+10.05.25.150996 PL111 picturestory r 
+10.05.25.182031 PL111 picturestory r 
+10.05.25.213252 PL111 picturestory r 
+10.05.25.307261 PL111 picturestory r 
+10.05.25.322631 PL111 picturestory r 
+10.05.25.362832 PL111 picturestory r 
+10.05.25.444486 PL111 picturestory r 
+10.05.25.459865 PL111 picturestory r 
+10.05.25.491126 PL111 picturestory r 
+10.05.25.585100 PL111 picturestory r 
+10.05.25.616134 PL111 picturestory r 
+10.05.25.647388 PL111 picturestory r 
+10.05.25.725753 PL111 picturestory r 
+10.05.25.741143 PL111 picturestory r 
+10.05.25.772401 PL111 picturestory r 
+10.05.25.913007 PL111 picturestory r 
+10.05.25.928662 PL111 picturestory r 
+10.05.25.959916 PL111 picturestory r 
+10.05.26.053917 PL111 picturestory r 
+10.05.26.084945 PL111 picturestory r 
+10.05.26.100571 PL111 picturestory r 
+10.05.26.194525 PL111 picturestory r 
+10.05.26.225571 PL111 picturestory r 
+10.05.26.256803 PL111 picturestory r 
+10.05.26.350809 PL111 picturestory r 
+10.05.26.381839 PL111 picturestory r 
+10.05.26.397469 PL111 picturestory r 
+10.05.26.491292 PL111 picturestory r 
+10.05.26.506848 PL111 picturestory r 
+10.05.26.522464 PL111 picturestory r 
+10.05.26.678707 PL111 picturestory r 
+10.05.26.694363 PL111 picturestory r 
+10.05.26.694363 PL111 picturestory r 
+10.05.26.819624 PL111 picturestory r 
+10.05.26.835016 PL111 picturestory r 
+10.05.26.850640 PL111 picturestory r 
+10.05.26.975888 PL111 picturestory r 
+10.05.26.991240 PL111 picturestory r 
+10.05.27.006891 PL111 picturestory r 
+10.05.27.116530 PL111 picturestory r 
+10.05.27.132215 PL111 picturestory r 
+10.05.27.147819 PL111 picturestory r 
+10.05.27.319902 PL111 picturestory r 
+10.05.27.335326 PL111 picturestory r 
+10.05.27.350927 PL111 picturestory r 
+10.05.27.491580 PL111 picturestory r 
+10.05.27.491580 PL111 picturestory r 
+10.05.27.507232 PL111 picturestory r 
+10.05.27.648080 PL111 picturestory r 
+10.05.27.648080 PL111 picturestory r 
+10.05.27.663485 PL111 picturestory r 
+10.05.27.788745 PL111 picturestory r 
+10.05.27.804127 PL111 picturestory r 
+10.05.27.804127 PL111 picturestory r 
+10.05.27.991893 PL111 picturestory r 
+10.05.28.007274 PL111 picturestory r 
+10.05.28.007274 PL111 picturestory r 
+10.05.28.163769 PL111 picturestory r 
+10.05.28.179166 PL111 picturestory r 
+10.05.28.194794 PL111 picturestory r 
+10.05.28.319806 PL111 picturestory r 
+10.05.28.319806 PL111 picturestory r 
+10.05.28.335443 PL111 picturestory r 
+10.05.28.476321 PL111 picturestory r 
+10.05.28.491719 PL111 picturestory r 
+10.05.28.491719 PL111 picturestory r 
+10.05.28.648186 PL111 picturestory r 
+10.05.28.663606 PL111 picturestory r 
+10.05.28.679221 PL111 picturestory r 
+10.05.28.788838 PL111 picturestory r 
+10.05.28.804261 PL111 picturestory r 
+10.05.28.819873 PL111 picturestory r 
+10.05.28.991973 PL111 picturestory r 
+10.05.29.007390 PL111 picturestory r 
+10.05.29.007390 PL111 picturestory r 
+10.05.29.195125 PL111 picturestory r 
+10.05.29.210540 PL111 picturestory r 
+10.05.29.210540 PL111 picturestory r 
+10.05.29.382660 PL111 picturestory r 
+10.05.29.382660 PL111 picturestory r 
+10.05.29.398048 PL111 picturestory r 
+10.05.29.523308 PL111 picturestory r 
+10.05.29.538663 PL111 picturestory r 
+10.05.29.554333 PL111 picturestory r 
+10.05.29.741874 PL111 picturestory r 
+10.05.29.757435 PL111 picturestory r 
+10.05.29.773063 PL111 picturestory r 
+10.05.29.898337 PL111 picturestory r 
+10.05.29.913743 PL111 picturestory r 
+10.05.29.913743 PL111 picturestory r 
+10.05.30.070214 PL111 picturestory r 
+10.05.30.085635 PL111 picturestory r 
+10.05.30.101223 PL111 picturestory r 
+10.05.30.226481 PL111 picturestory r 
+10.05.30.241902 PL111 picturestory r 
+10.05.30.241902 PL111 picturestory r 
+10.05.30.398412 PL111 picturestory r 
+10.05.30.413757 PL111 picturestory r 
+10.05.30.429409 PL111 picturestory r 
+10.05.30.539042 PL111 picturestory r 
+10.05.30.554432 PL111 picturestory r 
+10.05.30.570059 PL111 picturestory r 
+10.05.30.742188 PL111 picturestory r 
+10.05.30.757544 PL111 picturestory r 
+10.05.30.773189 PL111 picturestory r 
+10.05.30.960964 PL111 picturestory r 
+10.05.30.976353 PL111 picturestory r 
+10.05.30.976353 PL111 picturestory r 
+10.05.31.148487 PL111 picturestory r 
+10.05.31.163866 PL111 picturestory r 
+10.05.31.179499 PL111 picturestory r 
+10.05.31.257847 PL111 picturestory r 
+10.05.31.273266 PL111 picturestory r 
+10.05.31.288900 PL111 picturestory r 
+10.05.31.445381 PL111 picturestory r 
+10.05.31.460748 PL111 picturestory r 
+10.05.31.476421 PL111 picturestory r 
+10.05.31.570404 PL111 picturestory  
+10.05.31.601386 PL111 picturestory  
+10.05.31.617049 PL111 picturestory  
+10.05.31.711017 PL111 picturestory  
+10.05.31.726435 PL111 picturestory  
+10.05.31.742035 PL111 picturestory  
+10.05.31.882935 PL111 picturestory  
+10.05.31.898317 PL111 picturestory  
+10.05.31.913943 PL111 picturestory  
+10.05.32.039546 PL111 picturestory r 
+10.05.32.054962 PL111 picturestory r 
+10.05.32.070586 PL111 picturestory r 
+10.05.32.133333 PL111 picturestory r 
+10.05.32.148721 PL111 picturestory r 
+10.05.32.164347 PL111 picturestory r 
+10.05.32.273959 PL111 picturestory r 
+10.05.32.273959 PL111 picturestory r 
+10.05.32.289362 PL111 picturestory r 
+10.05.32.430249 PL111 picturestory  
+10.05.32.430249 PL111 picturestory  
+10.05.32.445626 PL111 picturestory  
+10.05.32.648994 PL111 picturestory  
+10.05.32.664400 PL111 picturestory  
+10.05.32.664400 PL111 picturestory  
+10.05.32.883407 PL111 picturestory  
+10.05.32.898815 PL111 picturestory  
+10.05.32.914402 PL111 picturestory  
+10.05.33.039416 PL111 picturestory r 
+10.05.33.055083 PL111 picturestory r 
+10.05.33.070711 PL111 picturestory r 
+10.05.33.117811 PL111 picturestory r 
+10.05.33.117811 PL111 picturestory r 
+10.05.33.133216 PL111 picturestory r 
+10.05.33.461631 PL111 picturestory  
+10.05.33.461631 PL111 picturestory  
+10.05.33.476988 PL111 picturestory  
+10.05.33.570999 PL111 picturestory  
+10.05.33.586374 PL111 picturestory  
+10.05.33.602009 PL111 picturestory  
+10.05.33.742640 PL111 picturestory  
+10.05.33.742640 PL111 picturestory  
+10.05.33.758242 PL111 picturestory  
+10.05.33.898882 PL111 picturestory r 
+10.05.33.898882 PL111 picturestory r 
+10.05.33.914552 PL111 picturestory r 
+10.05.33.977280 PL111 picturestory r 
+10.05.33.992668 PL111 picturestory r 
+10.05.34.008314 PL111 picturestory r 
+10.05.34.164541 PL111 picturestory r 
+10.05.34.164541 PL111 picturestory r 
+10.05.34.180194 PL111 picturestory r 
+10.05.34.321079 PL111 picturestory  
+10.05.34.336472 PL111 picturestory  
+10.05.34.352097 PL111 picturestory  
+10.05.34.430428 PL111 picturestory  
+10.05.34.445842 PL111 picturestory  
+10.05.34.461468 PL111 picturestory  
+10.05.34.633597 PL111 picturestory  
+10.05.34.649002 PL111 picturestory  
+10.05.34.649002 PL111 picturestory  
+10.05.34.758612 PL111 picturestory r 
+10.05.34.773977 PL111 picturestory r 
+10.05.34.789630 PL111 picturestory r 
+10.05.34.946142 PL111 picturestory r 
+10.05.34.961522 PL111 picturestory r 
+10.05.34.977148 PL111 picturestory r 
+10.05.35.133634 PL111 picturestory r 
+10.05.35.149043 PL111 picturestory r 
+10.05.35.149043 PL111 picturestory r 
+10.05.35.289953 PL111 picturestory r 
+10.05.35.289953 PL111 picturestory r 
+10.05.35.305308 PL111 picturestory r 
+10.05.35.414944 PL111 picturestory r 
+10.05.35.430296 PL111 picturestory r 
+10.05.35.445963 PL111 picturestory r 
+10.05.35.649122 PL111 picturestory r 
+10.05.35.664740 PL111 picturestory r 
+10.05.35.680357 PL111 picturestory r 
+10.05.35.836803 PL111 picturestory  
+10.05.35.836803 PL111 picturestory  
+10.05.35.852245 PL111 picturestory  
+10.05.35.977490 PL111 picturestory  
+10.05.35.992882 PL111 picturestory  
+10.05.36.008509 PL111 picturestory  
+10.05.36.165014 PL111 picturestory r 
+10.05.36.180378 PL111 picturestory r 
+10.05.36.180378 PL111 picturestory r 
+10.05.36.289964 PL111 picturestory r 
+10.05.36.289964 PL111 picturestory r 
+10.05.36.305417 PL111 picturestory r 
+10.05.36.508815 PL111 picturestory r 
+10.05.36.524190 PL111 picturestory r 
+10.05.36.539793 PL111 picturestory r 
+10.05.36.633558 PL111 picturestory  
+10.05.36.649203 PL111 picturestory  
+10.05.36.664845 PL111 picturestory  
+10.05.36.774462 PL111 picturestory  
+10.05.36.774462 PL111 picturestory  
+10.05.36.789818 PL111 picturestory  
+10.05.36.993246 PL111 picturestory  
+10.05.37.008617 PL111 picturestory  
+10.05.37.024265 PL111 picturestory  
+10.05.37.039857 PL111 picturestory r 
+10.05.37.055513 PL111 picturestory r 
+10.05.37.071146 PL111 picturestory r 
+10.05.37.258876 PL111 picturestory r 
+10.05.37.274278 PL111 picturestory r 
+10.05.37.289873 PL111 picturestory r 
+10.05.37.383895 PL111 picturestory r 
+10.05.37.399284 PL111 picturestory r 
+10.05.37.414926 PL111 picturestory r 
+10.05.37.602643 PL111 picturestory r 
+10.05.37.602643 PL111 picturestory r 
+10.05.37.618072 PL111 picturestory r 
+10.05.37.790202 PL111 picturestory  
+10.05.37.790202 PL111 picturestory  
+10.05.37.813786 PL111 picturestory  
+10.05.37.908648 PL111 picturestory  
+10.05.37.924028 PL111 picturestory  
+10.05.37.939629 PL111 picturestory  
+10.05.38.121523 PL111 picturestory  
+10.05.38.136942 PL111 picturestory  
+10.05.38.152574 PL111 picturestory  
+10.05.38.262159 PL111 picturestory r 
+10.05.38.277580 PL111 picturestory r 
+10.05.38.293213 PL111 picturestory r 
+10.05.38.387133 PL111 picturestory r 
+10.05.38.387133 PL111 picturestory r 
+10.05.38.402600 PL111 picturestory r 
+10.05.38.621602 PL111 picturestory r 
+10.05.38.621602 PL111 picturestory r 
+10.05.38.637002 PL111 picturestory r 
+10.05.38.746616 PL111 picturestory  
+10.05.38.762011 PL111 picturestory  
+10.05.38.777639 PL111 picturestory  
+10.05.38.887871 PL111 picturestory  
+10.05.38.891958 PL111 picturestory  
+10.05.38.907617 PL111 picturestory  
+10.05.39.126601 PL111 picturestory  
+10.05.39.142011 PL111 picturestory  
+10.05.39.142011 PL111 picturestory  
+10.05.39.282900 PL111 picturestory r 
+10.05.39.298253 PL111 picturestory r 
+10.05.39.313914 PL111 picturestory r 
+10.05.39.423531 PL111 picturestory r 
+10.05.39.438923 PL111 picturestory r 
+10.05.39.454545 PL111 picturestory r 
+10.05.39.657928 PL111 picturestory  
+10.05.39.657928 PL111 picturestory  
+10.05.39.673322 PL111 picturestory  
+10.05.39.861067 PL111 picturestory  
+10.05.39.876479 PL111 picturestory  
+10.05.39.892094 PL111 picturestory  
+10.05.40.095487 PL111 picturestory  
+10.05.40.110865 PL111 picturestory  
+10.05.40.126504 PL111 picturestory  
+10.05.40.280577 PL111 picturestory r 
+10.05.40.280577 PL111 picturestory r 
+10.05.40.296195 PL111 picturestory r 
+10.05.40.437076 PL111 picturestory r 
+10.05.40.437076 PL111 picturestory r 
+10.05.40.452461 PL111 picturestory r 
+10.05.40.671465 PL111 picturestory r 
+10.05.40.686862 PL111 picturestory r 
+10.05.40.702489 PL111 picturestory r 
+10.05.40.718097 PL111 picturestory r 
+10.05.40.718097 PL111 picturestory r 
+10.05.40.733750 PL111 picturestory r 
+10.05.40.921493 PL111 picturestory r 
+10.05.40.921493 PL111 picturestory r 
+10.05.40.936897 PL111 picturestory r 
+10.05.41.124660 PL111 picturestory  
+10.05.41.140010 PL111 picturestory  
+10.05.41.140010 PL111 picturestory  
+10.05.41.233835 PL111 picturestory  
+10.05.41.233835 PL111 picturestory  
+10.05.41.249435 PL111 picturestory  
+10.05.41.405953 PL111 picturestory r 
+10.05.41.405953 PL111 picturestory r 
+10.05.41.421330 PL111 picturestory r 
+10.05.41.515327 PL111 picturestory r 
+10.05.41.530717 PL111 picturestory r 
+10.05.41.546340 PL111 picturestory r 
+10.05.41.718459 PL111 picturestory  
+10.05.41.733850 PL111 picturestory  
+10.05.41.749488 PL111 picturestory  
+10.05.41.848757 PL111 picturestory  
+10.05.41.864137 PL111 picturestory  
+10.05.41.879763 PL111 picturestory  
+10.05.42.098510 PL111 picturestory  
+10.05.42.098510 PL111 picturestory  
+10.05.42.114138 PL111 picturestory  
+10.05.42.254777 PL111 picturestory rr 
+10.05.42.270415 PL111 picturestory rr 
+10.05.42.270415 PL111 picturestory rr 
+10.05.42.426671 PL111 picturestory rr 
+10.05.42.442309 PL111 picturestory rr 
+10.05.42.457925 PL111 picturestory rr 
+10.05.42.661072 PL111 picturestory  
+10.05.42.676697 PL111 picturestory  
+10.05.42.692325 PL111 picturestory  
+10.05.42.707952 PL111 picturestory  
+10.05.42.723578 PL111 picturestory  
+10.05.42.739205 PL111 picturestory  
+10.05.42.942352 PL111 picturestory r 
+10.05.42.957984 PL111 picturestory r 
+10.05.42.973630 PL111 picturestory r 
+10.05.43.114890 PL111 picturestory r 
+10.05.43.122962 PL111 picturestory r 
+10.05.43.138590 PL111 picturestory r 
+10.05.43.404244 PL111 picturestory r 
+10.05.43.419909 PL111 picturestory r 
+10.05.43.419909 PL111 picturestory r 
+10.05.43.435534 PL111 picturestory  
+10.05.43.451161 PL111 picturestory  
+10.05.43.466788 PL111 picturestory  
+10.05.43.638932 PL111 picturestory  
+10.05.43.638932 PL111 picturestory  
+10.05.43.654305 PL111 picturestory  
+10.05.43.888934 PL111 picturestory r 
+10.05.43.888934 PL111 picturestory r 
+10.05.43.904322 PL111 picturestory r 
+10.05.44.138969 PL111 picturestory r 
+10.05.44.154349 PL111 picturestory r 
+10.05.44.169976 PL111 picturestory r 
+10.05.44.326461 PL111 picturestory  
+10.05.44.341882 PL111 picturestory  
+10.05.44.357509 PL111 picturestory  
+10.05.44.482756 PL111 picturestory  
+10.05.44.498136 PL111 picturestory  
+10.05.44.513763 PL111 picturestory  
+10.05.44.670298 PL111 picturestory r 
+10.05.44.685657 PL111 picturestory r 
+10.05.44.701287 PL111 picturestory r 
+10.05.44.795280 PL111 picturestory r 
+10.05.44.810669 PL111 picturestory r 
+10.05.44.826307 PL111 picturestory r 
+10.05.45.107814 PL111 picturestory r 
+10.05.45.123208 PL111 picturestory r 
+10.05.45.138832 PL111 picturestory r 
+10.05.45.279718 PL111 picturestory  
+10.05.45.295098 PL111 picturestory  
+10.05.45.310724 PL111 picturestory  
+10.05.45.435994 PL111 picturestory  
+10.05.45.451363 PL111 picturestory  
+10.05.45.466990 PL111 picturestory  
+10.05.45.686000 PL111 picturestory r 
+10.05.45.701391 PL111 picturestory r 
+10.05.45.717016 PL111 picturestory r 
+10.05.45.732643 PL111 picturestory r 
+10.05.45.748272 PL111 picturestory r 
+10.05.45.763891 PL111 picturestory r 
+10.05.46.061039 PL111 picturestory r 
+10.05.46.076430 PL111 picturestory r 
+10.05.46.092058 PL111 picturestory r 
+10.05.46.248542 PL111 picturestory r 
+10.05.46.263951 PL111 picturestory r 
+10.05.46.279578 PL111 picturestory r 
+10.05.46.404830 PL111 picturestory  
+10.05.46.420194 PL111 picturestory  
+10.05.46.435874 PL111 picturestory  
+10.05.46.592349 PL111 picturestory  
+10.05.46.607741 PL111 picturestory  
+10.05.46.623366 PL111 picturestory  
+10.05.46.764234 PL111 picturestory r 
+10.05.46.779632 PL111 picturestory r 
+10.05.46.795259 PL111 picturestory r 
+10.05.46.967400 PL111 picturestory r 
+10.05.46.982797 PL111 picturestory r 
+10.05.46.998421 PL111 picturestory r 
+10.05.47.186269 PL111 picturestory r 
+10.05.47.201936 PL111 picturestory r 
+10.05.47.217524 PL111 picturestory r 
+10.05.47.264648 PL111 picturestory r 
+10.05.47.280054 PL111 picturestory r 
+10.05.47.295680 PL111 picturestory r 
+10.05.47.483426 PL111 picturestory r 
+10.05.47.498828 PL111 picturestory r 
+10.05.47.514455 PL111 picturestory r 
+10.05.47.592811 PL111 picturestory  
+10.05.47.608215 PL111 picturestory  
+10.05.47.623840 PL111 picturestory  
+10.05.47.764456 PL111 picturestory  
+10.05.47.780108 PL111 picturestory  
+10.05.47.795745 PL111 picturestory  
+10.05.47.920971 PL111 picturestory r 
+10.05.47.936375 PL111 picturestory r 
+10.05.47.952002 PL111 picturestory r 
+10.05.48.030363 PL111 picturestory r 
+10.05.48.045761 PL111 picturestory r 
+10.05.48.061363 PL111 picturestory r 
+10.05.48.280366 PL111 picturestory r 
+10.05.48.295800 PL111 picturestory r 
+10.05.48.311426 PL111 picturestory r 
+10.05.48.342890 PL111 picturestory r 
+10.05.48.358295 PL111 picturestory r 
+10.05.48.373922 PL111 picturestory r 
+10.05.48.530418 PL111 picturestory r 
+10.05.48.545791 PL111 picturestory r 
+10.05.48.561442 PL111 picturestory r 
+10.05.48.764824 PL111 picturestory r 
+10.05.48.780216 PL111 picturestory r 
+10.05.48.795842 PL111 picturestory r 
+10.05.48.811474 PL111 picturestory r 
+10.05.48.827106 PL111 picturestory r 
+10.05.48.842721 PL111 picturestory r 
+10.05.49.030491 PL111 picturestory r 
+10.05.49.045845 PL111 picturestory r 
+10.05.49.061496 PL111 picturestory r 
+10.05.49.280510 PL111 picturestory r 
+10.05.49.295912 PL111 picturestory r 
+10.05.49.311532 PL111 picturestory r 
+10.05.49.327159 PL111 picturestory  
+10.05.49.342776 PL111 picturestory  
+10.05.49.358414 PL111 picturestory  
+10.05.49.483446 PL111 picturestory  
+10.05.49.499055 PL111 picturestory  
+10.05.49.514678 PL111 picturestory  
+10.05.49.702405 PL111 picturestory r 
+10.05.49.717816 PL111 picturestory r 
+10.05.49.733443 PL111 picturestory r 
+10.05.49.749070 PL111 picturestory r 
+10.05.49.764696 PL111 picturestory r 
+10.05.49.780323 PL111 picturestory r 
+10.05.49.952461 PL111 picturestory r 
+10.05.49.967844 PL111 picturestory r 
+10.05.49.983491 PL111 picturestory r 
+10.05.49.999107 PL111 picturestory r 
+10.05.50.014741 PL111 picturestory r 
+10.05.50.030349 PL111 picturestory r 
+10.05.50.124360 PL111 picturestory r 
+10.05.50.139736 PL111 picturestory r 
+10.05.50.155378 PL111 picturestory r 
+10.05.50.340830 PL111 picturestory r 
+10.05.50.356199 PL111 picturestory r 
+10.05.50.371802 PL111 picturestory r 
+10.05.50.387452 PL111 picturestory r 
+10.05.50.403080 PL111 picturestory r 
+10.05.50.418707 PL111 picturestory r 
+10.05.50.559597 PL111 picturestory r 
+10.05.50.574972 PL111 picturestory r 
+10.05.50.590599 PL111 picturestory r 
+10.05.50.747102 PL111 picturestory r 
+10.05.50.762509 PL111 picturestory r 
+10.05.50.778123 PL111 picturestory r 
+10.05.50.824974 PL111 picturestory  
+10.05.50.840626 PL111 picturestory  
+10.05.50.856270 PL111 picturestory  
+10.05.50.965894 PL111 picturestory  
+10.05.50.981285 PL111 picturestory  
+10.05.50.996893 PL111 picturestory  
+10.05.51.184662 PL111 picturestory  
+10.05.51.200042 PL111 picturestory  
+10.05.51.215667 PL111 picturestory  
+10.05.51.231306 PL111 picturestory r 
+10.05.51.246920 PL111 picturestory r 
+10.05.51.262547 PL111 picturestory r 
+10.05.51.371909 PL111 picturestory r 
+10.05.51.387561 PL111 picturestory r 
+10.05.51.403188 PL111 picturestory r 
+10.05.51.575320 PL111 picturestory r 
+10.05.51.590707 PL111 picturestory r 
+10.05.51.606334 PL111 picturestory r 
+10.05.51.637804 PL111 picturestory r 
+10.05.51.653215 PL111 picturestory r 
+10.05.51.668817 PL111 picturestory r 
+10.05.51.794105 PL111 picturestory r 
+10.05.51.809481 PL111 picturestory r 
+10.05.51.825084 PL111 picturestory r 
+10.05.51.981374 PL111 picturestory r 
+10.05.51.981374 PL111 picturestory r 
+10.05.51.997000 PL111 picturestory r 
+10.05.52.169124 PL111 picturestory r 
+10.05.52.184523 PL111 picturestory r 
+10.05.52.200147 PL111 picturestory r 
+10.05.52.215774 PL111 picturestory r 
+10.05.52.231414 PL111 picturestory r 
+10.05.52.247003 PL111 picturestory r 
+10.05.52.419167 PL111 picturestory r 
+10.05.52.434548 PL111 picturestory r 
+10.05.52.450174 PL111 picturestory r 
+10.05.52.528288 PL111 picturestory r 
+10.05.52.543945 PL111 picturestory r 
+10.05.52.559574 PL111 picturestory r 
+10.05.52.653573 PL111 picturestory r 
+10.05.52.668924 PL111 picturestory r 
+10.05.52.684575 PL111 picturestory r 
+10.05.52.872342 PL111 picturestory r 
+10.05.52.887704 PL111 picturestory r 
+10.05.52.903324 PL111 picturestory r 
+10.05.53.044237 PL111 picturestory  
+10.05.53.059614 PL111 picturestory  
+10.05.53.075535 PL111 picturestory  
+10.05.53.138054 PL111 picturestory  
+10.05.53.153704 PL111 picturestory  
+10.05.53.169330 PL111 picturestory  
+10.05.53.357042 PL111 picturestory  
+10.05.53.372502 PL111 picturestory  
+10.05.53.388081 PL111 picturestory  
+10.05.53.482077 PL111 picturestory r 
+10.05.53.497483 PL111 picturestory r 
+10.05.53.513109 PL111 picturestory r 
+10.05.53.622735 PL111 picturestory r 
+10.05.53.638143 PL111 picturestory r 
+10.05.53.653770 PL111 picturestory r 
+10.05.53.825618 PL111 picturestory r 
+10.05.53.841269 PL111 picturestory r 
+10.05.53.856896 PL111 picturestory r 
+10.05.53.997768 PL111 picturestory r 
+10.05.54.013166 PL111 picturestory r 
+10.05.54.028789 PL111 picturestory r 
+10.05.54.091519 PL111 picturestory r 
+10.05.54.106923 PL111 picturestory r 
+10.05.54.122554 PL111 picturestory r 
+10.05.54.310319 PL111 picturestory r 
+10.05.54.325696 PL111 picturestory r 
+10.05.54.341297 PL111 picturestory r 
+10.05.54.574644 PL111 picturestory r 
+10.05.54.590065 PL111 picturestory r 
+10.05.54.605679 PL111 picturestory r 
+10.05.54.777802 PL111 picturestory r 
+10.05.54.793174 PL111 picturestory r 
+10.05.54.808829 PL111 picturestory r 
+10.05.55.027839 PL111 picturestory r 
+10.05.55.043241 PL111 picturestory r 
+10.05.55.058872 PL111 picturestory r 
+10.05.55.074499 PL111 picturestory r 
+10.05.55.090124 PL111 picturestory r 
+10.05.55.105753 PL111 picturestory r 
+10.05.55.246602 PL111 picturestory r 
+10.05.55.261976 PL111 picturestory r 
+10.05.55.277600 PL111 picturestory r 
+10.05.55.387252 PL111 picturestory r 
+10.05.55.402640 PL111 picturestory r 
+10.05.55.418285 PL111 picturestory r 
+10.05.55.512264 PL111 picturestory r 
+10.05.55.527653 PL111 picturestory r 
+10.05.55.543280 PL111 picturestory r 
+10.05.55.715409 PL111 picturestory r 
+10.05.55.730815 PL111 picturestory r 
+10.05.55.746442 PL111 picturestory r 
+10.05.55.762068 PL111 picturestory r 
+10.05.55.793306 PL111 picturestory r 
+10.05.55.808946 PL111 picturestory r 
+10.05.55.981055 PL111 picturestory r 
+10.05.56.012093 PL111 picturestory r 
+10.05.56.027720 PL111 picturestory r 
+10.05.56.184222 PL111 picturestory  
+10.05.56.199607 PL111 picturestory  
+10.05.56.215203 PL111 picturestory  
+10.05.56.262346 PL111 picturestory  
+10.05.56.277709 PL111 picturestory  
+10.05.56.293336 PL111 picturestory  
+10.05.56.402998 PL111 picturestory  
+10.05.56.418375 PL111 picturestory  
+10.05.56.433977 PL111 picturestory  
+10.05.56.715532 PL111 picturestory r 
+10.05.56.730910 PL111 picturestory r 
+10.05.56.746534 PL111 picturestory r 
+10.05.56.762160 PL111 picturestory r 
+10.05.56.777801 PL111 picturestory r 
+10.05.56.793414 PL111 picturestory r 
+10.05.56.871789 PL111 picturestory r 
+10.05.56.887180 PL111 picturestory r 
+10.05.56.902801 PL111 picturestory r 
+10.05.57.106188 PL111 picturestory r 
+10.05.57.121574 PL111 picturestory r 
+10.05.57.137186 PL111 picturestory r 
+10.05.57.152805 PL111 picturestory r 
+10.05.57.168430 PL111 picturestory r 
+10.05.57.184056 PL111 picturestory r 
+10.05.57.356220 PL111 picturestory r 
+10.05.57.371606 PL111 picturestory r 
+10.05.57.387203 PL111 picturestory r 
+10.05.57.574997 PL111 picturestory r 
+10.05.57.590375 PL111 picturestory r 
+10.05.57.606002 PL111 picturestory r 
+10.05.57.668748 PL111 picturestory  
+10.05.57.684135 PL111 picturestory  
+10.05.57.699763 PL111 picturestory  
+10.05.57.824801 PL111 picturestory  
+10.05.57.840379 PL111 picturestory  
+10.05.57.856052 PL111 picturestory  
+10.05.58.059414 PL111 picturestory r 
+10.05.58.074802 PL111 picturestory r 
+10.05.58.090720 PL111 picturestory r 
+10.05.58.106348 PL111 picturestory r 
+10.05.58.121976 PL111 picturestory r 
+10.05.58.137603 PL111 picturestory r 
+10.05.58.294133 PL111 picturestory r 
+10.05.58.309535 PL111 picturestory r 
+10.05.58.325163 PL111 picturestory r 
+10.05.58.387831 PL111 picturestory  
+10.05.58.403299 PL111 picturestory  
+10.05.58.418883 PL111 picturestory  
+10.05.58.528543 PL111 picturestory  
+10.05.58.543938 PL111 picturestory  
+10.05.58.559524 PL111 picturestory  
+10.05.58.637681 PL111 picturestory r 
+10.05.58.653322 PL111 picturestory r 
+10.05.58.668934 PL111 picturestory r 
+10.05.58.731684 PL111 picturestory r 
+10.05.58.747044 PL111 picturestory r 
+10.05.58.762671 PL111 picturestory r 
+10.05.58.964817 PL111 picturestory  
+10.05.58.980223 PL111 picturestory  
+10.05.58.995849 PL111 picturestory  
+10.05.59.011451 PL111 picturestory  
+10.05.59.011451 PL111 picturestory  
+10.05.59.042706 PL111 picturestory  
+10.05.59.184850 PL111 picturestory  
+10.05.59.200234 PL111 picturestory  
+10.05.59.215860 PL111 picturestory  
+10.05.59.231488 PL111 picturestory r 
+10.05.59.262752 PL111 picturestory r 
+10.05.59.278376 PL111 picturestory r 
+10.05.59.419259 PL111 picturestory r 
+10.05.59.434648 PL111 picturestory r 
+10.05.59.450237 PL111 picturestory r 
+10.05.59.465887 PL111 picturestory r 
+10.05.59.481525 PL111 picturestory r 
+10.05.59.497140 PL111 picturestory r 
+10.05.59.653630 PL111 picturestory r 
+10.05.59.669047 PL111 picturestory r 
+10.05.59.684648 PL111 picturestory r 
+10.05.59.825521 PL111 picturestory r 
+10.05.59.840927 PL111 picturestory r 
+10.05.59.856531 PL111 picturestory r 
+10.06.00.200584 PL111 picturestory r 
+10.06.00.215968 PL111 picturestory r 
+10.06.00.231594 PL111 picturestory r 
+10.06.00.513123 PL111 picturestory r 
+10.06.00.528502 PL111 picturestory r 
+10.06.00.544129 PL111 picturestory r 
+10.06.00.559755 PL111 picturestory  
+10.06.00.575356 PL111 picturestory  
+10.06.00.591008 PL111 picturestory  
+10.06.00.747529 PL111 picturestory  
+10.06.00.762919 PL111 picturestory  
+10.06.00.778550 PL111 picturestory  
+10.06.00.950659 PL111 picturestory r 
+10.06.00.966048 PL111 picturestory r 
+10.06.00.981677 PL111 picturestory r 
+10.06.01.044422 PL111 picturestory r 
+10.06.01.059826 PL111 picturestory r 
+10.06.01.075412 PL111 picturestory r 
+10.06.01.294748 PL111 picturestory r 
+10.06.01.310162 PL111 picturestory r 
+10.06.01.325783 PL111 picturestory r 
+10.06.01.341414 PL111 picturestory  
+10.06.01.357036 PL111 picturestory  
+10.06.01.372663 PL111 picturestory  
+10.06.01.544804 PL111 picturestory  
+10.06.01.560183 PL111 picturestory  
+10.06.01.575785 PL111 picturestory  
+10.06.01.763606 PL111 picturestory  
+10.06.01.778963 PL111 picturestory  
+10.06.01.794584 PL111 picturestory  
+10.06.01.888595 PL111 picturestory  
+10.06.01.903946 PL111 picturestory  
+10.06.01.919606 PL111 picturestory  
+10.06.02.044859 PL111 picturestory  
+10.06.02.060238 PL111 picturestory  
+10.06.02.075864 PL111 picturestory  
+10.06.02.247994 PL111 picturestory r 
+10.06.02.263384 PL111 picturestory r 
+10.06.02.294651 PL111 picturestory r 
+10.06.02.310288 PL111 picturestory r 
+10.06.02.325903 PL111 picturestory r 
+10.06.02.341495 PL111 picturestory r 
+10.06.02.451155 PL111 picturestory r 
+10.06.02.466531 PL111 picturestory r 
+10.06.02.482158 PL111 picturestory r 
+10.06.02.623034 PL111 picturestory  
+10.06.02.654032 PL111 picturestory  
+10.06.02.654032 PL111 picturestory  
+10.06.02.732402 PL111 picturestory  
+10.06.02.747811 PL111 picturestory  
+10.06.02.763438 PL111 picturestory  
+10.06.02.919679 PL111 picturestory  
+10.06.02.935322 PL111 picturestory  
+10.06.02.935322 PL111 picturestory  
+10.06.03.138730 PL111 picturestory  
+10.06.03.154104 PL111 picturestory  
+10.06.03.169708 PL111 picturestory  
+10.06.03.216865 PL111 picturestory r 
+10.06.03.232240 PL111 picturestory r 
+10.06.03.247852 PL111 picturestory r 
+10.06.03.388731 PL111 picturestory r 
+10.06.03.404107 PL111 picturestory r 
+10.06.03.419740 PL111 picturestory r 
+10.06.03.591904 PL111 picturestory r 
+10.06.03.607278 PL111 picturestory r 
+10.06.03.622892 PL111 picturestory r 
+10.06.03.638507 PL111 picturestory  
+10.06.03.654135 PL111 picturestory  
+10.06.03.669762 PL111 picturestory  
+10.06.03.810674 PL111 picturestory  
+10.06.03.826052 PL111 picturestory  
+10.06.03.841679 PL111 picturestory  
+10.06.03.935652 PL111 picturestory r 
+10.06.03.951079 PL111 picturestory r 
+10.06.03.966692 PL111 picturestory r 
+10.06.04.029438 PL111 picturestory r 
+10.06.04.044826 PL111 picturestory r 
+10.06.04.060456 PL111 picturestory r 
+10.06.04.216955 PL111 picturestory  
+10.06.04.232345 PL111 picturestory  
+10.06.04.247978 PL111 picturestory  
+10.06.04.279452 PL111 picturestory  
+10.06.04.294852 PL111 picturestory  
+10.06.04.310478 PL111 picturestory  
+10.06.04.466987 PL111 picturestory  
+10.06.04.482372 PL111 picturestory  
+10.06.04.498005 PL111 picturestory  
+10.06.04.623231 PL111 picturestory r 
+10.06.04.638664 PL111 picturestory r 
+10.06.04.654257 PL111 picturestory r 
+10.06.04.716747 PL111 picturestory r 
+10.06.04.732400 PL111 picturestory r 
+10.06.04.748027 PL111 picturestory r 
+10.06.04.904533 PL111 picturestory  
+10.06.04.919928 PL111 picturestory  
+10.06.04.935522 PL111 picturestory  
+10.06.04.951150 PL111 picturestory  
+10.06.04.966800 PL111 picturestory  
+10.06.04.982426 PL111 picturestory  
+10.06.05.123303 PL111 picturestory  
+10.06.05.138711 PL111 picturestory  
+10.06.05.154355 PL111 picturestory  
+10.06.05.169922 PL111 picturestory r 
+10.06.05.185550 PL111 picturestory r 
+10.06.05.201176 PL111 picturestory r 
+10.06.05.326452 PL111 picturestory r 
+10.06.05.341839 PL111 picturestory r 
+10.06.05.357479 PL111 picturestory r 
+10.06.05.513970 PL111 picturestory  
+10.06.05.529360 PL111 picturestory  
+10.06.05.545000 PL111 picturestory  
+10.06.05.826506 PL111 picturestory  
+10.06.05.841897 PL111 picturestory  
+10.06.05.857520 PL111 picturestory  
+10.06.06.060881 PL111 picturestory  
+10.06.06.076270 PL111 picturestory  
+10.06.06.092209 PL111 picturestory  
+10.06.06.170393 PL111 picturestory r 
+10.06.06.186010 PL111 picturestory r 
+10.06.06.201623 PL111 picturestory r 
+10.06.06.326878 PL111 picturestory r 
+10.06.06.342283 PL111 picturestory r 
+10.06.06.373491 PL111 picturestory r 
+10.06.06.576637 PL111 picturestory  
+10.06.06.592264 PL111 picturestory  
+10.06.06.607890 PL111 picturestory  
+10.06.06.607890 PL111 picturestory  
+10.06.06.623519 PL111 picturestory  
+10.06.06.639146 PL111 picturestory  
+10.06.06.811311 PL111 picturestory  
+10.06.06.826698 PL111 picturestory  
+10.06.06.842330 PL111 picturestory  
+10.06.06.873820 PL111 picturestory r 
+10.06.06.889210 PL111 picturestory r 
+10.06.06.904837 PL111 picturestory r 
+10.06.07.030087 PL111 picturestory r 
+10.06.07.045481 PL111 picturestory r 
+10.06.07.061116 PL111 picturestory r 
+10.06.07.279986 PL111 picturestory  
+10.06.07.295490 PL111 picturestory  
+10.06.07.311116 PL111 picturestory  
+10.06.07.326743 PL111 picturestory  
+10.06.07.342392 PL111 picturestory  
+10.06.07.358017 PL111 picturestory  
+10.06.07.483252 PL111 picturestory  
+10.06.07.498612 PL111 picturestory  
+10.06.07.514263 PL111 picturestory  
+10.06.07.545492 PL111 picturestory r 
+10.06.07.561144 PL111 picturestory r 
+10.06.07.576750 PL111 picturestory r 
+10.06.07.733275 PL111 picturestory r 
+10.06.07.748641 PL111 picturestory r 
+10.06.07.764267 PL111 picturestory r 
+10.06.07.889526 PL111 picturestory  
+10.06.07.904930 PL111 picturestory  
+10.06.07.920533 PL111 picturestory  
+10.06.07.967686 PL111 picturestory  
+10.06.07.983073 PL111 picturestory  
+10.06.08.006889 PL111 picturestory  
+10.06.08.175562 PL111 picturestory  
+10.06.08.190957 PL111 picturestory  
+10.06.08.206559 PL111 picturestory  
+10.06.08.253703 PL111 picturestory r 
+10.06.08.269109 PL111 picturestory r 
+10.06.08.284717 PL111 picturestory r 
+10.06.08.415125 PL111 picturestory r 
+10.06.08.430533 PL111 picturestory r 
+10.06.08.446159 PL111 picturestory r 
+10.06.08.555782 PL111 picturestory  
+10.06.08.571172 PL111 picturestory  
+10.06.08.586806 PL111 picturestory  
+10.06.08.633914 PL111 picturestory  
+10.06.08.649306 PL111 picturestory  
+10.06.08.664907 PL111 picturestory  
+10.06.08.821420 PL111 picturestory  
+10.06.08.836800 PL111 picturestory  
+10.06.08.852427 PL111 picturestory  
+10.06.08.868080 PL111 picturestory r 
+10.06.08.883706 PL111 picturestory r 
+10.06.08.899333 PL111 picturestory r 
+10.06.09.024324 PL111 picturestory r 
+10.06.09.039973 PL111 picturestory r 
+10.06.09.055601 PL111 picturestory r 
+10.06.09.071226 PL111 picturestory r 
+10.06.09.086853 PL111 picturestory r 
+10.06.09.102455 PL111 picturestory r 
+10.06.09.227494 PL111 picturestory r 
+10.06.09.243120 PL111 picturestory r 
+10.06.09.258735 PL111 picturestory r 
+10.06.09.338001 PL111 picturestory r 
+10.06.09.353957 PL111 picturestory r 
+10.06.09.369628 PL111 picturestory r 
+10.06.09.416739 PL111 picturestory r 
+10.06.09.432116 PL111 picturestory r 
+10.06.09.447785 PL111 picturestory r 
+10.06.09.588621 PL111 picturestory r 
+10.06.09.603986 PL111 picturestory r 
+10.06.09.619614 PL111 picturestory r 
+10.06.09.635238 PL111 picturestory  
+10.06.09.650865 PL111 picturestory  
+10.06.09.666491 PL111 picturestory  
+10.06.09.791566 PL111 picturestory  
+10.06.09.807131 PL111 picturestory  
+10.06.09.822758 PL111 picturestory  
+10.06.09.901169 PL111 picturestory r 
+10.06.09.916532 PL111 picturestory r 
+10.06.09.932170 PL111 picturestory r 
+10.06.10.025930 PL111 picturestory r 
+10.06.10.041571 PL111 picturestory r 
+10.06.10.057200 PL111 picturestory r 
+10.06.10.244943 PL111 picturestory  
+10.06.10.260308 PL111 picturestory  
+10.06.10.275933 PL111 picturestory  
+10.06.10.291561 PL111 picturestory  
+10.06.10.307187 PL111 picturestory  
+10.06.10.322815 PL111 picturestory  
+10.06.10.440930 PL111 picturestory  
+10.06.10.452820 PL111 picturestory  
+10.06.10.468474 PL111 picturestory  
+10.06.10.578095 PL111 picturestory r 
+10.06.10.593461 PL111 picturestory r 
+10.06.10.609090 PL111 picturestory r 
+10.06.10.687489 PL111 picturestory r 
+10.06.10.702847 PL111 picturestory r 
+10.06.10.718474 PL111 picturestory r 
+10.06.10.890609 PL111 picturestory  
+10.06.10.905994 PL111 picturestory  
+10.06.10.921631 PL111 picturestory  
+10.06.10.937248 PL111 picturestory  
+10.06.10.952874 PL111 picturestory  
+10.06.10.968501 PL111 picturestory  
+10.06.11.156277 PL111 picturestory  
+10.06.11.171648 PL111 picturestory  
+10.06.11.187275 PL111 picturestory  
+10.06.11.218802 PL111 picturestory r 
+10.06.11.234155 PL111 picturestory r 
+10.06.11.249782 PL111 picturestory r 
+10.06.11.468814 PL111 picturestory r 
+10.06.11.484181 PL111 picturestory r 
+10.06.11.499809 PL111 picturestory r 
+10.06.11.546689 PL111 picturestory  
+10.06.11.546689 PL111 picturestory  
+10.06.11.562315 PL111 picturestory  
+10.06.11.750098 PL111 picturestory  
+10.06.11.765462 PL111 picturestory  
+10.06.11.781089 PL111 picturestory  
+10.06.11.828231 PL111 picturestory  
+10.06.11.843595 PL111 picturestory  
+10.06.11.859222 PL111 picturestory  
+10.06.12.000065 PL111 picturestory  
+10.06.12.016087 PL111 picturestory  
+10.06.12.020235 PL111 picturestory  
+10.06.12.114244 PL111 picturestory r 
+10.06.12.129622 PL111 picturestory r 
+10.06.12.145248 PL111 picturestory r 
+10.06.12.223648 PL111 picturestory r 
+10.06.12.239009 PL111 picturestory r 
+10.06.12.254636 PL111 picturestory r 
+10.06.12.364302 PL111 picturestory r 
+10.06.12.379649 PL111 picturestory r 
+10.06.12.395276 PL111 picturestory r 
+10.06.12.442435 PL111 picturestory r 
+10.06.12.457809 PL111 picturestory r 
+10.06.12.473436 PL111 picturestory r 
+10.06.12.645547 PL111 picturestory r 
+10.06.12.660930 PL111 picturestory r 
+10.06.12.676556 PL111 picturestory r 
+10.06.12.692245 PL111 picturestory  
+10.06.12.707811 PL111 picturestory  
+10.06.12.723438 PL111 picturestory  
+10.06.12.879979 PL111 picturestory  
+10.06.12.895365 PL111 picturestory  
+10.06.12.910994 PL111 picturestory  
+10.06.13.114378 PL111 picturestory  
+10.06.13.129764 PL111 picturestory  
+10.06.13.145390 PL111 picturestory  
+10.06.13.161023 PL111 picturestory r 
+10.06.13.176647 PL111 picturestory r 
+10.06.13.192273 PL111 picturestory r 
+10.06.13.333150 PL111 picturestory r 
+10.06.13.348536 PL111 picturestory r 
+10.06.13.364140 PL111 picturestory r 
+10.06.13.568320 PL111 picturestory r 
+10.06.13.584255 PL111 picturestory r 
+10.06.13.599887 PL111 picturestory r 
+10.06.13.834550 PL111 picturestory r 
+10.06.13.849935 PL111 picturestory r 
+10.06.13.865563 PL111 picturestory r 
+10.06.14.084585 PL111 picturestory r 
+10.06.14.099936 PL111 picturestory r 
+10.06.14.115599 PL111 picturestory r 
+10.06.14.131229 PL111 picturestory r 
+10.06.14.146852 PL111 picturestory r 
+10.06.14.162469 PL111 picturestory r 
+10.06.14.303356 PL111 picturestory r 
+10.06.14.318709 PL111 picturestory r 
+10.06.14.334373 PL111 picturestory r 
+10.06.14.506479 PL111 picturestory  
+10.06.14.521856 PL111 picturestory  
+10.06.14.537519 PL111 picturestory  
+10.06.14.615892 PL111 picturestory  
+10.06.14.631243 PL111 picturestory  
+10.06.14.646895 PL111 picturestory  
+10.06.14.834654 PL111 picturestory  
+10.06.14.850043 PL111 picturestory  
+10.06.14.865670 PL111 picturestory  
+10.06.14.990934 PL111 picturestory r 
+10.06.15.006309 PL111 picturestory r 
+10.06.15.021937 PL111 picturestory r 
+10.06.15.162818 PL111 picturestory r 
+10.06.15.178216 PL111 picturestory r 
+10.06.15.193843 PL111 picturestory r 
+10.06.15.381563 PL111 picturestory r 
+10.06.15.396950 PL111 picturestory r 
+10.06.15.412604 PL111 picturestory r 
+10.06.15.584696 PL111 picturestory r 
+10.06.15.600097 PL111 picturestory r 
+10.06.15.615750 PL111 picturestory r 
+10.06.15.694124 PL111 picturestory r 
+10.06.15.709484 PL111 picturestory r 
+10.06.15.725136 PL111 picturestory r 
+10.06.15.928532 PL111 picturestory r 
+10.06.15.943887 PL111 picturestory r 
+10.06.15.959547 PL111 picturestory r 
+10.06.16.022296 PL111 picturestory r 
+10.06.16.037644 PL111 picturestory r 
+10.06.16.053296 PL111 picturestory r 
+10.06.16.178521 PL111 picturestory r 
+10.06.16.193911 PL111 picturestory r 
+10.06.16.209563 PL111 picturestory r 
+10.06.16.412958 PL111 picturestory r 
+10.06.16.428341 PL111 picturestory r 
+10.06.16.443963 PL111 picturestory r 
+10.06.16.459600 PL111 picturestory  
+10.06.16.475216 PL111 picturestory  
+10.06.16.490844 PL111 picturestory  
+10.06.16.662986 PL111 picturestory  
+10.06.16.678338 PL111 picturestory  
+10.06.16.693991 PL111 picturestory  
+10.06.16.725498 PL111 picturestory r 
+10.06.16.740870 PL111 picturestory r 
+10.06.16.756511 PL111 picturestory r 
+10.06.16.866122 PL111 picturestory r 
+10.06.16.881510 PL111 picturestory r 
+10.06.16.897137 PL111 picturestory r 
+10.06.17.084897 PL111 picturestory r 
+10.06.17.100287 PL111 picturestory r 
+10.06.17.116221 PL111 picturestory r 
+10.06.17.147766 PL111 picturestory r 
+10.06.17.163102 PL111 picturestory r 
+10.06.17.178768 PL111 picturestory r 
+10.06.17.335239 PL111 picturestory r 
+10.06.17.350622 PL111 picturestory r 
+10.06.17.366283 PL111 picturestory r 
+10.06.17.429012 PL111 picturestory  
+10.06.17.444418 PL111 picturestory  
+10.06.17.460045 PL111 picturestory  
+10.06.17.616523 PL111 picturestory  
+10.06.17.631936 PL111 picturestory  
+10.06.17.647562 PL111 picturestory  
+10.06.17.835057 PL111 picturestory  
+10.06.17.850678 PL111 picturestory  
+10.06.17.866302 PL111 picturestory  
+10.06.17.913447 PL111 picturestory r 
+10.06.17.928809 PL111 picturestory r 
+10.06.17.944436 PL111 picturestory r 
+10.06.18.085340 PL111 picturestory r 
+10.06.18.100703 PL111 picturestory r 
+10.06.18.116329 PL111 picturestory r 
+10.06.18.304114 PL111 picturestory r 
+10.06.18.319476 PL111 picturestory r 
+10.06.18.335103 PL111 picturestory r 
+10.06.18.350730 PL111 picturestory  
+10.06.18.366381 PL111 picturestory  
+10.06.18.381982 PL111 picturestory  
+10.06.18.569505 PL111 picturestory  
+10.06.18.585165 PL111 picturestory  
+10.06.18.600756 PL111 picturestory  
+10.06.18.694790 PL111 picturestory  
+10.06.18.710143 PL111 picturestory  
+10.06.18.725770 PL111 picturestory  
+10.06.18.929184 PL111 picturestory r 
+10.06.18.944543 PL111 picturestory r 
+10.06.18.960170 PL111 picturestory r 
+10.06.18.975799 PL111 picturestory r 
+10.06.18.991458 PL111 picturestory r 
+10.06.19.007086 PL111 picturestory r 
+10.06.19.163317 PL111 picturestory r 
+10.06.19.178944 PL111 picturestory r 
+10.06.19.194606 PL111 picturestory r 
+10.06.19.226101 PL111 picturestory r 
+10.06.19.241450 PL111 picturestory r 
+10.06.19.257077 PL111 picturestory r 
+10.06.19.397951 PL111 picturestory r 
+10.06.19.413370 PL111 picturestory r 
+10.06.19.429009 PL111 picturestory r 
+10.06.19.476115 PL111 picturestory  
+10.06.19.491477 PL111 picturestory  
+10.06.19.507104 PL111 picturestory  
+10.06.19.648017 PL111 picturestory  
+10.06.19.663371 PL111 picturestory  
+10.06.19.679005 PL111 picturestory  
+10.06.19.851141 PL111 picturestory  
+10.06.19.866517 PL111 picturestory  
+10.06.19.882144 PL111 picturestory  
+10.06.19.944925 PL111 picturestory r 
+10.06.19.960277 PL111 picturestory r 
+10.06.19.975904 PL111 picturestory r 
+10.06.20.101118 PL111 picturestory r 
+10.06.20.116856 PL111 picturestory r 
+10.06.20.132511 PL111 picturestory r 
+10.06.20.289017 PL111 picturestory  
+10.06.20.304406 PL111 picturestory  
+10.06.20.320007 PL111 picturestory  
+10.06.20.382793 PL111 picturestory  
+10.06.20.398141 PL111 picturestory  
+10.06.20.413766 PL111 picturestory  
+10.06.20.601533 PL111 picturestory  
+10.06.20.616911 PL111 picturestory  
+10.06.20.632540 PL111 picturestory  
+10.06.20.648200 PL111 picturestory  
+10.06.20.663817 PL111 picturestory  
+10.06.20.679418 PL111 picturestory  
+10.06.20.804709 PL111 picturestory  
+10.06.20.835722 PL111 picturestory  
+10.06.20.851312 PL111 picturestory  
+10.06.21.023481 PL111 picturestory r 
+10.06.21.038871 PL111 picturestory r 
+10.06.21.054483 PL111 picturestory r 
+10.06.21.085991 PL111 picturestory r 
+10.06.21.101339 PL111 picturestory r 
+10.06.21.116965 PL111 picturestory r 
+10.06.21.320374 PL111 picturestory r 
+10.06.21.335739 PL111 picturestory r 
+10.06.21.351366 PL111 picturestory r 
+10.06.21.367017 PL111 picturestory  
+10.06.21.382618 PL111 picturestory  
+10.06.21.398245 PL111 picturestory  
+10.06.46.138811 PL111 picturestory t 
+10.06.46.154483 PL111 picturestory t 
+10.06.46.170114 PL111 picturestory t 
+10.06.46.185740 PL111 picturestory t 
+10.06.47.061085 PL111 picturestory h 
+10.06.47.076484 PL111 picturestory h 
+10.06.47.092125 PL111 picturestory h 
+10.06.47.107737 PL111 picturestory h 
+10.06.47.295278 PL111 picturestory h 
+10.06.47.310900 PL111 picturestory h 
+10.06.47.326520 PL111 picturestory h 
+10.06.47.342146 PL111 picturestory h 
+10.06.47.483012 PL111 picturestory h 
+10.06.47.498430 PL111 picturestory h 
+10.06.47.514047 PL111 picturestory h 
+10.06.47.529673 PL111 picturestory h 
+10.06.47.592418 PL111 picturestory h 
+10.06.47.607808 PL111 picturestory h 
+10.06.47.623436 PL111 picturestory h 
+10.06.47.639070 PL111 picturestory h 
+10.06.47.764295 PL111 picturestory h 
+10.06.47.779685 PL111 picturestory h 
+10.06.47.795312 PL111 picturestory h 
+10.06.47.810939 PL111 picturestory h 
+10.06.47.904902 PL111 picturestory h 
+10.06.47.920325 PL111 picturestory h 
+10.06.47.935928 PL111 picturestory h 
+10.06.47.951555 PL111 picturestory h 
+10.06.48.045589 PL111 picturestory h 
+10.06.48.060966 PL111 picturestory h 
+10.06.48.076592 PL111 picturestory h 
+10.06.48.092229 PL111 picturestory h 
+10.06.48.170595 PL111 picturestory h 
+10.06.48.185979 PL111 picturestory h 
+10.06.48.201606 PL111 picturestory h 
+10.06.48.217232 PL111 picturestory h 
+10.06.48.451877 PL111 picturestory h 
+10.06.48.467258 PL111 picturestory h 
+10.06.48.482887 PL111 picturestory h 
+10.06.48.498490 PL111 picturestory h 
+10.06.48.608146 PL111 picturestory h 
+10.06.48.623526 PL111 picturestory h 
+10.06.48.639129 PL111 picturestory h 
+10.06.48.654756 PL111 picturestory h 
+10.06.48.764200 PL111 picturestory h 
+10.06.48.779811 PL111 picturestory h 
+10.06.48.795435 PL111 picturestory h 
+10.06.48.811061 PL111 picturestory h 
+10.06.48.905025 PL111 picturestory h 
+10.06.48.920445 PL111 picturestory h 
+10.06.48.936072 PL111 picturestory h 
+10.06.48.951686 PL111 picturestory h 
+10.06.49.061319 PL111 picturestory h 
+10.06.49.076700 PL111 picturestory h 
+10.06.49.092326 PL111 picturestory h 
+10.06.49.107965 PL111 picturestory h 
+10.06.49.201958 PL111 picturestory h 
+10.06.49.232984 PL111 picturestory h 
+10.06.49.248603 PL111 picturestory h 
+10.06.49.264194 PL111 picturestory h 
+10.06.49.342574 PL111 picturestory h 
+10.06.49.357980 PL111 picturestory h 
+10.06.49.373606 PL111 picturestory h 
+10.06.49.389238 PL111 picturestory h 
+10.06.49.467599 PL111 picturestory h 
+10.06.49.482994 PL111 picturestory h 
+10.06.49.498623 PL111 picturestory h 
+10.06.49.514247 PL111 picturestory h 
+10.06.49.639506 PL111 picturestory h 
+10.06.49.654886 PL111 picturestory h 
+10.06.49.670512 PL111 picturestory h 
+10.06.49.686140 PL111 picturestory h 
+10.06.49.795775 PL111 picturestory h 
+10.06.49.811153 PL111 picturestory h 
+10.06.49.826781 PL111 picturestory h 
+10.06.49.842413 PL111 picturestory h 
+10.06.49.952023 PL111 picturestory h 
+10.06.49.967420 PL111 picturestory h 
+10.06.49.983047 PL111 picturestory h 
+10.06.49.998676 PL111 picturestory h 
+10.06.50.123661 PL111 picturestory h 
+10.06.50.139294 PL111 picturestory h 
+10.06.50.155347 PL111 picturestory h 
+10.06.50.170977 PL111 picturestory h 
+10.06.50.249371 PL111 picturestory h 
+10.06.50.264778 PL111 picturestory h 
+10.06.50.280414 PL111 picturestory h 
+10.06.50.296039 PL111 picturestory h 
+10.06.50.390016 PL111 picturestory h 
+10.06.50.405401 PL111 picturestory h 
+10.06.50.421028 PL111 picturestory h 
+10.06.50.436654 PL111 picturestory h 
+10.06.50.530575 PL111 picturestory h 
+10.06.50.546023 PL111 picturestory h 
+10.06.50.561657 PL111 picturestory h 
+10.06.50.577294 PL111 picturestory h 
+10.06.50.671293 PL111 picturestory h 
+10.06.50.686681 PL111 picturestory h 
+10.06.50.702307 PL111 picturestory h 
+10.06.50.717935 PL111 picturestory h 
+10.06.50.827543 PL111 picturestory h 
+10.06.50.842947 PL111 picturestory h 
+10.06.50.858574 PL111 picturestory h 
+10.06.50.874212 PL111 picturestory h 
+10.06.50.983840 PL111 picturestory h 
+10.06.50.999217 PL111 picturestory h 
+10.06.51.014848 PL111 picturestory h 
+10.06.51.030483 PL111 picturestory h 
+10.06.51.140079 PL111 picturestory h 
+10.06.51.155498 PL111 picturestory h 
+10.06.51.171121 PL111 picturestory h 
+10.06.51.186735 PL111 picturestory h 
+10.06.51.280499 PL111 picturestory h 
+10.06.51.296121 PL111 picturestory h 
+10.06.51.311748 PL111 picturestory h 
+10.06.51.327375 PL111 picturestory h 
+10.06.51.437001 PL111 picturestory h 
+10.06.51.452389 PL111 picturestory h 
+10.06.51.468015 PL111 picturestory h 
+10.06.51.483642 PL111 picturestory h 
+10.06.51.593270 PL111 picturestory h 
+10.06.51.608678 PL111 picturestory h 
+10.06.51.624265 PL111 picturestory h 
+10.06.51.639883 PL111 picturestory h 
+10.06.51.749546 PL111 picturestory h 
+10.06.51.764934 PL111 picturestory h 
+10.06.51.780524 PL111 picturestory h 
+10.06.51.796175 PL111 picturestory h 
+10.06.51.921437 PL111 picturestory h 
+10.06.51.936816 PL111 picturestory h 
+10.06.51.952420 PL111 picturestory h 
+10.06.51.968081 PL111 picturestory h 
+10.06.52.093320 PL111 picturestory h 
+10.06.52.108683 PL111 picturestory h 
+10.06.52.124336 PL111 picturestory h 
+10.06.52.139971 PL111 picturestory h 
+10.06.52.249603 PL111 picturestory h 
+10.06.52.264975 PL111 picturestory h 
+10.06.52.280578 PL111 picturestory h 
+10.06.52.296230 PL111 picturestory h 
+10.06.52.421492 PL111 picturestory h 
+10.06.52.436869 PL111 picturestory h 
+10.06.52.452471 PL111 picturestory h 
+10.06.52.468123 PL111 picturestory h 
+10.06.52.593350 PL111 picturestory h 
+10.06.52.608763 PL111 picturestory h 
+10.06.52.624391 PL111 picturestory h 
+10.06.52.640029 PL111 picturestory h 
+10.06.52.718389 PL111 picturestory h 
+10.06.52.733776 PL111 picturestory h 
+10.06.52.749404 PL111 picturestory h 
+10.06.52.765042 PL111 picturestory h 
+10.06.52.843410 PL111 picturestory h 
+10.06.52.858791 PL111 picturestory h 
+10.06.52.874430 PL111 picturestory h 
+10.06.52.890056 PL111 picturestory h 
+10.06.53.062183 PL111 picturestory h 
+10.06.53.077538 PL111 picturestory h 
+10.06.53.093190 PL111 picturestory h 
+10.06.53.108830 PL111 picturestory h 
+10.06.53.249693 PL111 picturestory  
+10.06.53.265083 PL111 picturestory  
+10.06.53.280713 PL111 picturestory  
+10.06.53.296337 PL111 picturestory  
+10.06.53.405946 PL111 picturestory  
+10.06.53.421350 PL111 picturestory  
+10.06.53.436977 PL111 picturestory  
+10.06.53.452604 PL111 picturestory  
+10.06.53.546612 PL111 picturestory h 
+10.06.53.561990 PL111 picturestory h 
+10.06.53.577630 PL111 picturestory h 
+10.06.53.593256 PL111 picturestory h 
+10.06.53.655991 PL111 picturestory h 
+10.06.53.671378 PL111 picturestory h 
+10.06.53.687004 PL111 picturestory h 
+10.06.53.702630 PL111 picturestory h 
+10.06.53.874760 PL111 picturestory h 
+10.06.53.890151 PL111 picturestory h 
+10.06.53.905780 PL111 picturestory h 
+10.06.53.921404 PL111 picturestory h 
+10.06.54.015416 PL111 picturestory h 
+10.06.54.030765 PL111 picturestory h 
+10.06.54.046416 PL111 picturestory h 
+10.06.54.062044 PL111 picturestory h 
+10.06.54.187032 PL111 picturestory h 
+10.06.54.202696 PL111 picturestory h 
+10.06.54.218286 PL111 picturestory h 
+10.06.54.233914 PL111 picturestory h 
+10.06.54.327934 PL111 picturestory h 
+10.06.54.343325 PL111 picturestory h 
+10.06.54.358951 PL111 picturestory h 
+10.06.54.374577 PL111 picturestory h 
+10.06.54.515470 PL111 picturestory h 
+10.06.54.530844 PL111 picturestory h 
+10.06.54.546484 PL111 picturestory h 
+10.06.54.562097 PL111 picturestory h 
+10.06.54.671711 PL111 picturestory h 
+10.06.54.687111 PL111 picturestory h 
+10.06.54.702741 PL111 picturestory h 
+10.06.54.718365 PL111 picturestory h 
+10.06.54.827971 PL111 picturestory h 
+10.06.54.843382 PL111 picturestory h 
+10.06.54.859005 PL111 picturestory h 
+10.06.54.874631 PL111 picturestory h 
+10.06.55.046637 PL111 picturestory h 
+10.06.55.062152 PL111 picturestory h 
+10.06.55.062152 PL111 picturestory h 
+10.06.55.077754 PL111 picturestory h 
+10.06.55.249903 PL111 picturestory h 
+10.06.55.265297 PL111 picturestory h 
+10.06.55.280931 PL111 picturestory h 
+10.06.55.296569 PL111 picturestory h 
+10.06.55.359284 PL111 picturestory h 
+10.06.55.374685 PL111 picturestory h 
+10.06.55.390289 PL111 picturestory h 
+10.06.55.405946 PL111 picturestory h 
+10.06.55.609106 PL111 picturestory h 
+10.06.55.624688 PL111 picturestory h 
+10.06.55.640315 PL111 picturestory h 
+10.06.55.655941 PL111 picturestory h 
+10.06.55.765327 PL111 picturestory h 
+10.06.55.765327 PL111 picturestory h 
+10.06.55.780993 PL111 picturestory h 
+10.06.55.796624 PL111 picturestory h 
+10.06.55.890618 PL111 picturestory h 
+10.06.55.905993 PL111 picturestory h 
+10.06.55.921619 PL111 picturestory h 
+10.06.55.937220 PL111 picturestory h 
+10.06.56.093759 PL111 picturestory  
+10.06.56.109138 PL111 picturestory  
+10.06.56.124767 PL111 picturestory  
+10.06.56.140410 PL111 picturestory  
+10.06.56.281616 PL111 picturestory  
+10.06.56.296989 PL111 picturestory  
+10.06.56.312614 PL111 picturestory  
+10.06.56.328241 PL111 picturestory  
+10.06.56.453492 PL111 picturestory h 
+10.06.56.468879 PL111 picturestory h 
+10.06.56.484506 PL111 picturestory h 
+10.06.56.500133 PL111 picturestory h 
+10.06.56.609768 PL111 picturestory h 
+10.06.56.625156 PL111 picturestory h 
+10.06.56.656380 PL111 picturestory h 
+10.06.56.656380 PL111 picturestory h 
+10.06.56.843939 PL111 picturestory h 
+10.06.56.859562 PL111 picturestory h 
+10.06.56.875183 PL111 picturestory h 
+10.06.56.890778 PL111 picturestory h 
+10.06.56.984809 PL111 picturestory h 
+10.06.57.000187 PL111 picturestory h 
+10.06.57.015814 PL111 picturestory h 
+10.06.57.031462 PL111 picturestory h 
+10.06.57.125440 PL111 picturestory h 
+10.06.57.140827 PL111 picturestory h 
+10.06.57.156455 PL111 picturestory h 
+10.06.57.172093 PL111 picturestory h 
+10.06.57.391094 PL111 picturestory h 
+10.06.57.406457 PL111 picturestory h 
+10.06.57.422083 PL111 picturestory h 
+10.06.57.437711 PL111 picturestory h 
+10.06.57.547360 PL111 picturestory h 
+10.06.57.562764 PL111 picturestory h 
+10.06.57.578384 PL111 picturestory h 
+10.06.57.594000 PL111 picturestory h 
+10.06.57.781757 PL111 picturestory  
+10.06.57.797147 PL111 picturestory  
+10.06.57.812765 PL111 picturestory  
+10.06.57.828400 PL111 picturestory  
+10.06.57.953654 PL111 picturestory  
+10.06.57.969016 PL111 picturestory  
+10.06.57.984667 PL111 picturestory  
+10.06.58.000294 PL111 picturestory  
+10.06.58.126589 PL111 picturestory h 
+10.06.58.142242 PL111 picturestory h 
+10.06.58.157868 PL111 picturestory h 
+10.06.58.173495 PL111 picturestory h 
+10.06.58.298713 PL111 picturestory h 
+10.06.58.314149 PL111 picturestory h 
+10.06.58.329737 PL111 picturestory h 
+10.06.58.345402 PL111 picturestory h 
+10.06.58.548759 PL111 picturestory h 
+10.06.58.564162 PL111 picturestory h 
+10.06.58.579764 PL111 picturestory h 
+10.06.58.595416 PL111 picturestory h 
+10.06.58.705050 PL111 picturestory h 
+10.06.58.720429 PL111 picturestory h 
+10.06.58.736055 PL111 picturestory h 
+10.06.58.751683 PL111 picturestory h 
+10.06.58.830056 PL111 picturestory h 
+10.06.58.845443 PL111 picturestory h 
+10.06.58.861074 PL111 picturestory h 
+10.06.58.876673 PL111 picturestory h 
+10.06.59.046238 PL111 picturestory h 
+10.06.59.061896 PL111 picturestory h 
+10.06.59.077519 PL111 picturestory h 
+10.06.59.093121 PL111 picturestory h 
+10.06.59.218396 PL111 picturestory h 
+10.06.59.233786 PL111 picturestory h 
+10.06.59.249411 PL111 picturestory h 
+10.06.59.265039 PL111 picturestory h 
+10.06.59.405927 PL111 picturestory h 
+10.06.59.421304 PL111 picturestory h 
+10.06.59.436932 PL111 picturestory h 
+10.06.59.452532 PL111 picturestory h 
+10.06.59.577802 PL111 picturestory h 
+10.06.59.593216 PL111 picturestory h 
+10.06.59.608842 PL111 picturestory h 
+10.06.59.624467 PL111 picturestory h 
+10.06.59.812219 PL111 picturestory h 
+10.06.59.827599 PL111 picturestory h 
+10.06.59.843226 PL111 picturestory h 
+10.06.59.858852 PL111 picturestory h 
+10.07.00.015346 PL111 picturestory  
+10.07.00.030746 PL111 picturestory  
+10.07.00.046391 PL111 picturestory  
+10.07.00.061973 PL111 picturestory  
+10.07.00.124747 PL111 picturestory  
+10.07.00.140146 PL111 picturestory  
+10.07.00.155772 PL111 picturestory  
+10.07.00.171840 PL111 picturestory  
+10.07.00.375233 PL111 picturestory h 
+10.07.00.390623 PL111 picturestory h 
+10.07.00.406248 PL111 picturestory h 
+10.07.00.421874 PL111 picturestory h 
+10.07.00.437516 PL111 picturestory h 
+10.07.00.453129 PL111 picturestory h 
+10.07.00.468755 PL111 picturestory h 
+10.07.00.484381 PL111 picturestory h 
+10.07.00.594019 PL111 picturestory h 
+10.07.00.609412 PL111 picturestory h 
+10.07.00.625039 PL111 picturestory h 
+10.07.00.640625 PL111 picturestory h 
+10.07.00.906553 PL111 picturestory h 
+10.07.00.921929 PL111 picturestory h 
+10.07.00.937565 PL111 picturestory h 
+10.07.00.953190 PL111 picturestory h 
+10.07.01.062596 PL111 picturestory h 
+10.07.01.078171 PL111 picturestory h 
+10.07.01.093839 PL111 picturestory h 
+10.07.01.109467 PL111 picturestory h 
+10.07.01.390970 PL111 picturestory h 
+10.07.01.406357 PL111 picturestory h 
+10.07.01.421984 PL111 picturestory h 
+10.07.01.437624 PL111 picturestory h 
+10.07.01.562611 PL111 picturestory h 
+10.07.01.578267 PL111 picturestory h 
+10.07.01.593877 PL111 picturestory h 
+10.07.01.609518 PL111 picturestory h 
+10.07.01.781635 PL111 picturestory  
+10.07.01.796998 PL111 picturestory  
+10.07.01.812636 PL111 picturestory  
+10.07.01.828276 PL111 picturestory  
+10.07.01.969174 PL111 picturestory  
+10.07.01.984543 PL111 picturestory  
+10.07.02.000170 PL111 picturestory  
+10.07.02.015770 PL111 picturestory  
+10.07.02.359802 PL111 picturestory h 
+10.07.02.375218 PL111 picturestory h 
+10.07.02.390844 PL111 picturestory h 
+10.07.02.406476 PL111 picturestory h 
+10.07.02.500461 PL111 picturestory h 
+10.07.02.515849 PL111 picturestory h 
+10.07.02.531484 PL111 picturestory h 
+10.07.02.547130 PL111 picturestory h 
+10.07.02.734868 PL111 picturestory h 
+10.07.02.750226 PL111 picturestory h 
+10.07.02.765853 PL111 picturestory h 
+10.07.02.781480 PL111 picturestory h 
+10.07.02.922392 PL111 picturestory h 
+10.07.02.953372 PL111 picturestory h 
+10.07.02.969039 PL111 picturestory h 
+10.07.02.984627 PL111 picturestory h 
+10.07.03.109910 PL111 picturestory  
+10.07.03.125290 PL111 picturestory  
+10.07.03.140902 PL111 picturestory  
+10.07.03.156521 PL111 picturestory  
+10.07.03.344671 PL111 picturestory  
+10.07.03.360050 PL111 picturestory  
+10.07.03.375678 PL111 picturestory  
+10.07.03.391317 PL111 picturestory  
+10.07.03.500677 PL111 picturestory h 
+10.07.03.516317 PL111 picturestory h 
+10.07.03.531920 PL111 picturestory h 
+10.07.03.531920 PL111 picturestory h 
+10.07.03.625933 PL111 picturestory h 
+10.07.03.641336 PL111 picturestory h 
+10.07.03.656957 PL111 picturestory h 
+10.07.03.672584 PL111 picturestory h 
+10.07.04.047861 PL111 picturestory h 
+10.07.04.063259 PL111 picturestory h 
+10.07.04.078900 PL111 picturestory h 
+10.07.04.094504 PL111 picturestory h 
+10.07.04.188484 PL111 picturestory h 
+10.07.04.203892 PL111 picturestory h 
+10.07.04.219494 PL111 picturestory h 
+10.07.04.235121 PL111 picturestory h 
+10.07.04.501049 PL111 picturestory h 
+10.07.04.516424 PL111 picturestory h 
+10.07.04.532026 PL111 picturestory h 
+10.07.04.532026 PL111 picturestory h 
+10.07.04.657305 PL111 picturestory h 
+10.07.04.672693 PL111 picturestory h 
+10.07.04.688319 PL111 picturestory h 
+10.07.04.703945 PL111 picturestory h 
+10.07.04.828934 PL111 picturestory h 
+10.07.04.844585 PL111 picturestory h 
+10.07.04.860212 PL111 picturestory h 
+10.07.04.875839 PL111 picturestory h 
+10.07.05.157360 PL111 picturestory h 
+10.07.05.173044 PL111 picturestory h 
+10.07.05.188675 PL111 picturestory h 
+10.07.05.204286 PL111 picturestory h 
+10.07.05.282685 PL111 picturestory h 
+10.07.05.298071 PL111 picturestory h 
+10.07.05.313703 PL111 picturestory h 
+10.07.05.329317 PL111 picturestory h 
+10.07.05.594957 PL111 picturestory h 
+10.07.05.610617 PL111 picturestory h 
+10.07.05.626231 PL111 picturestory h 
+10.07.05.641880 PL111 picturestory h 
+10.07.05.735857 PL111 picturestory h 
+10.07.05.751248 PL111 picturestory h 
+10.07.05.766872 PL111 picturestory h 
+10.07.05.782499 PL111 picturestory h 
+10.07.06.017115 PL111 picturestory h 
+10.07.06.032547 PL111 picturestory h 
+10.07.06.048170 PL111 picturestory h 
+10.07.06.063796 PL111 picturestory h 
+10.07.06.204665 PL111 picturestory h 
+10.07.06.220021 PL111 picturestory h 
+10.07.06.235647 PL111 picturestory h 
+10.07.06.251274 PL111 picturestory h 
+10.07.06.407539 PL111 picturestory h 
+10.07.06.423207 PL111 picturestory h 
+10.07.06.438831 PL111 picturestory h 
+10.07.06.454445 PL111 picturestory h 
+10.07.06.579700 PL111 picturestory h 
+10.07.06.595091 PL111 picturestory h 
+10.07.06.610726 PL111 picturestory h 
+10.07.06.626319 PL111 picturestory h 
+10.07.06.798490 PL111 picturestory h 
+10.07.06.813835 PL111 picturestory h 
+10.07.06.829504 PL111 picturestory h 
+10.07.06.845087 PL111 picturestory h 
+10.07.06.939117 PL111 picturestory h 
+10.07.06.954500 PL111 picturestory h 
+10.07.06.970137 PL111 picturestory h 
+10.07.06.985727 PL111 picturestory h 
+10.07.07.111021 PL111 picturestory h 
+10.07.07.126367 PL111 picturestory h 
+10.07.07.141994 PL111 picturestory h 
+10.07.07.157646 PL111 picturestory h 
+10.07.07.345436 PL111 picturestory h 
+10.07.07.345436 PL111 picturestory h 
+10.07.07.361063 PL111 picturestory h 
+10.07.07.376714 PL111 picturestory h 
+10.07.07.501967 PL111 picturestory  
+10.07.07.517354 PL111 picturestory  
+10.07.07.532981 PL111 picturestory  
+10.07.07.548608 PL111 picturestory  
+10.07.07.658247 PL111 picturestory  
+10.07.07.673621 PL111 picturestory  
+10.07.07.689248 PL111 picturestory  
+10.07.07.704874 PL111 picturestory  
+10.07.07.908257 PL111 picturestory  
+10.07.07.923621 PL111 picturestory  
+10.07.07.939275 PL111 picturestory  
+10.07.07.954877 PL111 picturestory  
+10.07.08.158023 PL111 picturestory h 
+10.07.08.173649 PL111 picturestory h 
+10.07.08.173649 PL111 picturestory h 
+10.07.08.189278 PL111 picturestory h 
+10.07.08.314563 PL111 picturestory h 
+10.07.08.329943 PL111 picturestory h 
+10.07.08.345546 PL111 picturestory h 
+10.07.08.361214 PL111 picturestory h 
+10.07.08.519336 PL111 picturestory h 
+10.07.08.534713 PL111 picturestory h 
+10.07.08.550341 PL111 picturestory h 
+10.07.08.565967 PL111 picturestory h 
+10.07.08.691197 PL111 picturestory h 
+10.07.08.706608 PL111 picturestory h 
+10.07.08.722233 PL111 picturestory h 
+10.07.08.737838 PL111 picturestory h 
+10.07.08.863116 PL111 picturestory h 
+10.07.08.878511 PL111 picturestory h 
+10.07.08.894128 PL111 picturestory h 
+10.07.08.909759 PL111 picturestory h 
+10.07.09.095144 PL111 picturestory h 
+10.07.09.110775 PL111 picturestory h 
+10.07.09.126442 PL111 picturestory h 
+10.07.09.142026 PL111 picturestory h 
+10.07.09.267523 PL111 picturestory h 
+10.07.09.283182 PL111 picturestory h 
+10.07.09.298773 PL111 picturestory h 
+10.07.09.314429 PL111 picturestory h 
+10.07.09.502186 PL111 picturestory h 
+10.07.09.517571 PL111 picturestory h 
+10.07.09.533200 PL111 picturestory h 
+10.07.09.548825 PL111 picturestory h 
+10.07.09.674055 PL111 picturestory h 
+10.07.09.689480 PL111 picturestory h 
+10.07.09.705091 PL111 picturestory h 
+10.07.09.720731 PL111 picturestory h 
+10.07.09.908225 PL111 picturestory h 
+10.07.09.923841 PL111 picturestory h 
+10.07.09.939491 PL111 picturestory h 
+10.07.09.955119 PL111 picturestory h 
+10.07.10.095978 PL111 picturestory h 
+10.07.10.111376 PL111 picturestory h 
+10.07.10.127012 PL111 picturestory h 
+10.07.10.142638 PL111 picturestory h 
+10.07.10.267872 PL111 picturestory  
+10.07.10.283254 PL111 picturestory  
+10.07.10.298916 PL111 picturestory  
+10.07.10.314546 PL111 picturestory  
+10.07.10.444658 PL111 picturestory  
+10.07.10.460177 PL111 picturestory  
+10.07.10.460177 PL111 picturestory  
+10.07.10.491463 PL111 picturestory  
+10.07.10.710189 PL111 picturestory  
+10.07.10.725821 PL111 picturestory  
+10.07.10.741445 PL111 picturestory  
+10.07.10.757070 PL111 picturestory  
+10.07.10.819821 PL111 picturestory h 
+10.07.10.835267 PL111 picturestory h 
+10.07.10.850855 PL111 picturestory h 
+10.07.10.866482 PL111 picturestory h 
+10.07.11.001117 PL111 picturestory h 
+10.07.11.016495 PL111 picturestory h 
+10.07.11.032126 PL111 picturestory h 
+10.07.11.047749 PL111 picturestory h 
+10.07.11.204262 PL111 picturestory  
+10.07.11.219643 PL111 picturestory  
+10.07.11.235268 PL111 picturestory  
+10.07.11.250900 PL111 picturestory  
+10.07.11.344641 PL111 picturestory  
+10.07.11.360282 PL111 picturestory  
+10.07.11.375916 PL111 picturestory  
+10.07.11.391536 PL111 picturestory  
+10.07.11.563679 PL111 picturestory h 
+10.07.11.579033 PL111 picturestory h 
+10.07.11.594675 PL111 picturestory h 
+10.07.11.610309 PL111 picturestory h 
+10.07.11.735297 PL111 picturestory h 
+10.07.11.750959 PL111 picturestory h 
+10.07.11.766581 PL111 picturestory h 
+10.07.11.782182 PL111 picturestory h 
+10.07.11.969962 PL111 picturestory  
+10.07.11.985349 PL111 picturestory  
+10.07.12.000976 PL111 picturestory  
+10.07.12.016606 PL111 picturestory  
+10.07.12.141639 PL111 picturestory  
+10.07.12.157220 PL111 picturestory  
+10.07.12.172847 PL111 picturestory  
+10.07.12.188765 PL111 picturestory  
+10.07.12.376524 PL111 picturestory  
+10.07.12.391937 PL111 picturestory  
+10.07.12.407565 PL111 picturestory  
+10.07.12.423192 PL111 picturestory  
+10.07.12.565321 PL111 picturestory h 
+10.07.12.580694 PL111 picturestory h 
+10.07.12.596321 PL111 picturestory h 
+10.07.12.611953 PL111 picturestory h 
+10.07.12.768419 PL111 picturestory h 
+10.07.12.783841 PL111 picturestory h 
+10.07.12.799447 PL111 picturestory h 
+10.07.12.815102 PL111 picturestory h 
+10.07.13.018487 PL111 picturestory h 
+10.07.13.033867 PL111 picturestory h 
+10.07.13.049495 PL111 picturestory h 
+10.07.13.065122 PL111 picturestory h 
+10.07.13.080724 PL111 picturestory  
+10.07.13.096375 PL111 picturestory  
+10.07.13.112007 PL111 picturestory  
+10.07.13.127603 PL111 picturestory  
+10.07.13.362158 PL111 picturestory  
+10.07.13.377646 PL111 picturestory  
+10.07.13.393282 PL111 picturestory  
+10.07.13.408922 PL111 picturestory  
+10.07.13.549568 PL111 picturestory  
+10.07.13.565176 PL111 picturestory  
+10.07.13.580812 PL111 picturestory  
+10.07.13.596429 PL111 picturestory  
+10.07.13.784189 PL111 picturestory  
+10.07.13.799576 PL111 picturestory  
+10.07.13.815202 PL111 picturestory  
+10.07.13.830830 PL111 picturestory  
+10.07.13.987335 PL111 picturestory h 
+10.07.14.002722 PL111 picturestory h 
+10.07.14.018349 PL111 picturestory h 
+10.07.14.033976 PL111 picturestory h 
+10.07.14.174841 PL111 picturestory h 
+10.07.14.190531 PL111 picturestory h 
+10.07.14.206198 PL111 picturestory h 
+10.07.14.221812 PL111 picturestory h 
+10.07.14.440821 PL111 picturestory h 
+10.07.14.456211 PL111 picturestory h 
+10.07.14.471840 PL111 picturestory h 
+10.07.14.487465 PL111 picturestory h 
+10.07.14.614479 PL111 picturestory h 
+10.07.14.629855 PL111 picturestory h 
+10.07.14.645457 PL111 picturestory h 
+10.07.14.661109 PL111 picturestory h 
+10.07.14.848882 PL111 picturestory h 
+10.07.14.864256 PL111 picturestory h 
+10.07.14.879888 PL111 picturestory h 
+10.07.14.895514 PL111 picturestory h 
+10.07.15.052014 PL111 picturestory h 
+10.07.15.067422 PL111 picturestory h 
+10.07.15.083049 PL111 picturestory h 
+10.07.15.098671 PL111 picturestory h 
+10.07.15.333306 PL111 picturestory h 
+10.07.15.348658 PL111 picturestory h 
+10.07.15.364318 PL111 picturestory h 
+10.07.15.379949 PL111 picturestory h 
+10.07.15.473927 PL111 picturestory h 
+10.07.15.489323 PL111 picturestory h 
+10.07.15.504950 PL111 picturestory h 
+10.07.15.520590 PL111 picturestory h 
+10.07.15.692716 PL111 picturestory h 
+10.07.15.708099 PL111 picturestory h 
+10.07.15.723724 PL111 picturestory h 
+10.07.15.739351 PL111 picturestory h 
+10.07.15.927117 PL111 picturestory h 
+10.07.15.942498 PL111 picturestory h 
+10.07.15.958123 PL111 picturestory h 
+10.07.15.973750 PL111 picturestory h 
+10.07.16.270896 PL111 picturestory h 
+10.07.16.286286 PL111 picturestory h 
+10.07.16.301911 PL111 picturestory h 
+10.07.16.317539 PL111 picturestory h 
+10.07.16.505284 PL111 picturestory h 
+10.07.16.520661 PL111 picturestory h 
+10.07.16.536326 PL111 picturestory h 
+10.07.16.551952 PL111 picturestory h 
+10.07.16.802203 PL111 picturestory h 
+10.07.16.817566 PL111 picturestory h 
+10.07.16.833192 PL111 picturestory h 
+10.07.16.848819 PL111 picturestory h 
+10.07.17.036582 PL111 picturestory  
+10.07.17.051966 PL111 picturestory  
+10.07.17.067592 PL111 picturestory  
+10.07.17.083219 PL111 picturestory  
+10.07.17.192879 PL111 picturestory  
+10.07.17.208232 PL111 picturestory  
+10.07.17.223860 PL111 picturestory  
+10.07.17.239486 PL111 picturestory  
+10.07.17.411626 PL111 picturestory  
+10.07.17.427011 PL111 picturestory  
+10.07.17.442633 PL111 picturestory  
+10.07.17.458260 PL111 picturestory  
+10.07.17.599150 PL111 picturestory h 
+10.07.17.614565 PL111 picturestory h 
+10.07.17.630192 PL111 picturestory h 
+10.07.17.645814 PL111 picturestory h 
+10.07.17.724180 PL111 picturestory h 
+10.07.17.739567 PL111 picturestory h 
+10.07.17.755191 PL111 picturestory h 
+10.07.17.770818 PL111 picturestory h 
+10.07.17.958568 PL111 picturestory h 
+10.07.17.973966 PL111 picturestory h 
+10.07.17.989567 PL111 picturestory h 
+10.07.18.005220 PL111 picturestory h 
+10.07.18.099213 PL111 picturestory h 
+10.07.18.114605 PL111 picturestory h 
+10.07.18.130207 PL111 picturestory h 
+10.07.18.145834 PL111 picturestory h 
+10.07.18.287096 PL111 picturestory h 
+10.07.18.302458 PL111 picturestory h 
+10.07.18.318085 PL111 picturestory h 
+10.07.18.333735 PL111 picturestory h 
+10.07.18.537130 PL111 picturestory h 
+10.07.18.552487 PL111 picturestory h 
+10.07.18.568112 PL111 picturestory h 
+10.07.18.583738 PL111 picturestory h 
+10.07.18.709025 PL111 picturestory h 
+10.07.18.724377 PL111 picturestory h 
+10.07.18.740003 PL111 picturestory h 
+10.07.18.755630 PL111 picturestory h 
+10.07.18.865256 PL111 picturestory h 
+10.07.18.880669 PL111 picturestory h 
+10.07.18.896296 PL111 picturestory h 
+10.07.18.911930 PL111 picturestory h 
+10.07.19.099683 PL111 picturestory h 
+10.07.19.115069 PL111 picturestory h 
+10.07.19.130696 PL111 picturestory h 
+10.07.19.146323 PL111 picturestory h 
+10.07.19.255950 PL111 picturestory h 
+10.07.19.271318 PL111 picturestory h 
+10.07.19.286939 PL111 picturestory h 
+10.07.19.302566 PL111 picturestory h 
+10.07.19.505991 PL111 picturestory h 
+10.07.19.521362 PL111 picturestory h 
+10.07.19.536989 PL111 picturestory h 
+10.07.19.552616 PL111 picturestory h 
+10.07.19.677647 PL111 picturestory  
+10.07.19.677647 PL111 picturestory  
+10.07.19.693247 PL111 picturestory  
+10.07.19.708883 PL111 picturestory  
+10.07.19.802864 PL111 picturestory  
+10.07.19.818269 PL111 picturestory  
+10.07.19.833896 PL111 picturestory  
+10.07.19.849537 PL111 picturestory  
+10.07.20.021647 PL111 picturestory  
+10.07.20.037043 PL111 picturestory  
+10.07.20.052670 PL111 picturestory  
+10.07.20.068307 PL111 picturestory  
+10.07.20.349810 PL111 picturestory h 
+10.07.20.365182 PL111 picturestory h 
+10.07.20.380808 PL111 picturestory h 
+10.07.20.396433 PL111 picturestory h 
+10.07.20.490242 PL111 picturestory h 
+10.07.20.505820 PL111 picturestory h 
+10.07.20.521447 PL111 picturestory h 
+10.07.20.537099 PL111 picturestory h 
+10.07.20.771733 PL111 picturestory  
+10.07.20.787141 PL111 picturestory  
+10.07.20.802768 PL111 picturestory  
+10.07.20.818392 PL111 picturestory  
+10.07.20.943619 PL111 picturestory  
+10.07.20.959018 PL111 picturestory  
+10.07.20.974644 PL111 picturestory  
+10.07.20.990270 PL111 picturestory  
+10.07.21.209272 PL111 picturestory hh 
+10.07.21.224672 PL111 picturestory hh 
+10.07.21.240298 PL111 picturestory hh 
+10.07.21.255917 PL111 picturestory hh 
+10.07.21.381160 PL111 picturestory hh 
+10.07.21.396541 PL111 picturestory hh 
+10.07.21.412190 PL111 picturestory hh 
+10.07.21.427794 PL111 picturestory hh 
+10.07.21.615579 PL111 picturestory  
+10.07.21.630964 PL111 picturestory  
+10.07.21.646591 PL111 picturestory  
+10.07.21.662219 PL111 picturestory  
+10.07.21.803098 PL111 picturestory  
+10.07.21.818486 PL111 picturestory  
+10.07.21.834128 PL111 picturestory  
+10.07.21.849713 PL111 picturestory  
+10.07.22.037497 PL111 picturestory h 
+10.07.22.052902 PL111 picturestory h 
+10.07.22.068529 PL111 picturestory h 
+10.07.22.084155 PL111 picturestory h 
+10.07.22.225017 PL111 picturestory h 
+10.07.22.240419 PL111 picturestory h 
+10.07.22.256006 PL111 picturestory h 
+10.07.22.287260 PL111 picturestory h 
+10.07.22.521911 PL111 picturestory h 
+10.07.22.537289 PL111 picturestory h 
+10.07.22.552913 PL111 picturestory h 
+10.07.22.568541 PL111 picturestory h 
+10.07.22.662574 PL111 picturestory h 
+10.07.22.677926 PL111 picturestory h 
+10.07.22.693554 PL111 picturestory h 
+10.07.22.709217 PL111 picturestory h 
+10.07.22.928235 PL111 picturestory h 
+10.07.22.943580 PL111 picturestory h 
+10.07.22.959233 PL111 picturestory h 
+10.07.22.974860 PL111 picturestory h 
+10.07.23.146985 PL111 picturestory h 
+10.07.23.162380 PL111 picturestory h 
+10.07.23.178006 PL111 picturestory h 
+10.07.23.193919 PL111 picturestory h 
+10.07.23.397327 PL111 picturestory h 
+10.07.23.412719 PL111 picturestory h 
+10.07.23.428347 PL111 picturestory h 
+10.07.23.443973 PL111 picturestory h 
+10.07.23.569252 PL111 picturestory h 
+10.07.23.584613 PL111 picturestory h 
+10.07.23.600257 PL111 picturestory h 
+10.07.23.615870 PL111 picturestory h 
+10.07.23.803603 PL111 picturestory h 
+10.07.23.819014 PL111 picturestory h 
+10.07.23.834639 PL111 picturestory h 
+10.07.23.850274 PL111 picturestory h 
+10.07.24.006750 PL111 picturestory  
+10.07.24.022140 PL111 picturestory  
+10.07.24.037788 PL111 picturestory  
+10.07.24.053413 PL111 picturestory  
+10.07.24.163054 PL111 picturestory  
+10.07.24.178426 PL111 picturestory  
+10.07.24.194049 PL111 picturestory  
+10.07.24.209667 PL111 picturestory  
+10.07.24.444304 PL111 picturestory  
+10.07.24.459684 PL111 picturestory  
+10.07.24.475333 PL111 picturestory  
+10.07.24.490961 PL111 picturestory  
+10.07.24.631848 PL111 picturestory h 
+10.07.24.647229 PL111 picturestory h 
+10.07.24.662869 PL111 picturestory h 
+10.07.24.678496 PL111 picturestory h 
+10.07.24.803744 PL111 picturestory h 
+10.07.24.819122 PL111 picturestory h 
+10.07.24.834748 PL111 picturestory h 
+10.07.24.850374 PL111 picturestory h 
+10.07.25.022489 PL111 picturestory h 
+10.07.25.037869 PL111 picturestory h 
+10.07.25.053521 PL111 picturestory h 
+10.07.25.069148 PL111 picturestory h 
+10.07.25.241015 PL111 picturestory  
+10.07.25.256645 PL111 picturestory  
+10.07.25.272271 PL111 picturestory  
+10.07.25.287897 PL111 picturestory  
+10.07.25.444411 PL111 picturestory  
+10.07.25.459805 PL111 picturestory  
+10.07.25.475417 PL111 picturestory  
+10.07.25.491044 PL111 picturestory  
+10.07.25.694454 PL111 picturestory  
+10.07.25.709819 PL111 picturestory  
+10.07.25.741070 PL111 picturestory  
+10.07.25.756731 PL111 picturestory  
+10.07.25.928852 PL111 picturestory h 
+10.07.25.944252 PL111 picturestory h 
+10.07.25.959845 PL111 picturestory h 
+10.07.25.975471 PL111 picturestory h 
+10.07.26.116366 PL111 picturestory h 
+10.07.26.131738 PL111 picturestory h 
+10.07.26.147364 PL111 picturestory h 
+10.07.26.162990 PL111 picturestory h 
+10.07.26.335131 PL111 picturestory h 
+10.07.26.350521 PL111 picturestory h 
+10.07.26.366173 PL111 picturestory h 
+10.07.26.381801 PL111 picturestory h 
+10.07.26.553945 PL111 picturestory  
+10.07.26.569286 PL111 picturestory  
+10.07.26.584949 PL111 picturestory  
+10.07.26.600571 PL111 picturestory  
+10.07.26.694573 PL111 picturestory  
+10.07.26.709953 PL111 picturestory  
+10.07.26.725551 PL111 picturestory  
+10.07.26.741220 PL111 picturestory  
+10.07.26.944585 PL111 picturestory  
+10.07.26.959976 PL111 picturestory  
+10.07.26.975578 PL111 picturestory  
+10.07.26.991229 PL111 picturestory  
+10.07.27.132089 PL111 picturestory h 
+10.07.27.147498 PL111 picturestory h 
+10.07.27.163123 PL111 picturestory h 
+10.07.27.178757 PL111 picturestory h 
+10.07.27.288674 PL111 picturestory h 
+10.07.27.304059 PL111 picturestory h 
+10.07.27.319712 PL111 picturestory h 
+10.07.27.335337 PL111 picturestory h 
+10.07.27.523112 PL111 picturestory h 
+10.07.27.538483 PL111 picturestory h 
+10.07.27.554116 PL111 picturestory h 
+10.07.27.585339 PL111 picturestory h 
+10.07.27.694988 PL111 picturestory  
+10.07.27.710377 PL111 picturestory  
+10.07.27.725980 PL111 picturestory  
+10.07.27.741644 PL111 picturestory  
+10.07.27.866883 PL111 picturestory  
+10.07.27.882270 PL111 picturestory  
+10.07.27.897897 PL111 picturestory  
+10.07.27.913524 PL111 picturestory  
+10.07.28.148163 PL111 picturestory h 
+10.07.28.163553 PL111 picturestory h 
+10.07.28.194819 PL111 picturestory h 
+10.07.28.210444 PL111 picturestory h 
+10.07.28.366907 PL111 picturestory h 
+10.07.28.382339 PL111 picturestory h 
+10.07.28.397928 PL111 picturestory h 
+10.07.28.413579 PL111 picturestory h 
+10.07.28.601327 PL111 picturestory  
+10.07.28.616702 PL111 picturestory  
+10.07.28.632351 PL111 picturestory  
+10.07.28.647988 PL111 picturestory  
+10.07.28.741985 PL111 picturestory  
+10.07.28.757365 PL111 picturestory  
+10.07.28.772991 PL111 picturestory  
+10.07.28.788598 PL111 picturestory  
+10.07.29.054508 PL111 picturestory  
+10.07.29.069899 PL111 picturestory  
+10.07.29.085526 PL111 picturestory  
+10.07.29.101151 PL111 picturestory  
+10.07.29.116779 PL111 picturestory h 
+10.07.29.132405 PL111 picturestory h 
+10.07.29.156164 PL111 picturestory h 
+10.07.29.172387 PL111 picturestory h 
+10.07.29.313303 PL111 picturestory h 
+10.07.29.328681 PL111 picturestory h 
+10.07.29.344307 PL111 picturestory h 
+10.07.29.359934 PL111 picturestory h 
+10.07.29.500822 PL111 picturestory  
+10.07.29.516200 PL111 picturestory  
+10.07.29.531827 PL111 picturestory  
+10.07.29.547453 PL111 picturestory  
+10.07.29.672718 PL111 picturestory  
+10.07.29.688095 PL111 picturestory  
+10.07.29.703721 PL111 picturestory  
+10.07.29.719347 PL111 picturestory  
+10.07.29.922740 PL111 picturestory h 
+10.07.29.938121 PL111 picturestory h 
+10.07.29.953748 PL111 picturestory h 
+10.07.29.969351 PL111 picturestory h 
+10.07.30.079020 PL111 picturestory h 
+10.07.30.094387 PL111 picturestory h 
+10.07.30.109993 PL111 picturestory h 
+10.07.30.125651 PL111 picturestory h 
+10.07.30.360561 PL111 picturestory h 
+10.07.30.376238 PL111 picturestory h 
+10.07.30.391858 PL111 picturestory h 
+10.07.30.407491 PL111 picturestory h 
+10.07.30.548357 PL111 picturestory h 
+10.07.30.563707 PL111 picturestory h 
+10.07.30.579360 PL111 picturestory h 
+10.07.30.594991 PL111 picturestory h 
+10.07.30.767106 PL111 picturestory  
+10.07.30.782506 PL111 picturestory  
+10.07.30.798132 PL111 picturestory  
+10.07.30.813760 PL111 picturestory  
+10.07.30.954650 PL111 picturestory  
+10.07.30.970027 PL111 picturestory  
+10.07.30.985657 PL111 picturestory  
+10.07.31.001293 PL111 picturestory  
+10.07.31.376297 PL111 picturestory h 
+10.07.31.391924 PL111 picturestory h 
+10.07.31.407548 PL111 picturestory h 
+10.07.31.423200 PL111 picturestory h 
+10.07.31.517201 PL111 picturestory h 
+10.07.31.532563 PL111 picturestory h 
+10.07.31.548189 PL111 picturestory h 
+10.07.31.563816 PL111 picturestory h 
+10.07.31.814107 PL111 picturestory  
+10.07.31.829516 PL111 picturestory  
+10.07.31.845095 PL111 picturestory  
+10.07.31.860756 PL111 picturestory  
+10.07.31.986010 PL111 picturestory  
+10.07.32.001387 PL111 picturestory  
+10.07.32.017013 PL111 picturestory  
+10.07.32.032640 PL111 picturestory  
+10.07.32.194247 PL111 picturestory h 
+10.07.32.209638 PL111 picturestory h 
+10.07.32.225241 PL111 picturestory h 
+10.07.32.240891 PL111 picturestory h 
+10.07.32.397382 PL111 picturestory h 
+10.07.32.412802 PL111 picturestory h 
+10.07.32.428419 PL111 picturestory h 
+10.07.32.444052 PL111 picturestory h 
+10.07.32.897428 PL111 picturestory h 
+10.07.32.912813 PL111 picturestory h 
+10.07.32.928440 PL111 picturestory h 
+10.07.32.944066 PL111 picturestory h 
+10.07.33.038100 PL111 picturestory h 
+10.07.33.053480 PL111 picturestory h 
+10.07.33.069083 PL111 picturestory h 
+10.07.33.084743 PL111 picturestory h 
+10.07.33.288118 PL111 picturestory h 
+10.07.33.303481 PL111 picturestory h 
+10.07.33.319107 PL111 picturestory h 
+10.07.33.334735 PL111 picturestory h 
+10.07.33.475374 PL111 picturestory h 
+10.07.33.491000 PL111 picturestory h 
+10.07.33.506627 PL111 picturestory h 
+10.07.33.522253 PL111 picturestory h 
+10.07.33.694402 PL111 picturestory h 
+10.07.33.709774 PL111 picturestory h 
+10.07.33.725401 PL111 picturestory h 
+10.07.33.741027 PL111 picturestory h 
+10.07.33.866312 PL111 picturestory h 
+10.07.33.881667 PL111 picturestory h 
+10.07.33.897296 PL111 picturestory h 
+10.07.33.912923 PL111 picturestory h 
+10.07.34.303862 PL111 picturestory h 
+10.07.34.319240 PL111 picturestory h 
+10.07.34.334867 PL111 picturestory h 
+10.07.34.350493 PL111 picturestory h 
+10.07.34.538231 PL111 picturestory h 
+10.07.34.553639 PL111 picturestory h 
+10.07.34.569267 PL111 picturestory h 
+10.07.34.584893 PL111 picturestory h 
+10.07.34.913272 PL111 picturestory  
+10.07.34.928690 PL111 picturestory  
+10.07.34.944307 PL111 picturestory  
+10.07.34.959934 PL111 picturestory  
+10.07.35.116419 PL111 picturestory  
+10.07.35.131835 PL111 picturestory  
+10.07.35.147462 PL111 picturestory  
+10.07.35.163080 PL111 picturestory  
+10.07.35.382095 PL111 picturestory h 
+10.07.35.397481 PL111 picturestory h 
+10.07.35.413108 PL111 picturestory h 
+10.07.35.428747 PL111 picturestory h 
+10.07.35.632118 PL111 picturestory h 
+10.07.35.647508 PL111 picturestory h 
+10.07.35.663135 PL111 picturestory h 
+10.07.35.678761 PL111 picturestory h 
+10.07.35.882127 PL111 picturestory  
+10.07.35.897534 PL111 picturestory  
+10.07.35.928763 PL111 picturestory  
+10.07.35.944414 PL111 picturestory  
+10.07.36.100913 PL111 picturestory  
+10.07.36.116315 PL111 picturestory  
+10.07.36.131944 PL111 picturestory  
+10.07.36.147571 PL111 picturestory  
+10.07.36.335301 PL111 picturestory h 
+10.07.36.350683 PL111 picturestory h 
+10.07.36.366320 PL111 picturestory h 
+10.07.36.381962 PL111 picturestory h 
+10.07.36.538460 PL111 picturestory h 
+10.07.36.553856 PL111 picturestory h 
+10.07.36.569458 PL111 picturestory h 
+10.07.36.585083 PL111 picturestory h 
+10.07.36.772849 PL111 picturestory  
+10.07.36.788258 PL111 picturestory  
+10.07.36.803881 PL111 picturestory  
+10.07.36.819485 PL111 picturestory  
+10.07.36.960367 PL111 picturestory  
+10.07.36.975776 PL111 picturestory  
+10.07.36.991377 PL111 picturestory  
+10.07.37.007004 PL111 picturestory  
+10.07.37.179161 PL111 picturestory h 
+10.07.37.194549 PL111 picturestory h 
+10.07.37.210452 PL111 picturestory h 
+10.07.37.210452 PL111 picturestory h 
+10.07.37.366949 PL111 picturestory h 
+10.07.37.382349 PL111 picturestory h 
+10.07.37.397975 PL111 picturestory h 
+10.07.37.413601 PL111 picturestory h 
+10.07.37.617010 PL111 picturestory  
+10.07.37.632398 PL111 picturestory  
+10.07.37.648026 PL111 picturestory  
+10.07.37.663652 PL111 picturestory  
+10.07.37.788642 PL111 picturestory  
+10.07.37.804293 PL111 picturestory  
+10.07.37.819928 PL111 picturestory  
+10.07.37.835546 PL111 picturestory  
+10.07.38.038938 PL111 picturestory h 
+10.07.38.054320 PL111 picturestory h 
+10.07.38.069950 PL111 picturestory h 
+10.07.38.085573 PL111 picturestory h 
+10.07.38.257686 PL111 picturestory h 
+10.07.38.273092 PL111 picturestory h 
+10.07.38.288720 PL111 picturestory h 
+10.07.38.304348 PL111 picturestory h 
+10.07.38.476480 PL111 picturestory  
+10.07.38.491867 PL111 picturestory  
+10.07.38.507500 PL111 picturestory  
+10.07.38.523120 PL111 picturestory  
+10.07.38.648353 PL111 picturestory  
+10.07.38.663760 PL111 picturestory  
+10.07.38.679387 PL111 picturestory  
+10.07.38.695013 PL111 picturestory  
+10.07.38.974155 PL111 picturestory h 
+10.07.38.989569 PL111 picturestory h 
+10.07.39.005195 PL111 picturestory h 
+10.07.39.020823 PL111 picturestory h 
+10.07.39.161676 PL111 picturestory h 
+10.07.39.177100 PL111 picturestory h 
+10.07.39.192716 PL111 picturestory h 
+10.07.39.208342 PL111 picturestory h 
+10.07.39.489842 PL111 picturestory  
+10.07.39.505392 PL111 picturestory  
+10.07.39.521438 PL111 picturestory  
+10.07.39.525711 PL111 picturestory  
+10.07.39.697852 PL111 picturestory  
+10.07.39.713258 PL111 picturestory  
+10.07.39.728885 PL111 picturestory  
+10.07.39.744521 PL111 picturestory  
+10.07.39.916651 PL111 picturestory h 
+10.07.39.932030 PL111 picturestory h 
+10.07.39.947658 PL111 picturestory h 
+10.07.39.963284 PL111 picturestory h 
+10.07.40.119802 PL111 picturestory h 
+10.07.40.135178 PL111 picturestory h 
+10.07.40.150805 PL111 picturestory h 
+10.07.40.166430 PL111 picturestory h 
+10.07.40.432323 PL111 picturestory  
+10.07.40.447711 PL111 picturestory  
+10.07.40.463338 PL111 picturestory  
+10.07.40.478965 PL111 picturestory  
+10.07.40.651086 PL111 picturestory  
+10.07.40.666485 PL111 picturestory  
+10.07.40.682112 PL111 picturestory  
+10.07.40.697738 PL111 picturestory  
+10.07.40.934135 PL111 picturestory h 
+10.07.40.949507 PL111 picturestory h 
+10.07.40.965133 PL111 picturestory h 
+10.07.40.980761 PL111 picturestory h 
+10.07.41.204447 PL111 picturestory h 
+10.07.41.220111 PL111 picturestory h 
+10.07.41.235737 PL111 picturestory h 
+10.07.41.251354 PL111 picturestory h 
+10.07.41.392235 PL111 picturestory  
+10.07.41.407597 PL111 picturestory  
+10.07.41.423230 PL111 picturestory  
+10.07.41.438849 PL111 picturestory  
+10.07.41.564120 PL111 picturestory  
+10.07.41.579518 PL111 picturestory  
+10.07.41.595140 PL111 picturestory  
+10.07.41.610774 PL111 picturestory  
+10.07.41.907919 PL111 picturestory h 
+10.07.41.923301 PL111 picturestory h 
+10.07.41.938903 PL111 picturestory h 
+10.07.41.954554 PL111 picturestory h 
+10.07.42.111068 PL111 picturestory h 
+10.07.42.126447 PL111 picturestory h 
+10.07.42.142050 PL111 picturestory h 
+10.07.42.157678 PL111 picturestory h 
+10.07.42.361080 PL111 picturestory  
+10.07.42.392101 PL111 picturestory  
+10.07.42.407729 PL111 picturestory  
+10.07.42.423367 PL111 picturestory  
+10.07.42.548606 PL111 picturestory  
+10.07.42.563998 PL111 picturestory  
+10.07.42.579622 PL111 picturestory  
+10.07.42.595248 PL111 picturestory  
+10.07.42.768756 PL111 picturestory h 
+10.07.42.784428 PL111 picturestory h 
+10.07.42.800052 PL111 picturestory h 
+10.07.42.815670 PL111 picturestory h 
+10.07.42.972169 PL111 picturestory h 
+10.07.42.987531 PL111 picturestory h 
+10.07.43.003157 PL111 picturestory h 
+10.07.43.018785 PL111 picturestory h 
+10.07.43.190948 PL111 picturestory h 
+10.07.43.206334 PL111 picturestory h 
+10.07.43.221956 PL111 picturestory h 
+10.07.43.237597 PL111 picturestory h 
+10.07.43.378443 PL111 picturestory h 
+10.07.43.393853 PL111 picturestory h 
+10.07.43.409475 PL111 picturestory h 
+10.07.43.425086 PL111 picturestory h 
+10.07.43.628224 PL111 picturestory h 
+10.07.43.643907 PL111 picturestory h 
+10.07.43.659519 PL111 picturestory h 
+10.07.43.675106 PL111 picturestory h 
+10.07.43.831408 PL111 picturestory h 
+10.07.43.862626 PL111 picturestory h 
+10.07.43.878253 PL111 picturestory h 
+10.07.43.893914 PL111 picturestory h 
+10.07.44.034558 PL111 picturestory  
+10.07.44.050146 PL111 picturestory  
+10.07.44.065809 PL111 picturestory  
+10.07.44.081404 PL111 picturestory  
+10.07.44.237676 PL111 picturestory  
+10.07.44.253290 PL111 picturestory  
+10.07.44.268943 PL111 picturestory  
+10.07.44.284558 PL111 picturestory  
+10.07.44.456454 PL111 picturestory h 
+10.07.44.472077 PL111 picturestory h 
+10.07.44.487691 PL111 picturestory h 
+10.07.44.503321 PL111 picturestory h 
+10.07.44.659615 PL111 picturestory h 
+10.07.44.675214 PL111 picturestory h 
+10.07.44.690838 PL111 picturestory h 
+10.07.44.706467 PL111 picturestory h 
+10.07.44.925277 PL111 picturestory h 
+10.07.44.940865 PL111 picturestory h 
+10.07.44.956494 PL111 picturestory h 
+10.07.44.972120 PL111 picturestory h 
+10.07.45.113027 PL111 picturestory h 
+10.07.45.132565 PL111 picturestory h 
+10.07.45.148702 PL111 picturestory h 
+10.07.45.164354 PL111 picturestory h 
+10.07.45.320861 PL111 picturestory h 
+10.07.45.336249 PL111 picturestory h 
+10.07.45.351875 PL111 picturestory h 
+10.07.45.367515 PL111 picturestory h 
+10.07.45.508384 PL111 picturestory h 
+10.07.45.523785 PL111 picturestory h 
+10.07.45.539395 PL111 picturestory h 
+10.07.45.555022 PL111 picturestory h 
+10.07.45.711542 PL111 picturestory h 
+10.07.45.726914 PL111 picturestory h 
+10.07.45.742555 PL111 picturestory h 
+10.07.45.758168 PL111 picturestory h 
+10.07.45.945942 PL111 picturestory h 
+10.07.45.961334 PL111 picturestory h 
+10.07.45.976969 PL111 picturestory h 
+10.07.45.992591 PL111 picturestory h 
+10.07.46.195967 PL111 picturestory h 
+10.07.46.211343 PL111 picturestory h 
+10.07.46.226945 PL111 picturestory h 
+10.07.46.226945 PL111 picturestory h 
+10.07.46.383818 PL111 picturestory h 
+10.07.46.399205 PL111 picturestory h 
+10.07.46.414832 PL111 picturestory h 
+10.07.46.430434 PL111 picturestory h 
+10.07.46.571345 PL111 picturestory h 
+10.07.46.586726 PL111 picturestory h 
+10.07.46.602351 PL111 picturestory h 
+10.07.46.617992 PL111 picturestory h 
+10.07.46.790093 PL111 picturestory h 
+10.07.46.805499 PL111 picturestory h 
+10.07.46.821127 PL111 picturestory h 
+10.07.46.836762 PL111 picturestory h 
+10.07.47.008878 PL111 picturestory h 
+10.07.47.024272 PL111 picturestory h 
+10.07.47.039875 PL111 picturestory h 
+10.07.47.055526 PL111 picturestory h 
+10.07.47.227647 PL111 picturestory h 
+10.07.47.243148 PL111 picturestory h 
+10.07.47.258801 PL111 picturestory h 
+10.07.47.274435 PL111 picturestory h 
+10.07.47.462170 PL111 picturestory h 
+10.07.47.477575 PL111 picturestory h 
+10.07.47.493201 PL111 picturestory h 
+10.07.47.524432 PL111 picturestory h 
+10.07.47.665327 PL111 picturestory h 
+10.07.47.680722 PL111 picturestory h 
+10.07.47.696348 PL111 picturestory h 
+10.07.47.711949 PL111 picturestory h 
+10.07.47.899496 PL111 picturestory h 
+10.07.47.915133 PL111 picturestory h 
+10.07.47.930762 PL111 picturestory h 
+10.07.47.946388 PL111 picturestory h 
+10.07.48.102882 PL111 picturestory h 
+10.07.48.118280 PL111 picturestory h 
+10.07.48.133871 PL111 picturestory h 
+10.07.48.149537 PL111 picturestory h 
+10.07.48.446650 PL111 picturestory h 
+10.07.48.462056 PL111 picturestory h 
+10.07.48.477683 PL111 picturestory h 
+10.07.48.493309 PL111 picturestory h 
+10.07.48.587285 PL111 picturestory h 
+10.07.48.602709 PL111 picturestory h 
+10.07.48.618331 PL111 picturestory h 
+10.07.48.633966 PL111 picturestory h 
+10.07.48.806045 PL111 picturestory h 
+10.07.48.821469 PL111 picturestory h 
+10.07.48.837070 PL111 picturestory h 
+10.07.48.852701 PL111 picturestory h 
+10.07.49.102990 PL111 picturestory h 
+10.07.49.118377 PL111 picturestory h 
+10.07.49.134003 PL111 picturestory h 
+10.07.49.149604 PL111 picturestory h 
+10.07.49.321761 PL111 picturestory h 
+10.07.49.337159 PL111 picturestory h 
+10.07.49.352754 PL111 picturestory h 
+10.07.49.368416 PL111 picturestory h 
+10.07.49.571765 PL111 picturestory h 
+10.07.49.587177 PL111 picturestory h 
+10.07.49.602803 PL111 picturestory h 
+10.07.49.618439 PL111 picturestory h 
+10.07.49.759297 PL111 picturestory h 
+10.07.49.774708 PL111 picturestory h 
+10.07.49.790337 PL111 picturestory h 
+10.07.49.805951 PL111 picturestory h 
+10.07.49.993721 PL111 picturestory h 
+10.07.50.009116 PL111 picturestory h 
+10.07.50.024739 PL111 picturestory h 
+10.07.50.040370 PL111 picturestory h 
+10.07.50.165581 PL111 picturestory h 
+10.07.50.181003 PL111 picturestory h 
+10.07.50.196620 PL111 picturestory h 
+10.07.50.212244 PL111 picturestory h 
+10.07.50.665418 PL111 picturestory h 
+10.07.50.681045 PL111 picturestory h 
+10.07.50.696650 PL111 picturestory h 
+10.07.50.712283 PL111 picturestory h 
+10.07.50.821906 PL111 picturestory h 
+10.07.50.837311 PL111 picturestory h 
+10.07.50.852937 PL111 picturestory h 
+10.07.50.868565 PL111 picturestory h 
+10.07.51.102964 PL111 picturestory h 
+10.07.51.118566 PL111 picturestory h 
+10.07.51.118566 PL111 picturestory h 
+10.07.51.134194 PL111 picturestory h 
+10.07.51.290715 PL111 picturestory h 
+10.07.51.306087 PL111 picturestory h 
+10.07.51.306087 PL111 picturestory h 
+10.07.51.321738 PL111 picturestory h 
+10.07.51.556375 PL111 picturestory h 
+10.07.51.587367 PL111 picturestory h 
+10.07.51.603006 PL111 picturestory h 
+10.07.51.618668 PL111 picturestory h 
+10.07.51.743909 PL111 picturestory h 
+10.07.51.759285 PL111 picturestory h 
+10.07.51.774925 PL111 picturestory h 
+10.07.51.790553 PL111 picturestory h 
+10.07.52.009555 PL111 picturestory h 
+10.07.52.024944 PL111 picturestory h 
+10.07.52.040555 PL111 picturestory h 
+10.07.52.056193 PL111 picturestory h 
+10.07.52.181443 PL111 picturestory h 
+10.07.52.196843 PL111 picturestory h 
+10.07.52.212469 PL111 picturestory h 
+10.07.52.228085 PL111 picturestory h 
+10.07.52.369278 PL111 picturestory h 
+10.07.52.384681 PL111 picturestory h 
+10.07.52.400312 PL111 picturestory h 
+10.07.52.415927 PL111 picturestory h 
+10.07.52.556819 PL111 picturestory h 
+10.07.52.572194 PL111 picturestory h 
+10.07.52.587834 PL111 picturestory h 
+10.07.52.603457 PL111 picturestory h 
+10.07.52.853695 PL111 picturestory h 
+10.07.52.869116 PL111 picturestory h 
+10.07.52.884740 PL111 picturestory h 
+10.07.52.884740 PL111 picturestory h 
+10.07.52.916006 PL111 picturestory h 
+10.07.52.931583 PL111 picturestory h 
+10.07.52.947210 PL111 picturestory h 
+10.07.52.947210 PL111 picturestory h 
+10.07.53.213100 PL111 picturestory h 
+10.07.53.228523 PL111 picturestory h 
+10.07.53.244140 PL111 picturestory h 
+10.07.53.259767 PL111 picturestory h 
+10.07.53.385004 PL111 picturestory h 
+10.07.53.400419 PL111 picturestory h 
+10.07.53.416009 PL111 picturestory h 
+10.07.53.431683 PL111 picturestory h 
+10.07.53.556726 PL111 picturestory h 
+10.07.53.556726 PL111 picturestory h 
+10.07.53.572276 PL111 picturestory h 
+10.07.53.603538 PL111 picturestory h 
+10.07.53.791311 PL111 picturestory h 
+10.07.53.806703 PL111 picturestory h 
+10.07.53.822319 PL111 picturestory h 
+10.07.53.837968 PL111 picturestory h 
+10.07.54.025693 PL111 picturestory h 
+10.07.54.041114 PL111 picturestory h 
+10.07.54.056734 PL111 picturestory h 
+10.07.54.072331 PL111 picturestory h 
+10.07.54.197591 PL111 picturestory h 
+10.07.54.212973 PL111 picturestory h 
+10.07.54.244223 PL111 picturestory h 
+10.07.54.259854 PL111 picturestory h 
+10.07.54.478898 PL111 picturestory h 
+10.07.54.494274 PL111 picturestory h 
+10.07.54.509901 PL111 picturestory h 
+10.07.54.525529 PL111 picturestory h 
+10.07.54.682037 PL111 picturestory h 
+10.07.54.697426 PL111 picturestory h 
+10.07.54.713077 PL111 picturestory h 
+10.07.54.728680 PL111 picturestory h 
+10.07.55.088339 PL111 picturestory h 
+10.07.55.103717 PL111 picturestory h 
+10.07.55.119342 PL111 picturestory h 
+10.07.55.134977 PL111 picturestory h 
+10.07.55.307080 PL111 picturestory h 
+10.07.55.322517 PL111 picturestory h 
+10.07.55.338132 PL111 picturestory h 
+10.07.55.353751 PL111 picturestory h 
+10.07.55.541485 PL111 picturestory h 
+10.07.55.556891 PL111 picturestory h 
+10.07.55.572492 PL111 picturestory h 
+10.07.55.588119 PL111 picturestory h 
+10.07.55.791525 PL111 picturestory h 
+10.07.55.806934 PL111 picturestory h 
+10.07.55.822517 PL111 picturestory h 
+10.07.55.838192 PL111 picturestory h 
+10.07.55.963431 PL111 picturestory h 
+10.07.55.978810 PL111 picturestory h 
+10.07.55.994490 PL111 picturestory h 
+10.07.55.994490 PL111 picturestory h 
+10.07.56.166580 PL111 picturestory h 
+10.07.56.181957 PL111 picturestory h 
+10.07.56.197587 PL111 picturestory h 
+10.07.56.213209 PL111 picturestory h 
+10.07.56.322841 PL111 picturestory h 
+10.07.56.338225 PL111 picturestory h 
+10.07.56.353849 PL111 picturestory h 
+10.07.56.369488 PL111 picturestory h 
+10.07.56.635372 PL111 picturestory h 
+10.07.56.650765 PL111 picturestory h 
+10.07.56.666396 PL111 picturestory h 
+10.07.56.682015 PL111 picturestory h 
+10.08.01.281651 PL111 brainteaser Solve the following puzzles. 
+10.08.02.641134 PL111 brainteaser  
+10.10.07.195253 PL111 login 
+10.10.14.283205 PL111 brainteaser Solve the following puzzles. 
+10.10.15.564847 PL111 brainteaser  
+10.10.19.719044 PL111 brainteaser  
+10.10.23.122649 PL111 brainteaser  
+10.10.28.435724 PL111 brainteaser  
+10.10.32.295802 PL111 brainteaser  
+10.10.36.843514 PL111 brainteaser  
+10.10.40.567788 PL111 brainteaser  
+10.10.43.583314 PL111 brainteaser  
+09.35.18.323758 PL111 login 

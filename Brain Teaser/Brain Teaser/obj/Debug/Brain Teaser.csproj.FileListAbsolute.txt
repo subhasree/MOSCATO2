@@ -1,0 +1,18 @@
+C:\Subhasree\C#Projects\Brain Teaser\Brain Teaser\bin\Debug\Brain Teaser.exe.config
+C:\Subhasree\C#Projects\Brain Teaser\Brain Teaser\bin\Debug\Brain Teaser.exe
+C:\Subhasree\C#Projects\Brain Teaser\Brain Teaser\bin\Debug\Brain Teaser.pdb
+C:\Subhasree\C#Projects\Brain Teaser\Brain Teaser\obj\Debug\Brain Teaser.csprojResolveAssemblyReference.cache
+C:\Subhasree\C#Projects\Brain Teaser\Brain Teaser\obj\Debug\Brain_Teaser.Form1.resources
+C:\Subhasree\C#Projects\Brain Teaser\Brain Teaser\obj\Debug\Brain_Teaser.Properties.Resources.resources
+C:\Subhasree\C#Projects\Brain Teaser\Brain Teaser\obj\Debug\Brain Teaser.csproj.GenerateResource.Cache
+C:\Subhasree\C#Projects\Brain Teaser\Brain Teaser\obj\Debug\Brain Teaser.exe
+C:\Subhasree\C#Projects\Brain Teaser\Brain Teaser\obj\Debug\Brain Teaser.pdb
+C:\Subhasree\CODES\CODES\Brain Teaser\Brain Teaser\bin\Debug\Brain Teaser.exe.config
+C:\Subhasree\CODES\CODES\Brain Teaser\Brain Teaser\bin\Debug\Brain Teaser.exe
+C:\Subhasree\CODES\CODES\Brain Teaser\Brain Teaser\bin\Debug\Brain Teaser.pdb
+C:\Subhasree\CODES\CODES\Brain Teaser\Brain Teaser\obj\Debug\Brain Teaser.csprojResolveAssemblyReference.cache
+C:\Subhasree\CODES\CODES\Brain Teaser\Brain Teaser\obj\Debug\Brain_Teaser.Form1.resources
+C:\Subhasree\CODES\CODES\Brain Teaser\Brain Teaser\obj\Debug\Brain_Teaser.Properties.Resources.resources
+C:\Subhasree\CODES\CODES\Brain Teaser\Brain Teaser\obj\Debug\Brain Teaser.csproj.GenerateResource.Cache
+C:\Subhasree\CODES\CODES\Brain Teaser\Brain Teaser\obj\Debug\Brain Teaser.exe
+C:\Subhasree\CODES\CODES\Brain Teaser\Brain Teaser\obj\Debug\Brain Teaser.pdb

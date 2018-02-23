@@ -1,0 +1,63 @@
+c:\users\tmaszczyk\documents\visual studio 2015\Projects\Introduction\Introduction\bin\Debug\Introduction.exe.config
+c:\users\tmaszczyk\documents\visual studio 2015\Projects\Introduction\Introduction\bin\Debug\Introduction.exe
+c:\users\tmaszczyk\documents\visual studio 2015\Projects\Introduction\Introduction\bin\Debug\Introduction.pdb
+c:\users\tmaszczyk\documents\visual studio 2015\Projects\Introduction\Introduction\obj\Debug\Introduction.csprojResolveAssemblyReference.cache
+c:\users\tmaszczyk\documents\visual studio 2015\Projects\Introduction\Introduction\obj\Debug\Introduction.Form1.resources
+c:\users\tmaszczyk\documents\visual studio 2015\Projects\Introduction\Introduction\obj\Debug\Introduction.Properties.Resources.resources
+c:\users\tmaszczyk\documents\visual studio 2015\Projects\Introduction\Introduction\obj\Debug\Introduction.csproj.GenerateResource.Cache
+c:\users\tmaszczyk\documents\visual studio 2015\Projects\Introduction\Introduction\obj\Debug\Introduction.exe
+c:\users\tmaszczyk\documents\visual studio 2015\Projects\Introduction\Introduction\obj\Debug\Introduction.pdb
+C:\Users\tmaszczyk\Desktop\FILMS\__FRAMEWORK__\MOSCATO\Introduction\bin\Debug\Introduction.exe.config
+C:\Users\tmaszczyk\Desktop\FILMS\__FRAMEWORK__\MOSCATO\Introduction\bin\Debug\Introduction.exe
+C:\Users\tmaszczyk\Desktop\FILMS\__FRAMEWORK__\MOSCATO\Introduction\bin\Debug\Introduction.pdb
+C:\Users\tmaszczyk\Desktop\FILMS\__FRAMEWORK__\MOSCATO\Introduction\obj\Debug\Introduction.Form1.resources
+C:\Users\tmaszczyk\Desktop\FILMS\__FRAMEWORK__\MOSCATO\Introduction\obj\Debug\Introduction.Properties.Resources.resources
+C:\Users\tmaszczyk\Desktop\FILMS\__FRAMEWORK__\MOSCATO\Introduction\obj\Debug\Introduction.csproj.GenerateResource.Cache
+C:\Users\tmaszczyk\Desktop\FILMS\__FRAMEWORK__\MOSCATO\Introduction\obj\Debug\Introduction.exe
+C:\Users\tmaszczyk\Desktop\FILMS\__FRAMEWORK__\MOSCATO\Introduction\obj\Debug\Introduction.pdb
+C:\Users\tmaszczyk\Desktop\FILMS\__FRAMEWORK__\MOSCATO\Introduction\obj\Debug\Introduction.csprojResolveAssemblyReference.cache
+c:\Users\tmaszczyk\Desktop\FILMS\moscato\Introduction\bin\Debug\Introduction.exe.config
+c:\Users\tmaszczyk\Desktop\FILMS\moscato\Introduction\bin\Debug\Introduction.exe
+c:\Users\tmaszczyk\Desktop\FILMS\moscato\Introduction\bin\Debug\Introduction.pdb
+c:\Users\tmaszczyk\Desktop\FILMS\moscato\Introduction\obj\Debug\Introduction.Form1.resources
+c:\Users\tmaszczyk\Desktop\FILMS\moscato\Introduction\obj\Debug\Introduction.Properties.Resources.resources
+c:\Users\tmaszczyk\Desktop\FILMS\moscato\Introduction\obj\Debug\Introduction.csproj.GenerateResource.Cache
+c:\Users\tmaszczyk\Desktop\FILMS\moscato\Introduction\obj\Debug\Introduction.exe
+c:\Users\tmaszczyk\Desktop\FILMS\moscato\Introduction\obj\Debug\Introduction.pdb
+c:\Users\tmaszczyk\Desktop\11\moscato_dropbox\Introduction\bin\Debug\Introduction.exe.config
+c:\Users\tmaszczyk\Desktop\11\moscato_dropbox\Introduction\bin\Debug\Introduction.exe
+c:\Users\tmaszczyk\Desktop\11\moscato_dropbox\Introduction\bin\Debug\Introduction.pdb
+c:\Users\tmaszczyk\Desktop\11\moscato_dropbox\Introduction\obj\Debug\Introduction.csprojResolveAssemblyReference.cache
+c:\Users\tmaszczyk\Desktop\11\moscato_dropbox\Introduction\obj\Debug\Introduction.Form1.resources
+c:\Users\tmaszczyk\Desktop\11\moscato_dropbox\Introduction\obj\Debug\Introduction.Properties.Resources.resources
+c:\Users\tmaszczyk\Desktop\11\moscato_dropbox\Introduction\obj\Debug\Introduction.csproj.GenerateResource.Cache
+c:\Users\tmaszczyk\Desktop\11\moscato_dropbox\Introduction\obj\Debug\Introduction.exe
+c:\Users\tmaszczyk\Desktop\11\moscato_dropbox\Introduction\obj\Debug\Introduction.pdb
+C:\Subhasree\CODES\CODES\Introduction\bin\Debug\Introduction.exe.config
+C:\Subhasree\CODES\CODES\Introduction\bin\Debug\Introduction.exe
+C:\Subhasree\CODES\CODES\Introduction\bin\Debug\Introduction.pdb
+C:\Subhasree\CODES\CODES\Introduction\obj\Debug\Introduction.Form1.resources
+C:\Subhasree\CODES\CODES\Introduction\obj\Debug\Introduction.Properties.Resources.resources
+C:\Subhasree\CODES\CODES\Introduction\obj\Debug\Introduction.csproj.GenerateResource.Cache
+C:\Subhasree\CODES\CODES\Introduction\obj\Debug\Introduction.exe
+C:\Subhasree\CODES\CODES\Introduction\obj\Debug\Introduction.pdb
+C:\Subhasree\CODES\CODES\Introduction\obj\Debug\Introduction.csprojResolveAssemblyReference.cache
+C:\Subhasree\CODES\MOSCATO1\Introduction\bin\Debug\Introduction.exe.config
+C:\Subhasree\CODES\MOSCATO1\Introduction\bin\Debug\Introduction.exe
+C:\Subhasree\CODES\MOSCATO1\Introduction\bin\Debug\Introduction.pdb
+C:\Subhasree\CODES\MOSCATO1\Introduction\obj\Debug\Introduction.csprojResolveAssemblyReference.cache
+C:\Subhasree\CODES\MOSCATO1\Introduction\obj\Debug\Introduction.Form1.resources
+C:\Subhasree\CODES\MOSCATO1\Introduction\obj\Debug\Introduction.Properties.Resources.resources
+C:\Subhasree\CODES\MOSCATO1\Introduction\obj\Debug\Introduction.csproj.GenerateResource.Cache
+C:\Subhasree\CODES\MOSCATO1\Introduction\obj\Debug\Introduction.exe
+C:\Subhasree\CODES\MOSCATO1\Introduction\obj\Debug\Introduction.pdb
+C:\Users\Kyle\Desktop\MOSCATO1\Introduction\bin\Debug\Introduction.exe.config
+C:\Users\Kyle\Desktop\MOSCATO1\Introduction\bin\Debug\Introduction.exe
+C:\Users\Kyle\Desktop\MOSCATO1\Introduction\bin\Debug\Introduction.pdb
+C:\Users\Kyle\Desktop\MOSCATO1\Introduction\obj\Debug\Introduction.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Desktop\MOSCATO1\Introduction\obj\Debug\Introduction.Form1.resources
+C:\Users\Kyle\Desktop\MOSCATO1\Introduction\obj\Debug\Introduction.Properties.Resources.resources
+C:\Users\Kyle\Desktop\MOSCATO1\Introduction\obj\Debug\Introduction.csproj.GenerateResource.Cache
+C:\Users\Kyle\Desktop\MOSCATO1\Introduction\obj\Debug\Introduction.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Desktop\MOSCATO1\Introduction\obj\Debug\Introduction.exe
+C:\Users\Kyle\Desktop\MOSCATO1\Introduction\obj\Debug\Introduction.pdb

@@ -1,0 +1,741 @@
+11.07.58.774850 PL15 login 
+11.08.16.125817 PL15 words 1 
+11.08.16.859040 PL15 words 1 
+11.08.18.375257 PL15 words 2 
+11.08.19.175949 PL15 words 1 
+11.08.19.815609 PL15 words 2 
+11.08.20.532371 PL15 words 2 
+11.08.22.344024 PL15 words 2 
+11.08.22.939253 PL15 words 2 
+11.08.23.890377 PL15 words 2 
+11.08.24.676456 PL15 words 1 
+11.08.24.875210 PL15 words 2 
+11.08.25.094894 PL15 words 1 
+11.08.25.237702 PL15 words 2 
+11.08.25.469360 PL15 words 1 
+11.08.25.563325 PL15 words 2 
+11.08.25.750904 PL15 words 1 
+11.08.25.857701 PL15 words 2 
+11.08.26.000561 PL15 words 1 
+11.08.26.112654 PL15 words 2 
+11.08.26.271835 PL15 words 1 
+11.08.26.422486 PL15 words 2 
+11.08.26.609608 PL15 words 1 
+11.08.26.738400 PL15 words 2 
+11.08.26.956907 PL15 words 1 
+11.08.27.095862 PL15 words 2 
+11.08.27.312791 PL15 words 1 
+11.08.27.427409 PL15 words 2 
+11.08.27.657393 PL15 words 1 
+11.08.27.801778 PL15 words 2 
+11.08.28.093821 PL15 words 2 
+11.08.28.312959 PL15 words 1 
+11.08.28.457884 PL15 words 2 
+11.08.28.672487 PL15 words 1 
+11.08.28.876581 PL15 words 2 
+11.08.29.097501 PL15 words 1 
+11.08.29.250442 PL15 words 2 
+11.08.29.456770 PL15 words 1 
+11.08.29.625914 PL15 words 2 
+11.08.29.843922 PL15 words 1 
+11.08.29.959227 PL15 words 2 
+11.08.30.143981 PL15 words 1 
+11.08.30.266186 PL15 words 2 
+11.08.30.489185 PL15 words 1 
+11.08.30.625549 PL15 words 2 
+11.08.30.876977 PL15 words 1 
+11.08.30.988654 PL15 words 2 
+11.08.31.239306 PL15 words 1 
+11.08.31.363731 PL15 words 2 
+11.08.31.578540 PL15 words 1 
+11.08.31.739792 PL15 words 2 
+11.08.31.938251 PL15 words 1 
+11.08.32.083461 PL15 words 2 
+11.08.32.363402 PL15 words 1 
+11.08.32.516646 PL15 words 2 
+11.08.32.718614 PL15 words 1 
+11.08.32.844265 PL15 words 2 
+11.08.33.093672 PL15 words 1 
+11.08.33.218978 PL15 words 2 
+11.08.33.547309 PL15 words 1 
+11.08.33.734834 PL15 words 2 
+11.08.33.876775 PL15 words 1 
+11.08.34.018892 PL15 words 2 
+11.08.34.203726 PL15 words 1 
+11.08.34.344029 PL15 words 2 
+11.08.34.577800 PL15 words 1 
+11.08.34.767382 PL15 words 2 
+11.08.34.968905 PL15 words 1 
+11.08.35.115591 PL15 words 2 
+11.08.35.301057 PL15 words 1 
+11.08.35.406661 PL15 words 2 
+11.08.35.676842 PL15 words 1 
+11.08.35.781906 PL15 words 2 
+11.08.36.020790 PL15 words 1 
+11.08.36.157986 PL15 words 2 
+11.08.36.469628 PL15 words 1 
+11.08.36.656963 PL15 words 2 
+11.08.36.859690 PL15 words 1 
+11.08.37.030663 PL15 words 2 
+11.08.37.364737 PL15 words 1 
+11.08.37.500275 PL15 words 2 
+11.08.37.738574 PL15 words 1 
+11.08.37.893477 PL15 words 2 
+11.08.38.141126 PL15 words 1 
+11.08.38.314324 PL15 words 2 
+11.08.38.594639 PL15 words 1 
+11.08.38.738819 PL15 words 2 
+11.08.38.957102 PL15 words 1 
+11.08.39.140865 PL15 words 2 
+11.08.39.344509 PL15 words 1 
+11.08.39.500507 PL15 words 2 
+11.08.39.708695 PL15 words 1 
+11.08.39.844035 PL15 words 2 
+11.08.40.281799 PL15 words 1 
+11.08.40.438582 PL15 words 2 
+11.08.40.671792 PL15 words 1 
+11.08.40.859034 PL15 words 2 
+11.08.41.142033 PL15 words 1 
+11.08.41.329975 PL15 words 2 
+11.08.41.593766 PL15 words 1 
+11.08.41.782194 PL15 words 2 
+11.08.42.144707 PL15 words 1 
+11.08.42.282182 PL15 words 2 
+11.08.42.707817 PL15 words 1 
+11.08.42.876354 PL15 words 2 
+11.08.43.298935 PL15 words 1 
+11.08.43.458457 PL15 words 2 
+11.08.43.896149 PL15 words 1 
+11.08.45.313187 PL15 words 2 
+11.08.45.894647 PL15 words 2 
+11.08.48.173704 PL15 words 1 
+11.08.49.268712 PL15 words 1 
+11.08.51.157128 PL15 words 2 
+11.08.52.001683 PL15 words 2 
+11.08.52.552103 PL15 words 2 
+11.08.53.486511 PL15 words 2 
+11.08.54.207137 PL15 words 1 
+11.08.54.547077 PL15 words 2 
+11.08.55.001016 PL15 words 1 
+11.08.55.328844 PL15 words 2 
+11.08.55.708434 PL15 words 1 
+11.08.56.064377 PL15 words 2 
+11.08.56.689143 PL15 words 1 
+11.08.57.001045 PL15 words 2 
+11.08.57.438472 PL15 words 1 
+11.08.57.687466 PL15 words 2 
+11.08.58.109968 PL15 words 1 
+11.08.58.365032 PL15 words 2 
+11.08.58.781483 PL15 words 1 
+11.08.59.034260 PL15 words 2 
+11.08.59.423756 PL15 words 1 
+11.08.59.656933 PL15 words 2 
+11.09.00.022886 PL15 words 1 
+11.09.05.282193 PL15 words 2 
+11.09.05.768662 PL15 words 1 
+11.09.05.906743 PL15 words 2 
+11.09.06.078620 PL15 words 1 
+11.09.06.237891 PL15 words 2 
+11.09.06.501054 PL15 words 1 
+11.09.06.673833 PL15 words 2 
+11.09.06.938525 PL15 words 1 
+11.09.07.094744 PL15 words 2 
+11.09.07.330163 PL15 words 1 
+11.09.07.484617 PL15 words 2 
+11.09.07.751079 PL15 words 1 
+11.09.07.906431 PL15 words 2 
+11.09.08.218354 PL15 words 1 
+11.09.08.377201 PL15 words 2 
+11.09.08.689247 PL15 words 1 
+11.09.08.844041 PL15 words 2 
+11.09.09.188482 PL15 words 1 
+11.09.09.344284 PL15 words 2 
+11.09.09.656782 PL15 words 1 
+11.09.09.828343 PL15 words 2 
+11.09.10.203993 PL15 words 1 
+11.09.10.375378 PL15 words 2 
+11.09.10.689276 PL15 words 1 
+11.09.10.843426 PL15 words 2 
+11.09.11.188252 PL15 words 1 
+11.09.11.365345 PL15 words 2 
+11.09.11.625692 PL15 words 1 
+11.09.11.795097 PL15 words 2 
+11.09.12.146768 PL15 words 1 
+11.09.12.332997 PL15 words 2 
+11.09.12.641409 PL15 words 1 
+11.09.12.751990 PL15 words 2 
+11.09.13.064424 PL15 words 1 
+11.09.13.218060 PL15 words 2 
+11.09.13.520026 PL15 words 1 
+11.09.13.643753 PL15 words 2 
+11.09.14.082370 PL15 words 1 
+11.09.14.235854 PL15 words 2 
+11.09.14.595643 PL15 words 1 
+11.09.14.702928 PL15 words 2 
+11.09.15.050590 PL15 words 1 
+11.09.15.188942 PL15 words 2 
+11.09.15.562970 PL15 words 1 
+11.09.15.708548 PL15 words 2 
+11.09.15.987658 PL15 words 1 
+11.09.16.157159 PL15 words 2 
+11.09.16.459046 PL15 words 1 
+11.09.16.614639 PL15 words 2 
+11.09.16.876956 PL15 words 1 
+11.09.17.046527 PL15 words 2 
+11.09.17.329196 PL15 words 1 
+11.09.17.970531 PL15 words 2 
+11.09.18.393676 PL15 words 1 
+11.09.18.581708 PL15 words 2 
+11.09.18.813996 PL15 words 1 
+11.09.19.080134 PL15 words 2 
+11.09.19.332607 PL15 words 1 
+11.09.19.612023 PL15 words 2 
+11.09.19.897796 PL15 words 1 
+11.09.20.082429 PL15 words 2 
+11.09.20.456013 PL15 words 1 
+11.09.20.646423 PL15 words 2 
+11.09.21.125537 PL15 words 1 
+11.09.21.266868 PL15 words 2 
+11.09.21.627144 PL15 words 1 
+11.09.22.017565 PL15 words 2 
+11.09.22.410616 PL15 words 1 
+11.09.22.598850 PL15 words 2 
+11.09.22.954977 PL15 words 1 
+11.09.23.126504 PL15 words 2 
+11.09.23.484472 PL15 words 1 
+11.09.23.673607 PL15 words 2 
+11.09.23.973808 PL15 words 1 
+11.09.24.172825 PL15 words 2 
+11.09.24.473434 PL15 words 1 
+11.09.24.689437 PL15 words 2 
+11.09.25.126500 PL15 words 1 
+11.09.25.312854 PL15 words 2 
+11.09.25.641052 PL15 words 1 
+11.09.25.849358 PL15 words 2 
+11.09.26.062101 PL15 words 1 
+11.09.26.266604 PL15 words 2 
+11.09.26.536715 PL15 words 1 
+11.09.26.704936 PL15 words 2 
+11.09.26.985364 PL15 words 1 
+11.09.27.159668 PL15 words 2 
+11.09.27.454820 PL15 words 1 
+11.09.27.660136 PL15 words 2 
+11.09.27.912111 PL15 words 1 
+11.09.28.079361 PL15 words 2 
+11.09.28.329097 PL15 words 1 
+11.09.28.546461 PL15 words 2 
+11.09.28.876046 PL15 words 1 
+11.09.29.063067 PL15 words 2 
+11.09.29.298783 PL15 words 1 
+11.09.29.502402 PL15 words 2 
+11.09.29.813518 PL15 words 1 
+11.09.30.016138 PL15 words 2 
+11.09.30.313279 PL15 words 1 
+11.09.30.536074 PL15 words 2 
+11.09.30.843298 PL15 words 1 
+11.09.31.015904 PL15 words 2 
+11.09.31.284746 PL15 words 1 
+11.09.31.410884 PL15 words 2 
+11.09.31.675217 PL15 words 1 
+11.09.31.923772 PL15 words 2 
+11.09.32.376140 PL15 words 1 
+11.09.32.534072 PL15 words 2 
+11.09.32.812934 PL15 words 1 
+11.09.32.938446 PL15 words 2 
+11.09.33.250556 PL15 words 1 
+11.09.33.453276 PL15 words 2 
+11.09.33.750819 PL15 words 1 
+11.09.33.953398 PL15 words 2 
+11.09.34.234091 PL15 words 1 
+11.09.34.437387 PL15 words 2 
+11.09.34.661148 PL15 words 1 
+11.09.34.875563 PL15 words 2 
+11.09.35.280886 PL15 words 1 
+11.09.35.486198 PL15 words 2 
+11.09.35.844286 PL15 words 1 
+11.09.36.063537 PL15 words 2 
+11.09.36.468536 PL15 words 1 
+11.09.36.641857 PL15 words 2 
+11.09.37.128140 PL15 words 1 
+11.09.37.283773 PL15 words 2 
+11.09.37.627132 PL15 words 1 
+11.09.37.784955 PL15 words 2 
+11.09.38.080010 PL15 words 1 
+11.09.38.236429 PL15 words 2 
+11.09.38.534606 PL15 words 1 
+11.09.38.672661 PL15 words 2 
+11.09.38.891456 PL15 words 1 
+11.09.39.049005 PL15 words 2 
+11.09.39.348433 PL15 words 1 
+11.09.39.500826 PL15 words 2 
+11.09.39.702884 PL15 words 1 
+11.09.39.859846 PL15 words 2 
+11.09.40.082145 PL15 words 1 
+11.09.40.285150 PL15 words 2 
+11.09.40.501176 PL15 words 1 
+11.09.40.719290 PL15 words 2 
+11.09.41.109533 PL15 words 1 
+11.09.41.252988 PL15 words 2 
+11.09.41.703383 PL15 words 1 
+11.09.41.826642 PL15 words 2 
+11.09.42.235079 PL15 words 1 
+11.09.42.391154 PL15 words 2 
+11.09.42.724004 PL15 words 1 
+11.09.42.876480 PL15 words 2 
+11.09.43.141209 PL15 words 1 
+11.09.43.249497 PL15 words 2 
+11.09.43.599987 PL15 words 1 
+11.09.43.719017 PL15 words 2 
+11.09.44.109939 PL15 words 1 
+11.09.44.250325 PL15 words 2 
+11.09.44.785313 PL15 words 1 
+11.09.44.912692 PL15 words 2 
+11.09.45.265704 PL15 words 1 
+11.09.45.424495 PL15 words 2 
+11.09.45.724681 PL15 words 1 
+11.09.45.859889 PL15 words 2 
+11.09.46.266156 PL15 words 1 
+11.09.46.391079 PL15 words 2 
+11.09.46.972682 PL15 words 1 
+11.09.47.093189 PL15 words 2 
+11.09.47.438179 PL15 words 1 
+11.09.47.547466 PL15 words 2 
+11.09.47.875617 PL15 words 1 
+11.09.48.001800 PL15 words 2 
+11.09.48.377371 PL15 words 1 
+11.09.48.517744 PL15 words 2 
+11.09.48.814791 PL15 words 1 
+11.09.48.954766 PL15 words 2 
+11.09.49.251460 PL15 words 1 
+11.09.49.391340 PL15 words 2 
+11.09.49.661249 PL15 words 1 
+11.09.49.767530 PL15 words 2 
+11.09.50.093206 PL15 words 1 
+11.09.50.251324 PL15 words 2 
+11.09.50.516515 PL15 words 1 
+11.09.50.640907 PL15 words 2 
+11.09.51.172190 PL15 words 1 
+11.09.51.264436 PL15 words 2 
+11.09.51.579919 PL15 words 1 
+11.09.51.723852 PL15 words 2 
+11.09.52.016701 PL15 words 1 
+11.09.52.141339 PL15 words 2 
+11.09.52.486085 PL15 words 1 
+11.09.52.626214 PL15 words 2 
+11.09.52.971278 PL15 words 1 
+11.09.53.063525 PL15 words 2 
+11.09.53.458574 PL15 words 1 
+11.09.53.553116 PL15 words 2 
+11.09.53.874244 PL15 words 1 
+11.09.54.000971 PL15 words 2 
+11.09.54.344877 PL15 words 1 
+11.09.54.488259 PL15 words 2 
+11.09.54.750134 PL15 words 1 
+11.09.55.094010 PL15 words 2 
+11.09.55.423311 PL15 words 1 
+11.09.55.577699 PL15 words 2 
+11.09.56.031573 PL15 words 1 
+11.10.25.592092 PL15 picturestory t 
+11.10.25.774825 PL15 picturestory th 
+11.10.25.939541 PL15 picturestory thi 
+11.10.26.052825 PL15 picturestory this 
+11.10.26.148676 PL15 picturestory this 
+11.10.26.282031 PL15 picturestory i 
+11.10.26.393375 PL15 picturestory is 
+11.10.26.440557 PL15 picturestory is 
+11.10.26.638824 PL15 picturestory a 
+11.10.26.703217 PL15 picturestory a 
+11.10.27.308821 PL15 picturestory r 
+11.10.27.555874 PL15 picturestory ra 
+11.10.27.751358 PL15 picturestory rac 
+11.10.27.964625 PL15 picturestory race 
+11.10.28.629630 PL15 picturestory race 
+11.10.29.243464 PL15 picturestory p 
+11.10.29.402265 PL15 picturestory pe 
+11.10.29.626765 PL15 picturestory peo 
+11.10.29.833601 PL15 picturestory peop 
+11.10.30.023931 PL15 picturestory peopl 
+11.10.30.068048 PL15 picturestory people 
+11.10.30.159004 PL15 picturestory people 
+11.10.30.379870 PL15 picturestory a 
+11.10.30.554245 PL15 picturestory ar 
+11.10.30.729392 PL15 picturestory are 
+11.10.30.771480 PL15 picturestory are 
+11.10.30.977821 PL15 picturestory c 
+11.10.31.072469 PL15 picturestory ch 
+11.10.31.234022 PL15 picturestory che 
+11.10.31.393423 PL15 picturestory chee 
+11.10.31.567314 PL15 picturestory cheer 
+11.10.31.621210 PL15 picturestory cheeri 
+11.10.31.837402 PL15 picturestory cheerin 
+11.10.31.926881 PL15 picturestory cheering 
+11.10.32.113378 PL15 picturestory cheering 
+11.10.33.909809 PL15 picturestory s 
+11.10.34.223302 PL15 picturestory so 
+11.10.34.464970 PL15 picturestory som 
+11.10.34.652789 PL15 picturestory some 
+11.10.35.093903 PL15 picturestory someb 
+11.10.35.304526 PL15 picturestory somebo 
+11.10.36.055295 PL15 picturestory somebod 
+11.10.36.207525 PL15 picturestory somebody 
+11.10.36.341727 PL15 picturestory somebody 
+11.10.36.862315 PL15 picturestory w 
+11.10.36.925068 PL15 picturestory wi 
+11.10.37.159132 PL15 picturestory win 
+11.10.37.306194 PL15 picturestory winn 
+11.10.37.511651 PL15 picturestory winni 
+11.10.37.709470 PL15 picturestory winnin 
+11.10.37.877382 PL15 picturestory winning 
+11.10.38.490944 PL15 picturestory winning 
+11.10.39.624474 PL15 picturestory f 
+11.10.39.836237 PL15 picturestory fa 
+11.10.53.584700 PL15 picturestory p 
+11.10.53.596748 PL15 picturestory p 
+11.10.53.726686 PL15 picturestory pe 
+11.10.53.735691 PL15 picturestory pe 
+11.10.53.828216 PL15 picturestory peo 
+11.10.53.837242 PL15 picturestory peo 
+11.10.54.017553 PL15 picturestory peop 
+11.10.54.026559 PL15 picturestory peop 
+11.10.54.195642 PL15 picturestory peopl 
+11.10.54.205674 PL15 picturestory peopl 
+11.10.54.275242 PL15 picturestory people 
+11.10.54.286270 PL15 picturestory people 
+11.10.54.379130 PL15 picturestory people 
+11.10.54.388148 PL15 picturestory people 
+11.10.54.953657 PL15 picturestory g 
+11.10.54.963683 PL15 picturestory g 
+11.10.55.134015 PL15 picturestory ge 
+11.10.55.144022 PL15 picturestory ge 
+11.10.55.351550 PL15 picturestory get 
+11.10.55.360574 PL15 picturestory get 
+11.10.55.523243 PL15 picturestory gett 
+11.10.55.534273 PL15 picturestory gett 
+11.10.55.579583 PL15 picturestory getti 
+11.10.55.588628 PL15 picturestory getti 
+11.10.55.825411 PL15 picturestory gettin 
+11.10.55.834422 PL15 picturestory gettin 
+11.10.55.858489 PL15 picturestory getting 
+11.10.55.867524 PL15 picturestory getting 
+11.10.55.963391 PL15 picturestory getting 
+11.10.55.974423 PL15 picturestory getting 
+11.10.56.346439 PL15 picturestory r 
+11.10.56.355471 PL15 picturestory r 
+11.10.56.576308 PL15 picturestory rw 
+11.10.56.585285 PL15 picturestory rw 
+11.10.57.260832 PL15 picturestory r 
+11.10.57.272892 PL15 picturestory r 
+11.10.57.413316 PL15 picturestory re 
+11.10.57.421377 PL15 picturestory re 
+11.10.57.641796 PL15 picturestory rea 
+11.10.57.650807 PL15 picturestory rea 
+11.10.57.782900 PL15 picturestory read 
+11.10.57.791926 PL15 picturestory read 
+11.10.57.960739 PL15 picturestory ready 
+11.10.57.971766 PL15 picturestory ready 
+11.10.58.094836 PL15 picturestory ready 
+11.10.58.104862 PL15 picturestory ready 
+11.10.58.813782 PL15 picturestory f 
+11.10.58.822842 PL15 picturestory f 
+11.10.58.950013 PL15 picturestory fo 
+11.10.58.960031 PL15 picturestory fo 
+11.10.59.045450 PL15 picturestory for 
+11.10.59.055491 PL15 picturestory for 
+11.10.59.103178 PL15 picturestory for 
+11.10.59.113224 PL15 picturestory for 
+11.10.59.571866 PL15 picturestory f 
+11.10.59.582902 PL15 picturestory f 
+11.10.59.683629 PL15 picturestory fi 
+11.10.59.693647 PL15 picturestory fi 
+11.11.03.596258 PL15 picturestory fig 
+11.11.03.606301 PL15 picturestory fig 
+11.11.03.737729 PL15 picturestory figh 
+11.11.03.747756 PL15 picturestory figh 
+11.11.03.813818 PL15 picturestory fight 
+11.11.03.823877 PL15 picturestory fight 
+11.11.03.944422 PL15 picturestory fight 
+11.11.03.954447 PL15 picturestory fight 
+11.11.05.367079 PL15 picturestory h 
+11.11.05.376081 PL15 picturestory h 
+11.11.06.022469 PL15 picturestory hi 
+11.11.06.032495 PL15 picturestory hi 
+11.11.06.456924 PL15 picturestory hig 
+11.11.06.464897 PL15 picturestory hig 
+11.11.06.564442 PL15 picturestory high 
+11.11.06.574469 PL15 picturestory high 
+11.11.06.697351 PL15 picturestory high 
+11.11.06.707391 PL15 picturestory high 
+11.11.08.190519 PL15 picturestory s 
+11.11.08.199575 PL15 picturestory s 
+11.11.08.304835 PL15 picturestory sp 
+11.11.08.315904 PL15 picturestory sp 
+11.11.08.422128 PL15 picturestory spe 
+11.11.08.432155 PL15 picturestory spe 
+11.11.08.619187 PL15 picturestory spee 
+11.11.08.630247 PL15 picturestory spee 
+11.11.08.789415 PL15 picturestory speed 
+11.11.08.799443 PL15 picturestory speed 
+11.11.08.879689 PL15 picturestory speed 
+11.11.08.890685 PL15 picturestory speed 
+11.11.09.803515 PL15 picturestory g 
+11.11.09.814571 PL15 picturestory g 
+11.11.10.038754 PL15 picturestory ga 
+11.11.10.047752 PL15 picturestory ga 
+11.11.10.203759 PL15 picturestory gam 
+11.11.10.213812 PL15 picturestory gam 
+11.11.10.281387 PL15 picturestory game 
+11.11.10.291413 PL15 picturestory game 
+11.11.10.371614 PL15 picturestory game 
+11.11.10.382624 PL15 picturestory game 
+11.11.11.313789 PL15 picturestory a 
+11.11.11.324819 PL15 picturestory a 
+11.11.11.478477 PL15 picturestory al 
+11.11.11.488523 PL15 picturestory al 
+11.11.11.618662 PL15 picturestory all 
+11.11.11.629654 PL15 picturestory all 
+11.11.11.766697 PL15 picturestory all 
+11.11.11.778716 PL15 picturestory all 
+11.11.12.214278 PL15 picturestory d 
+11.11.12.225306 PL15 picturestory d 
+11.11.30.358634 PL15 picturestory g 
+11.11.30.368658 PL15 picturestory g 
+11.11.30.379712 PL15 picturestory g 
+11.11.30.626317 PL15 picturestory g 
+11.11.30.636345 PL15 picturestory g 
+11.11.30.646405 PL15 picturestory g 
+11.11.30.993392 PL15 picturestory g 
+11.11.31.005424 PL15 picturestory g 
+11.11.31.016454 PL15 picturestory g 
+11.11.31.154041 PL15 picturestory g 
+11.11.31.165071 PL15 picturestory g 
+11.11.31.175098 PL15 picturestory g 
+11.11.31.307317 PL15 picturestory g 
+11.11.31.319379 PL15 picturestory g 
+11.11.31.328374 PL15 picturestory g 
+11.11.31.461330 PL15 picturestory g 
+11.11.31.472360 PL15 picturestory g 
+11.11.31.481385 PL15 picturestory g 
+11.11.31.580648 PL15 picturestory g 
+11.11.31.590675 PL15 picturestory g 
+11.11.31.600719 PL15 picturestory g 
+11.11.31.796101 PL15 picturestory g 
+11.11.31.807170 PL15 picturestory g 
+11.11.31.820162 PL15 picturestory g 
+11.11.31.979278 PL15 picturestory g 
+11.11.31.990349 PL15 picturestory g 
+11.11.32.001337 PL15 picturestory g 
+11.11.32.153508 PL15 picturestory g 
+11.11.32.166543 PL15 picturestory g 
+11.11.32.178581 PL15 picturestory g 
+11.11.32.366158 PL15 picturestory g 
+11.11.32.378150 PL15 picturestory g 
+11.11.32.388191 PL15 picturestory g 
+11.11.32.471196 PL15 picturestory g 
+11.11.32.481257 PL15 picturestory g 
+11.11.32.492264 PL15 picturestory g 
+11.11.32.683514 PL15 picturestory g 
+11.11.32.695545 PL15 picturestory g 
+11.11.32.705572 PL15 picturestory g 
+11.11.32.826424 PL15 picturestory g 
+11.11.32.837453 PL15 picturestory g 
+11.11.32.849507 PL15 picturestory g 
+11.11.33.018936 PL15 picturestory g 
+11.11.33.030972 PL15 picturestory g 
+11.11.33.040996 PL15 picturestory g 
+11.11.33.168268 PL15 picturestory g 
+11.11.33.179297 PL15 picturestory g 
+11.11.33.191331 PL15 picturestory g 
+11.11.33.338192 PL15 picturestory g 
+11.11.33.349247 PL15 picturestory g 
+11.11.33.360291 PL15 picturestory g 
+11.11.33.492274 PL15 picturestory g 
+11.11.33.502276 PL15 picturestory g 
+11.11.33.512290 PL15 picturestory g 
+11.11.33.688934 PL15 picturestory g 
+11.11.33.699963 PL15 picturestory g 
+11.11.33.711994 PL15 picturestory g 
+11.11.33.879245 PL15 picturestory g 
+11.11.33.889308 PL15 picturestory g 
+11.11.33.903353 PL15 picturestory g 
+11.11.46.929649 PL15 picturestory b 
+11.11.46.944688 PL15 picturestory b 
+11.11.46.955731 PL15 picturestory b 
+11.11.46.965745 PL15 picturestory b 
+11.11.47.094751 PL15 picturestory br 
+11.11.47.104779 PL15 picturestory br 
+11.11.47.114804 PL15 picturestory br 
+11.11.47.126836 PL15 picturestory br 
+11.11.47.367895 PL15 picturestory bro 
+11.11.47.379926 PL15 picturestory bro 
+11.11.47.389995 PL15 picturestory bro 
+11.11.47.399995 PL15 picturestory bro 
+11.11.47.835358 PL15 picturestory brob 
+11.11.47.846376 PL15 picturestory brob 
+11.11.47.856386 PL15 picturestory brob 
+11.11.47.866422 PL15 picturestory brob 
+11.11.48.081473 PL15 picturestory brobe 
+11.11.48.092501 PL15 picturestory brobe 
+11.11.48.103532 PL15 picturestory brobe 
+11.11.48.113598 PL15 picturestory brobe 
+11.11.48.290729 PL15 picturestory brobe 
+11.11.48.301786 PL15 picturestory brobe 
+11.11.48.313778 PL15 picturestory brobe 
+11.11.48.324816 PL15 picturestory brobe 
+11.11.48.495697 PL15 picturestory f 
+11.11.48.507728 PL15 picturestory f 
+11.11.48.518758 PL15 picturestory f 
+11.11.48.529787 PL15 picturestory f 
+11.11.49.713092 PL15 picturestory f 
+11.11.49.725124 PL15 picturestory f 
+11.11.49.736186 PL15 picturestory f 
+11.11.49.746186 PL15 picturestory f 
+11.11.50.049805 PL15 picturestory f 
+11.11.50.059819 PL15 picturestory f 
+11.11.50.070848 PL15 picturestory f 
+11.11.50.080879 PL15 picturestory f 
+11.11.50.332086 PL15 picturestory f 
+11.11.50.343116 PL15 picturestory f 
+11.11.50.353143 PL15 picturestory f 
+11.11.50.363169 PL15 picturestory f 
+11.11.50.662774 PL15 picturestory  
+11.11.50.672806 PL15 picturestory  
+11.11.50.682827 PL15 picturestory  
+11.11.50.693855 PL15 picturestory  
+11.11.50.971002 PL15 picturestory  
+11.11.50.981033 PL15 picturestory  
+11.11.50.991056 PL15 picturestory  
+11.11.51.003104 PL15 picturestory  
+11.11.51.161745 PL15 picturestory  
+11.11.51.172774 PL15 picturestory  
+11.11.51.181799 PL15 picturestory  
+11.11.51.193834 PL15 picturestory  
+11.11.51.329996 PL15 picturestory  
+11.11.51.340989 PL15 picturestory  
+11.11.51.353022 PL15 picturestory  
+11.11.51.363048 PL15 picturestory  
+11.11.51.525824 PL15 picturestory m 
+11.11.51.537869 PL15 picturestory m 
+11.11.51.548886 PL15 picturestory m 
+11.11.51.558912 PL15 picturestory m 
+11.11.51.675162 PL15 picturestory m 
+11.11.51.687189 PL15 picturestory m 
+11.11.51.697215 PL15 picturestory m 
+11.11.51.708238 PL15 picturestory m 
+11.11.51.926140 PL15 picturestory n 
+11.11.51.937155 PL15 picturestory n 
+11.11.51.947174 PL15 picturestory n 
+11.11.51.958186 PL15 picturestory n 
+11.11.52.056401 PL15 picturestory n 
+11.11.52.069404 PL15 picturestory n 
+11.11.52.081447 PL15 picturestory n 
+11.11.52.092463 PL15 picturestory n 
+11.11.52.393599 PL15 picturestory n 
+11.11.52.403653 PL15 picturestory n 
+11.11.52.413687 PL15 picturestory n 
+11.11.52.424716 PL15 picturestory n 
+11.11.52.667042 PL15 picturestory m 
+11.11.52.679065 PL15 picturestory m 
+11.11.52.690125 PL15 picturestory m 
+11.11.52.701179 PL15 picturestory m 
+11.11.52.977075 PL15 picturestory m 
+11.11.52.988106 PL15 picturestory m 
+11.11.52.997198 PL15 picturestory m 
+11.11.53.008209 PL15 picturestory m 
+11.11.53.125062 PL15 picturestory n 
+11.11.53.135130 PL15 picturestory n 
+11.11.53.146155 PL15 picturestory n 
+11.11.53.157146 PL15 picturestory n 
+11.11.53.379273 PL15 picturestory n 
+11.11.53.389305 PL15 picturestory n 
+11.11.53.400313 PL15 picturestory n 
+11.11.53.411340 PL15 picturestory n 
+11.11.53.531912 PL15 picturestory n 
+11.11.53.541939 PL15 picturestory n 
+11.11.53.553007 PL15 picturestory n 
+11.11.53.563998 PL15 picturestory n 
+11.11.54.004008 PL15 picturestory  
+11.11.54.017086 PL15 picturestory  
+11.11.54.026068 PL15 picturestory  
+11.11.54.038100 PL15 picturestory  
+11.11.54.228524 PL15 picturestory  
+11.11.54.242523 PL15 picturestory  
+11.11.54.252582 PL15 picturestory  
+11.11.54.262609 PL15 picturestory  
+11.11.54.417230 PL15 picturestory m 
+11.11.54.429296 PL15 picturestory m 
+11.11.54.439288 PL15 picturestory m 
+11.11.54.450325 PL15 picturestory m 
+11.11.54.684237 PL15 picturestory m 
+11.11.54.696270 PL15 picturestory m 
+11.11.54.708302 PL15 picturestory m 
+11.11.54.718327 PL15 picturestory m 
+11.12.05.525756 PL15 letters F E E _ 
+11.12.05.687741 PL15 letters F E E L 
+11.12.08.166603 PL15 letters P R O F _ _ 
+11.12.08.288579 PL15 letters P R O F I _ 
+11.12.08.405930 PL15 letters P R O F I T 
+11.12.09.600290 PL15 letters G U I L T 
+11.12.11.149335 PL15 letters G _ A D 
+11.12.11.276648 PL15 letters G L A D 
+11.12.14.471190 PL15 letters F _ _ T I L E 
+11.12.14.663768 PL15 letters F E _ T I L E 
+11.12.14.823126 PL15 letters F E R T I L E 
+11.12.17.478337 PL15 letters V E R _ Y 
+11.12.18.235351 PL15 letters V E R E Y 
+11.12.20.848547 PL15 letters G _ A R _ D 
+11.12.21.049914 PL15 letters G U A R _ D 
+11.12.27.414133 PL15 letters G U A R K D 
+11.15.42.578640 PL15 login 
+11.15.49.620922 PL15 letters F E E _ 
+11.15.49.833317 PL15 letters F E E L 
+11.15.52.260059 PL15 letters P R O F _ _ 
+11.15.53.121846 PL15 letters P R O F I _ 
+11.15.53.227363 PL15 letters P R O F I T 
+11.15.54.490844 PL15 letters G U I L T 
+11.15.55.761388 PL15 letters G _ A D 
+11.15.55.867478 PL15 letters G L A D 
+11.15.57.362173 PL15 letters F _ _ T I L E 
+11.15.57.541030 PL15 letters F E _ T I L E 
+11.15.57.699885 PL15 letters F E R T I L E 
+11.16.00.501791 PL15 letters V E R _ Y 
+11.16.00.759154 PL15 letters V E R E Y 
+11.16.04.006552 PL15 letters B _ A R _ D 
+11.16.04.230847 PL15 letters B L A R _ D 
+11.16.04.445729 PL15 letters B L A R A D 
+11.16.06.199371 PL15 letters S M A _ _ 
+11.16.06.549098 PL15 letters S M A L _ 
+11.16.06.705445 PL15 letters S M A L L 
+11.16.08.985657 PL15 letters F _ _ _ O U S 
+11.16.09.183493 PL15 letters F A _ _ O U S 
+11.16.09.439743 PL15 letters F A M _ O U S 
+11.16.09.675718 PL15 letters F A M O O U S 
+11.16.11.781076 PL15 letters E X P _ _ _ 
+11.16.11.897239 PL15 letters E X P E _ _ 
+11.16.12.057418 PL15 letters E X P E L _ 
+11.16.12.207374 PL15 letters E X P E L L 
+11.16.13.529536 PL15 letters S _ N S E 
+11.16.13.722209 PL15 letters S E N S E 
+11.16.14.906462 PL15 letters J O Y 
+11.16.16.319537 PL15 letters R _ S E T 
+11.16.16.489826 PL15 letters R E S E T 
+11.16.18.326141 PL15 letters F _ E E 
+11.16.18.523533 PL15 letters F L E E 
+11.16.20.322554 PL15 letters D I S Q _ _ _ _ 
+11.16.20.637917 PL15 letters D I S Q U _ _ _ 
+11.16.20.800775 PL15 letters D I S Q U I _ _ 
+11.16.21.242617 PL15 letters D I S Q U I E _ 
+11.16.21.440487 PL15 letters D I S Q U I E T 
+11.16.23.001988 PL15 letters P _ P P Y 
+11.16.23.197136 PL15 letters P O P P Y 
+11.16.24.476014 PL15 letters A F R _ _ D 
+11.16.24.679070 PL15 letters A F R A _ D 
+11.16.24.800994 PL15 letters A F R A I D 
+11.16.25.977704 PL15 letters C H A _ R 
+11.16.26.193129 PL15 letters C H A I R 
+11.16.27.735441 PL15 letters A R O _ N 
+11.16.29.392840 PL15 letters A R O O N 
+11.16.31.184204 PL15 letters L _ L L Y 
+11.16.31.384737 PL15 letters L I L L Y 
+11.16.52.989126 PL15 sudoku done 
+11.17.20.074943 PL15 crossowrd done 
+12.16.17.934745 PL15 login 

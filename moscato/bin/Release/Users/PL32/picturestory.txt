@@ -1,0 +1,4 @@
+pse01.jpg: g g g g g g g g g g 
+pse02.jpg: n n n n n n n n n n n
+pse03.jpg: r r r r r r r r r r r r
+pse04.jpg: t t t t t t t t t t t 

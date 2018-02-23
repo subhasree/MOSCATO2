@@ -1,0 +1,9 @@
+C:\Subhasree\CODES\CODES\Crossword\Crossword\obj\Debug\Crossword.csprojResolveAssemblyReference.cache
+C:\Subhasree\CODES\CODES\Crossword\Crossword\obj\Debug\Crossword.Form1.resources
+C:\Subhasree\CODES\CODES\Crossword\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+C:\Subhasree\CODES\CODES\Crossword\Crossword\obj\Debug\Crossword.csproj.GenerateResource.Cache
+C:\Subhasree\CODES\CODES\Crossword\Crossword\bin\Debug\Crossword.exe.config
+C:\Subhasree\CODES\CODES\Crossword\Crossword\bin\Debug\Crossword.exe
+C:\Subhasree\CODES\CODES\Crossword\Crossword\bin\Debug\Crossword.pdb
+C:\Subhasree\CODES\CODES\Crossword\Crossword\obj\Debug\Crossword.exe
+C:\Subhasree\CODES\CODES\Crossword\Crossword\obj\Debug\Crossword.pdb

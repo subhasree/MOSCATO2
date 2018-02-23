@@ -1,0 +1,4 @@
+pse01.jpg: v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v 
+pse02.jpg: b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b  b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b
+pse03.jpg: n n n n n n n n n n n n n n n n n  n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n
+pse04.jpg: v v v v v v v vv v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v

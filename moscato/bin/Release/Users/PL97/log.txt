@@ -1,0 +1,601 @@
+02.22.09.294587 PL97 login 
+02.22.27.909139 PL97 words 1 
+02.22.28.440707 PL97 words 1 
+02.22.28.471955 PL97 words 1 
+02.22.28.518583 PL97 words 1 
+02.22.28.550094 PL97 words 1 
+02.22.28.581075 PL97 words 1 
+02.22.28.628204 PL97 words 1 
+02.22.28.659473 PL97 words 1 
+02.22.28.706337 PL97 words 1 
+02.22.28.737590 PL97 words 1 
+02.22.28.768596 PL97 words 1 
+02.22.28.815734 PL97 words 1 
+02.22.28.846981 PL97 words 1 
+02.22.28.893863 PL97 words 1 
+02.22.28.925119 PL97 words 1 
+02.22.28.956367 PL97 words 1 
+02.22.29.003250 PL97 words 1 
+02.22.29.034426 PL97 words 1 
+02.22.29.065769 PL97 words 1 
+02.22.29.112642 PL97 words 1 
+02.22.29.143884 PL97 words 1 
+02.22.29.190775 PL97 words 1 
+02.22.29.222035 PL97 words 1 
+02.22.29.253290 PL97 words 1 
+02.22.29.300100 PL97 words 1 
+02.22.29.331425 PL97 words 1 
+02.22.29.362414 PL97 words 1 
+02.22.29.409531 PL97 words 1 
+02.22.29.440793 PL97 words 1 
+02.22.29.487700 PL97 words 1 
+02.22.29.518954 PL97 words 1 
+02.22.29.550013 PL97 words 1 
+02.22.29.597100 PL97 words 1 
+02.22.29.628307 PL97 words 1 
+02.22.29.659317 PL97 words 1 
+02.22.29.706459 PL97 words 1 
+02.22.29.737699 PL97 words 1 
+02.22.29.784493 PL97 words 1 
+02.22.29.815848 PL97 words 1 
+02.22.29.847120 PL97 words 1 
+02.22.29.893994 PL97 words 1 
+02.22.29.925236 PL97 words 1 
+02.22.29.972131 PL97 words 1 
+02.22.30.003348 PL97 words 1 
+02.22.30.034542 PL97 words 1 
+02.22.30.081514 PL97 words 1 
+02.22.30.112755 PL97 words 1 
+02.22.30.144016 PL97 words 1 
+02.22.30.190878 PL97 words 1 
+02.22.30.222132 PL97 words 1 
+02.22.30.269007 PL97 words 1 
+02.22.30.300021 PL97 words 1 
+02.22.30.331545 PL97 words 1 
+02.22.30.378407 PL97 words 1 
+02.22.30.409658 PL97 words 1 
+02.22.30.440651 PL97 words 1 
+02.22.30.487810 PL97 words 1 
+02.22.30.519042 PL97 words 1 
+02.22.30.565942 PL97 words 1 
+02.22.30.597161 PL97 words 1 
+02.22.30.628172 PL97 words 1 
+02.22.30.675051 PL97 words 1 
+02.22.30.706305 PL97 words 1 
+02.22.30.737559 PL97 words 1 
+02.22.30.784438 PL97 words 1 
+02.22.30.815692 PL97 words 1 
+02.22.30.862606 PL97 words 1 
+02.22.30.893863 PL97 words 1 
+02.22.30.925079 PL97 words 1 
+02.22.30.972005 PL97 words 1 
+02.22.31.003467 PL97 words 1 
+02.22.31.050093 PL97 words 1 
+02.22.31.081619 PL97 words 1 
+02.22.31.112868 PL97 words 1 
+02.22.31.159760 PL97 words 1 
+02.22.31.190992 PL97 words 1 
+02.22.31.222233 PL97 words 1 
+02.22.31.269133 PL97 words 1 
+02.22.31.300121 PL97 words 1 
+02.22.31.347282 PL97 words 1 
+02.22.31.378531 PL97 words 1 
+02.22.31.409736 PL97 words 1 
+02.22.31.456617 PL97 words 1 
+02.22.31.487900 PL97 words 1 
+02.22.31.518918 PL97 words 1 
+02.22.31.565774 PL97 words 1 
+02.22.31.597027 PL97 words 1 
+02.22.31.644016 PL97 words 1 
+02.22.31.666868 PL97 words 1 
+02.22.31.713758 PL97 words 1 
+02.22.31.744999 PL97 words 1 
+02.22.31.791854 PL97 words 1 
+02.22.31.823108 PL97 words 1 
+02.22.31.854361 PL97 words 1 
+02.22.31.901241 PL97 words 1 
+02.22.31.932527 PL97 words 1 
+02.22.31.979373 PL97 words 1 
+02.22.32.010626 PL97 words 1 
+02.22.32.041883 PL97 words 1 
+02.22.32.089025 PL97 words 1 
+02.22.32.120290 PL97 words 1 
+02.22.32.151282 PL97 words 1 
+02.22.32.198424 PL97 words 1 
+02.22.32.229436 PL97 words 1 
+02.22.32.276549 PL97 words 1 
+02.22.32.307790 PL97 words 1 
+02.22.32.339032 PL97 words 1 
+02.22.32.391550 PL97 words 1 
+02.22.32.422792 PL97 words 1 
+02.22.32.453999 PL97 words 1 
+02.22.32.485121 PL97 words 1 
+02.22.32.532172 PL97 words 1 
+02.22.32.563398 PL97 words 1 
+02.22.32.610302 PL97 words 1 
+02.22.32.641561 PL97 words 1 
+02.22.32.672802 PL97 words 1 
+02.22.32.719702 PL97 words 1 
+02.22.32.750865 PL97 words 1 
+02.22.32.797834 PL97 words 1 
+02.22.32.829095 PL97 words 1 
+02.22.32.860313 PL97 words 1 
+02.22.32.907222 PL97 words 1 
+02.22.32.938209 PL97 words 1 
+02.22.32.969475 PL97 words 1 
+02.22.33.016344 PL97 words 1 
+02.22.33.047873 PL97 words 1 
+02.22.33.094703 PL97 words 1 
+02.22.33.125972 PL97 words 1 
+02.22.33.157253 PL97 words 1 
+02.22.33.204122 PL97 words 1 
+02.22.33.235371 PL97 words 1 
+02.22.33.266370 PL97 words 1 
+02.22.33.313499 PL97 words 1 
+02.22.33.344778 PL97 words 1 
+02.22.33.391656 PL97 words 1 
+02.22.33.422901 PL97 words 1 
+02.22.33.454155 PL97 words 1 
+02.22.33.500948 PL97 words 1 
+02.22.33.532290 PL97 words 1 
+02.22.33.579176 PL97 words 1 
+02.22.33.610429 PL97 words 1 
+02.22.33.641685 PL97 words 1 
+02.22.33.688782 PL97 words 1 
+02.22.33.720073 PL97 words 1 
+02.22.33.751231 PL97 words 1 
+02.22.33.798203 PL97 words 1 
+02.22.33.829449 PL97 words 1 
+02.22.33.860685 PL97 words 1 
+02.22.33.907558 PL97 words 1 
+02.22.33.938821 PL97 words 1 
+02.22.33.985720 PL97 words 1 
+02.22.34.016706 PL97 words 1 
+02.22.34.047961 PL97 words 1 
+02.22.34.095107 PL97 words 1 
+02.22.34.126365 PL97 words 1 
+02.22.34.173235 PL97 words 1 
+02.22.34.204472 PL97 words 1 
+02.22.34.235746 PL97 words 1 
+02.22.34.282608 PL97 words 1 
+02.22.34.313877 PL97 words 1 
+02.22.34.344865 PL97 words 1 
+02.22.34.392025 PL97 words 1 
+02.22.34.423274 PL97 words 1 
+02.22.34.470153 PL97 words 1 
+02.22.34.501212 PL97 words 1 
+02.22.34.532689 PL97 words 1 
+02.22.34.579518 PL97 words 1 
+02.22.34.610766 PL97 words 1 
+02.22.34.657627 PL97 words 1 
+02.22.34.688871 PL97 words 1 
+02.22.34.720154 PL97 words 1 
+02.22.34.767063 PL97 words 1 
+02.22.34.798281 PL97 words 1 
+02.22.34.829570 PL97 words 1 
+02.22.34.876207 PL97 words 1 
+02.22.34.907664 PL97 words 1 
+02.22.34.938914 PL97 words 1 
+02.22.34.985808 PL97 words 1 
+02.22.35.016996 PL97 words 1 
+02.22.35.063954 PL97 words 1 
+02.22.35.095199 PL97 words 1 
+02.22.35.126207 PL97 words 1 
+02.22.35.173324 PL97 words 1 
+02.22.35.204577 PL97 words 1 
+02.22.35.251227 PL97 words 1 
+02.22.35.282644 PL97 words 1 
+02.22.35.314005 PL97 words 1 
+02.22.35.360872 PL97 words 1 
+02.22.35.392118 PL97 words 1 
+02.22.35.423115 PL97 words 1 
+02.22.35.470262 PL97 words 1 
+02.22.35.501248 PL97 words 1 
+02.22.35.548388 PL97 words 1 
+02.22.35.579651 PL97 words 1 
+02.22.35.610893 PL97 words 1 
+02.22.35.657776 PL97 words 1 
+02.22.35.689014 PL97 words 1 
+02.22.35.735906 PL97 words 1 
+02.22.35.767073 PL97 words 1 
+02.22.35.798414 PL97 words 1 
+02.22.35.845297 PL97 words 1 
+02.22.35.876545 PL97 words 1 
+02.22.35.907770 PL97 words 1 
+02.22.35.954419 PL97 words 1 
+02.22.35.985669 PL97 words 1 
+02.22.36.032549 PL97 words 1 
+02.22.36.063801 PL97 words 1 
+02.22.36.095054 PL97 words 1 
+02.22.36.141934 PL97 words 1 
+02.22.36.173187 PL97 words 1 
+02.22.36.204467 PL97 words 1 
+02.22.36.251363 PL97 words 1 
+02.22.36.282574 PL97 words 1 
+02.22.36.329711 PL97 words 1 
+02.22.36.360981 PL97 words 1 
+02.22.36.392245 PL97 words 1 
+02.22.36.439100 PL97 words 1 
+02.22.36.470351 PL97 words 1 
+02.22.36.501350 PL97 words 1 
+02.22.36.548492 PL97 words 1 
+02.22.36.579748 PL97 words 1 
+02.22.36.626612 PL97 words 1 
+02.22.36.657889 PL97 words 1 
+02.22.36.689141 PL97 words 1 
+02.22.36.736013 PL97 words 1 
+02.22.36.767183 PL97 words 1 
+02.22.36.814143 PL97 words 1 
+02.22.36.845389 PL97 words 1 
+02.22.36.876655 PL97 words 1 
+02.22.36.923510 PL97 words 1 
+02.22.36.955984 PL97 words 1 
+02.22.36.994221 PL97 words 1 
+02.22.37.025448 PL97 words 1 
+02.22.37.072340 PL97 words 1 
+02.22.37.103578 PL97 words 1 
+02.22.37.134838 PL97 words 1 
+02.22.37.181729 PL97 words 1 
+02.22.37.212988 PL97 words 1 
+02.22.37.259872 PL97 words 1 
+02.22.37.291116 PL97 words 1 
+02.22.37.322347 PL97 words 1 
+02.22.37.369243 PL97 words 1 
+02.22.37.400420 PL97 words 1 
+02.22.37.431490 PL97 words 1 
+02.22.37.478646 PL97 words 1 
+02.22.37.509899 PL97 words 1 
+02.22.37.556747 PL97 words 1 
+02.22.37.588021 PL97 words 1 
+02.22.37.619278 PL97 words 1 
+02.22.37.665891 PL97 words 1 
+02.22.37.697417 PL97 words 1 
+02.22.37.744271 PL97 words 1 
+02.22.37.775507 PL97 words 1 
+02.22.37.806780 PL97 words 1 
+02.22.37.853687 PL97 words 1 
+02.22.37.884940 PL97 words 1 
+02.22.37.915918 PL97 words 1 
+02.22.37.963026 PL97 words 1 
+02.22.37.994318 PL97 words 1 
+02.22.38.041207 PL97 words 1 
+02.22.38.072452 PL97 words 1 
+02.22.38.103684 PL97 words 1 
+02.22.38.150459 PL97 words 1 
+02.22.38.181810 PL97 words 1 
+02.22.38.213097 PL97 words 1 
+02.22.38.259959 PL97 words 1 
+02.22.38.291223 PL97 words 1 
+02.22.38.338082 PL97 words 1 
+02.22.38.369334 PL97 words 1 
+02.22.38.400475 PL97 words 1 
+02.22.38.447495 PL97 words 1 
+02.22.38.478742 PL97 words 1 
+02.22.38.509734 PL97 words 1 
+02.22.38.556862 PL97 words 1 
+02.22.38.588141 PL97 words 1 
+02.22.38.635022 PL97 words 1 
+02.22.38.666000 PL97 words 1 
+02.22.38.697524 PL97 words 1 
+02.22.38.744402 PL97 words 1 
+02.22.38.775627 PL97 words 1 
+02.22.38.822534 PL97 words 1 
+02.22.38.853783 PL97 words 1 
+02.22.38.885040 PL97 words 1 
+02.22.38.931939 PL97 words 1 
+02.22.38.963139 PL97 words 1 
+02.22.38.994426 PL97 words 1 
+02.22.39.041316 PL97 words 1 
+02.22.39.072561 PL97 words 1 
+02.22.39.119454 PL97 words 1 
+02.22.39.150588 PL97 words 1 
+02.22.39.181922 PL97 words 1 
+02.22.39.228827 PL97 words 1 
+02.22.39.260081 PL97 words 1 
+02.22.39.291068 PL97 words 1 
+02.22.39.338211 PL97 words 1 
+02.22.39.386084 PL97 words 1 
+02.22.39.401456 PL97 words 1 
+02.22.39.448643 PL97 words 1 
+02.22.39.479857 PL97 words 1 
+02.22.39.526743 PL97 words 1 
+02.22.39.557982 PL97 words 1 
+02.22.39.589219 PL97 words 1 
+02.22.39.636133 PL97 words 1 
+02.22.39.667147 PL97 words 1 
+02.22.39.714017 PL97 words 1 
+02.22.39.745281 PL97 words 1 
+02.22.39.776531 PL97 words 1 
+02.22.39.823416 PL97 words 1 
+02.22.39.854668 PL97 words 1 
+02.22.39.885922 PL97 words 1 
+02.22.39.932813 PL97 words 1 
+02.22.39.964051 PL97 words 1 
+02.22.40.010898 PL97 words 1 
+02.22.40.042179 PL97 words 1 
+02.22.40.073440 PL97 words 1 
+02.22.40.120317 PL97 words 1 
+02.22.40.151695 PL97 words 1 
+02.22.40.187422 PL97 words 1 
+02.22.40.234292 PL97 words 1 
+02.22.40.265534 PL97 words 1 
+02.22.40.296774 PL97 words 1 
+02.22.40.343704 PL97 words 1 
+02.22.40.374909 PL97 words 1 
+02.22.40.406160 PL97 words 1 
+02.22.40.453047 PL97 words 1 
+02.22.40.484293 PL97 words 1 
+02.22.40.531220 PL97 words 1 
+02.22.40.562476 PL97 words 1 
+02.22.40.593726 PL97 words 1 
+02.22.40.640560 PL97 words 1 
+02.22.40.671813 PL97 words 1 
+02.22.40.718735 PL97 words 1 
+02.22.40.749988 PL97 words 1 
+02.22.40.781235 PL97 words 1 
+02.22.40.828080 PL97 words 1 
+02.22.40.859369 PL97 words 1 
+02.31.33.727547 PL97 login 
+02.32.03.500335 PL97 letters F E E _ 
+02.32.03.828510 PL97 letters F E E L 
+02.32.04.984995 PL97 letters P R O G _ _ 
+02.32.05.344506 PL97 letters P R O G I _ 
+02.32.05.820637 PL97 letters P R O G I L 
+02.32.07.077572 PL97 letters G U I L T 
+02.32.08.388209 PL97 letters G _ A D 
+02.32.08.513238 PL97 letters G L A D 
+02.32.09.576137 PL97 letters F _ _ T I L E 
+02.32.09.763395 PL97 letters F E _ T I L E 
+02.32.09.935556 PL97 letters F E R T I L E 
+02.32.11.114547 PL97 letters M E R _ Y 
+02.32.11.301826 PL97 letters M E R R Y 
+02.32.12.598884 PL97 letters G _ A R _ D 
+02.32.12.692597 PL97 letters G L A R _ D 
+02.32.13.588408 PL97 letters G L A R E D 
+02.32.14.510101 PL97 letters S M A _ _ 
+02.32.14.588235 PL97 letters S M A L _ 
+02.32.14.760127 PL97 letters S M A L L 
+02.32.15.987176 PL97 letters F _ _ _ O U S 
+02.32.16.284083 PL97 letters F U _ _ O U S 
+02.32.16.409097 PL97 letters F U R _ O U S 
+02.32.16.502857 PL97 letters F U R I O U S 
+02.32.17.706126 PL97 letters E X H _ _ _ 
+02.32.17.831123 PL97 letters E X H A _ _ 
+02.32.18.018642 PL97 letters E X H A L _ 
+02.32.18.112427 PL97 letters E X H A L E 
+02.32.19.026466 PL97 letters S _ N S E 
+02.32.19.245033 PL97 letters S E N S E 
+02.32.20.417257 PL97 letters J O Y 
+02.32.21.425047 PL97 letters R _ S E T 
+02.32.21.612544 PL97 letters R E S E T 
+02.32.22.925206 PL97 letters F _ E E 
+02.32.22.987709 PL97 letters F L E E 
+02.32.24.057918 PL97 letters D I S Q _ _ _ _ 
+02.32.25.276603 PL97 letters D I S Q U _ _ _ 
+02.32.25.495305 PL97 letters D I S Q U I _ _ 
+02.32.25.683071 PL97 letters D I S Q U I E _ 
+02.32.25.870591 PL97 letters D I S Q U I E T 
+02.32.27.174566 PL97 letters H _ P P Y 
+02.32.27.284217 PL97 letters H A P P Y 
+02.32.28.159317 PL97 letters A F R _ _ D 
+02.32.28.440585 PL97 letters A F R A _ D 
+02.32.28.580998 PL97 letters A F R A I D 
+02.32.29.619851 PL97 letters C H A _ R 
+02.32.29.744828 PL97 letters C H A I R 
+02.32.31.162290 PL97 letters F R O _ N 
+02.32.31.818568 PL97 letters F R O W N 
+02.32.33.412513 PL97 letters S _ L L Y 
+02.32.33.537526 PL97 letters S I L L Y 
+02.34.13.181689 PL97 login 
+02.34.41.389924 PL97 picturestory b 
+02.34.41.499311 PL97 picturestory b 
+02.34.41.874382 PL97 picturestory b 
+02.34.41.999363 PL97 picturestory b 
+02.34.42.187161 PL97 picturestory b 
+02.34.42.368144 PL97 picturestory b 
+02.34.42.571278 PL97 picturestory b 
+02.34.42.727520 PL97 picturestory b 
+02.34.42.946331 PL97 picturestory b 
+02.34.43.102596 PL97 picturestory b 
+02.34.43.289873 PL97 picturestory b 
+02.34.43.430480 PL97 picturestory b 
+02.34.43.633909 PL97 picturestory b 
+02.34.43.790167 PL97 picturestory b 
+02.34.43.997718 PL97 picturestory b 
+02.34.44.169651 PL97 picturestory b 
+02.34.44.373026 PL97 picturestory b 
+02.34.44.513674 PL97 picturestory b 
+02.34.44.701193 PL97 picturestory b 
+02.34.44.888686 PL97 picturestory b 
+02.34.59.443768 PL97 picturestory e 
+02.34.59.459174 PL97 picturestory e 
+02.34.59.631320 PL97 picturestory e 
+02.34.59.646671 PL97 picturestory e 
+02.34.59.818564 PL97 picturestory e 
+02.34.59.834191 PL97 picturestory e 
+02.34.59.975089 PL97 picturestory e 
+02.34.59.990494 PL97 picturestory e 
+02.35.00.131341 PL97 picturestory e 
+02.35.00.146755 PL97 picturestory e 
+02.35.00.318891 PL97 picturestory e 
+02.35.00.334268 PL97 picturestory e 
+02.35.00.506406 PL97 picturestory e 
+02.35.00.521787 PL97 picturestory e 
+02.35.00.685787 PL97 picturestory e 
+02.35.00.701439 PL97 picturestory e 
+02.35.00.857934 PL97 picturestory e 
+02.35.00.873344 PL97 picturestory e 
+02.35.01.014106 PL97 picturestory e 
+02.35.01.014106 PL97 picturestory e 
+02.35.01.170478 PL97 picturestory e 
+02.35.01.185868 PL97 picturestory e 
+02.35.01.342364 PL97 picturestory e 
+02.35.01.342364 PL97 picturestory e 
+02.35.01.545519 PL97 picturestory e 
+02.35.01.561137 PL97 picturestory e 
+02.35.01.683627 PL97 picturestory e 
+02.35.01.699003 PL97 picturestory e 
+02.35.01.886759 PL97 picturestory e 
+02.35.01.902149 PL97 picturestory e 
+02.35.02.027402 PL97 picturestory e 
+02.35.02.027402 PL97 picturestory e 
+02.35.02.183663 PL97 picturestory e 
+02.35.02.199068 PL97 picturestory e 
+02.35.02.339949 PL97 picturestory e 
+02.35.02.355337 PL97 picturestory e 
+02.35.02.527461 PL97 picturestory e 
+02.35.02.527461 PL97 picturestory e 
+02.35.02.722228 PL97 picturestory e 
+02.35.02.722228 PL97 picturestory e 
+02.35.02.847241 PL97 picturestory e 
+02.35.02.862866 PL97 picturestory e 
+02.35.14.553565 PL97 picturestory k 
+02.35.14.568960 PL97 picturestory k 
+02.35.14.568960 PL97 picturestory k 
+02.35.14.787710 PL97 picturestory k 
+02.35.14.803337 PL97 picturestory k 
+02.35.14.818964 PL97 picturestory k 
+02.35.14.943979 PL97 picturestory k 
+02.35.14.959627 PL97 picturestory k 
+02.35.14.959627 PL97 picturestory k 
+02.35.15.147387 PL97 picturestory k 
+02.35.15.162749 PL97 picturestory k 
+02.35.15.162749 PL97 picturestory k 
+02.35.15.288038 PL97 picturestory k 
+02.35.15.288038 PL97 picturestory k 
+02.35.15.303418 PL97 picturestory k 
+02.35.15.475281 PL97 picturestory k 
+02.35.15.490947 PL97 picturestory k 
+02.35.15.506535 PL97 picturestory k 
+02.35.15.615921 PL97 picturestory k 
+02.35.15.615921 PL97 picturestory k 
+02.35.15.631583 PL97 picturestory k 
+02.35.15.850619 PL97 picturestory k 
+02.35.15.850619 PL97 picturestory k 
+02.35.15.865949 PL97 picturestory k 
+02.35.15.991250 PL97 picturestory k 
+02.35.16.006613 PL97 picturestory k 
+02.35.16.006613 PL97 picturestory k 
+02.35.16.194402 PL97 picturestory k 
+02.35.16.194402 PL97 picturestory k 
+02.35.16.209738 PL97 picturestory k 
+02.35.16.335003 PL97 picturestory k 
+02.35.16.350410 PL97 picturestory k 
+02.35.16.350410 PL97 picturestory k 
+02.35.16.530023 PL97 picturestory k 
+02.35.16.545434 PL97 picturestory k 
+02.35.16.561035 PL97 picturestory k 
+02.35.16.655062 PL97 picturestory k 
+02.35.16.670478 PL97 picturestory k 
+02.35.16.686052 PL97 picturestory k 
+02.35.16.904847 PL97 picturestory k 
+02.35.16.904847 PL97 picturestory k 
+02.35.16.920474 PL97 picturestory k 
+02.35.17.045740 PL97 picturestory k 
+02.35.17.061096 PL97 picturestory k 
+02.35.17.076740 PL97 picturestory k 
+02.35.17.233263 PL97 picturestory k 
+02.35.17.248634 PL97 picturestory k 
+02.35.17.264260 PL97 picturestory k 
+02.35.17.436393 PL97 picturestory k 
+02.35.17.451780 PL97 picturestory k 
+02.35.17.467406 PL97 picturestory k 
+02.35.17.639520 PL97 picturestory k 
+02.35.17.654901 PL97 picturestory k 
+02.35.17.654901 PL97 picturestory k 
+02.35.17.873929 PL97 picturestory k 
+02.35.17.889326 PL97 picturestory k 
+02.35.17.889326 PL97 picturestory k 
+02.35.18.123963 PL97 picturestory k 
+02.35.18.139353 PL97 picturestory k 
+02.35.18.139353 PL97 picturestory k 
+02.35.31.262936 PL97 picturestory t 
+02.35.31.262936 PL97 picturestory t 
+02.35.31.278525 PL97 picturestory t 
+02.35.31.294152 PL97 picturestory t 
+02.35.31.372565 PL97 picturestory t 
+02.35.31.387912 PL97 picturestory t 
+02.35.31.403538 PL97 picturestory t 
+02.35.31.403538 PL97 picturestory t 
+02.35.31.575702 PL97 picturestory t 
+02.35.31.591058 PL97 picturestory t 
+02.35.31.591058 PL97 picturestory t 
+02.35.31.606684 PL97 picturestory t 
+02.35.31.669447 PL97 picturestory t 
+02.35.31.684818 PL97 picturestory t 
+02.35.31.700444 PL97 picturestory t 
+02.35.31.700444 PL97 picturestory t 
+02.35.31.856992 PL97 picturestory t 
+02.35.31.872337 PL97 picturestory t 
+02.35.31.872337 PL97 picturestory t 
+02.35.31.887965 PL97 picturestory t 
+02.35.31.960405 PL97 picturestory t 
+02.35.31.975757 PL97 picturestory t 
+02.35.31.991408 PL97 picturestory t 
+02.35.31.991408 PL97 picturestory t 
+02.35.32.132289 PL97 picturestory t 
+02.35.32.147675 PL97 picturestory t 
+02.35.32.163300 PL97 picturestory t 
+02.35.32.163300 PL97 picturestory t 
+02.35.32.257070 PL97 picturestory t 
+02.35.32.272687 PL97 picturestory t 
+02.35.32.272687 PL97 picturestory t 
+02.35.32.288327 PL97 picturestory t 
+02.35.32.429161 PL97 picturestory t 
+02.35.32.444555 PL97 picturestory t 
+02.35.32.444555 PL97 picturestory t 
+02.35.32.460182 PL97 picturestory t 
+02.35.32.569844 PL97 picturestory t 
+02.35.32.585221 PL97 picturestory t 
+02.35.32.585221 PL97 picturestory t 
+02.35.32.600858 PL97 picturestory t 
+02.35.32.726114 PL97 picturestory t 
+02.35.32.741494 PL97 picturestory t 
+02.35.32.741494 PL97 picturestory t 
+02.35.32.757120 PL97 picturestory t 
+02.35.32.850873 PL97 picturestory t 
+02.35.32.850873 PL97 picturestory t 
+02.35.32.866510 PL97 picturestory t 
+02.35.32.882140 PL97 picturestory t 
+02.35.33.038414 PL97 picturestory t 
+02.35.33.054035 PL97 picturestory t 
+02.35.33.054035 PL97 picturestory t 
+02.35.33.069656 PL97 picturestory t 
+02.35.33.163639 PL97 picturestory t 
+02.35.33.179046 PL97 picturestory t 
+02.35.33.194634 PL97 picturestory t 
+02.35.33.194634 PL97 picturestory t 
+02.35.33.319649 PL97 picturestory t 
+02.35.33.319649 PL97 picturestory t 
+02.35.33.335300 PL97 picturestory t 
+02.35.33.335300 PL97 picturestory t 
+02.35.33.491819 PL97 picturestory t 
+02.35.33.507193 PL97 picturestory t 
+02.35.33.522794 PL97 picturestory t 
+02.35.33.522794 PL97 picturestory t 
+02.35.33.663661 PL97 picturestory t 
+02.35.33.663661 PL97 picturestory t 
+02.35.33.679094 PL97 picturestory t 
+02.35.33.694721 PL97 picturestory t 
+02.35.33.835339 PL97 picturestory t 
+02.35.33.835339 PL97 picturestory t 
+02.35.33.850989 PL97 picturestory t 
+02.35.33.866617 PL97 picturestory t 
+02.35.33.991868 PL97 picturestory t 
+02.35.34.007247 PL97 picturestory t 
+02.35.34.022872 PL97 picturestory t 
+02.35.34.022872 PL97 picturestory t 
+02.35.34.194741 PL97 picturestory t 
+02.35.34.210368 PL97 picturestory t 
+02.35.34.210368 PL97 picturestory t 
+02.35.34.225995 PL97 picturestory t 
+02.35.49.998746 PL97 sudoku done 
+02.36.12.981358 PL97 brainteaser Solve the following puzzles. 
+02.36.14.190877 PL97 brainteaser  
+02.36.24.468907 PL97 brainteaser  
+02.36.26.455868 PL97 brainteaser  
+02.36.28.730262 PL97 brainteaser  
+02.36.30.915090 PL97 brainteaser  
+02.36.33.548250 PL97 brainteaser  
+02.36.36.228268 PL97 brainteaser  
+02.36.43.334239 PL97 crossword done 

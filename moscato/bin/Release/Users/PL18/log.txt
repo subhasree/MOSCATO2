@@ -1,0 +1,607 @@
+10.35.02.338791 PL18 login 
+10.35.13.568032 PL18 words 2 
+10.35.13.783904 PL18 words 2 
+10.35.14.049586 PL18 words 2 
+10.35.14.237087 PL18 words 2 
+10.35.14.393324 PL18 words 2 
+10.35.14.924661 PL18 words 2 
+10.35.14.971545 PL18 words 2 
+10.35.15.002784 PL18 words 2 
+10.35.15.034038 PL18 words 2 
+10.35.15.080922 PL18 words 2 
+10.35.15.112191 PL18 words 2 
+10.35.15.143181 PL18 words 2 
+10.35.15.190560 PL18 words 2 
+10.35.15.221827 PL18 words 2 
+10.35.15.268695 PL18 words 2 
+10.35.15.299929 PL18 words 2 
+10.35.15.331029 PL18 words 2 
+10.35.15.378160 PL18 words 2 
+10.35.15.409409 PL18 words 2 
+10.35.15.440420 PL18 words 2 
+10.35.15.487542 PL18 words 2 
+10.35.15.518797 PL18 words 2 
+10.35.15.565692 PL18 words 2 
+10.35.15.596841 PL18 words 2 
+10.35.15.628188 PL18 words 2 
+10.35.15.675398 PL18 words 2 
+10.35.15.706636 PL18 words 2 
+10.35.15.737668 PL18 words 2 
+10.35.15.784780 PL18 words 2 
+10.35.15.816032 PL18 words 2 
+10.35.15.862681 PL18 words 2 
+10.35.15.894167 PL18 words 2 
+10.35.15.925424 PL18 words 2 
+10.35.15.972299 PL18 words 2 
+10.35.16.003534 PL18 words 2 
+10.35.16.050438 PL18 words 2 
+10.35.16.081686 PL18 words 2 
+10.35.16.112723 PL18 words 2 
+10.35.16.159820 PL18 words 2 
+10.35.16.191083 PL18 words 2 
+10.35.16.222325 PL18 words 2 
+10.35.16.269207 PL18 words 2 
+10.35.16.300460 PL18 words 2 
+10.35.16.347338 PL18 words 2 
+10.35.16.378604 PL18 words 2 
+10.35.16.409846 PL18 words 2 
+10.35.16.456725 PL18 words 2 
+10.35.16.487981 PL18 words 2 
+10.35.16.518986 PL18 words 2 
+10.35.16.566113 PL18 words 2 
+10.35.16.597255 PL18 words 2 
+10.35.16.644256 PL18 words 2 
+10.35.16.675747 PL18 words 2 
+10.35.16.707007 PL18 words 2 
+10.35.16.753879 PL18 words 2 
+10.35.16.785138 PL18 words 2 
+10.35.16.832013 PL18 words 2 
+10.35.16.863189 PL18 words 2 
+10.35.16.894520 PL18 words 2 
+10.35.16.941400 PL18 words 2 
+10.35.16.972663 PL18 words 2 
+10.35.17.003906 PL18 words 2 
+10.35.17.050802 PL18 words 2 
+10.35.17.082057 PL18 words 2 
+10.35.17.128811 PL18 words 2 
+10.35.17.160505 PL18 words 2 
+10.35.17.191752 PL18 words 2 
+10.35.17.238629 PL18 words 2 
+10.35.17.269874 PL18 words 2 
+10.35.17.301149 PL18 words 2 
+10.35.17.348021 PL18 words 2 
+10.35.17.379030 PL18 words 2 
+10.35.17.426141 PL18 words 2 
+10.35.17.457477 PL18 words 2 
+10.35.17.488979 PL18 words 2 
+10.35.17.535861 PL18 words 2 
+10.35.17.567113 PL18 words 2 
+10.35.17.598384 PL18 words 2 
+10.35.17.645276 PL18 words 2 
+10.35.17.676514 PL18 words 2 
+10.35.17.723380 PL18 words 2 
+10.35.17.754635 PL18 words 2 
+10.35.17.785890 PL18 words 2 
+10.35.17.832777 PL18 words 2 
+10.35.17.863821 PL18 words 2 
+10.35.17.895033 PL18 words 2 
+10.35.17.942152 PL18 words 2 
+10.35.17.973406 PL18 words 2 
+10.35.18.020295 PL18 words 2 
+10.35.18.051540 PL18 words 2 
+10.35.18.082791 PL18 words 2 
+10.35.18.129683 PL18 words 2 
+10.35.18.160928 PL18 words 2 
+10.35.18.207803 PL18 words 2 
+10.35.18.239060 PL18 words 2 
+10.35.18.270314 PL18 words 2 
+10.35.18.317192 PL18 words 2 
+10.35.18.348414 PL18 words 2 
+10.35.18.379612 PL18 words 2 
+10.35.18.426580 PL18 words 2 
+10.35.18.457833 PL18 words 2 
+10.35.18.504714 PL18 words 2 
+10.35.18.535966 PL18 words 2 
+10.35.18.567239 PL18 words 2 
+10.35.18.614106 PL18 words 2 
+10.35.18.645294 PL18 words 2 
+10.35.18.676361 PL18 words 2 
+10.35.18.723495 PL18 words 2 
+10.35.18.754735 PL18 words 2 
+10.35.18.801626 PL18 words 2 
+10.35.18.832874 PL18 words 2 
+10.35.18.864093 PL18 words 2 
+10.35.18.911004 PL18 words 2 
+10.35.18.942258 PL18 words 2 
+10.35.18.989137 PL18 words 2 
+10.35.19.020403 PL18 words 2 
+10.35.19.051644 PL18 words 2 
+10.35.19.098537 PL18 words 2 
+10.35.19.129536 PL18 words 2 
+10.35.19.161050 PL18 words 2 
+10.35.19.207915 PL18 words 2 
+10.35.19.239167 PL18 words 2 
+10.35.19.286047 PL18 words 2 
+10.35.19.317299 PL18 words 2 
+10.35.19.348569 PL18 words 2 
+10.35.19.395229 PL18 words 2 
+10.35.19.426688 PL18 words 2 
+10.35.19.457704 PL18 words 2 
+10.35.19.504821 PL18 words 2 
+10.35.19.536082 PL18 words 2 
+10.35.19.582952 PL18 words 2 
+10.35.19.614218 PL18 words 2 
+10.35.19.645258 PL18 words 2 
+10.35.19.692339 PL18 words 2 
+10.35.19.723610 PL18 words 2 
+10.35.19.754613 PL18 words 2 
+10.35.19.801734 PL18 words 2 
+10.35.19.832995 PL18 words 2 
+10.35.19.879807 PL18 words 2 
+10.35.19.911115 PL18 words 2 
+10.35.19.942373 PL18 words 2 
+10.35.19.989248 PL18 words 2 
+10.35.20.020502 PL18 words 2 
+10.35.20.067700 PL18 words 2 
+10.35.20.099274 PL18 words 2 
+10.35.20.130283 PL18 words 2 
+10.35.20.177512 PL18 words 2 
+10.35.20.208772 PL18 words 2 
+10.35.20.240016 PL18 words 2 
+10.35.20.286895 PL18 words 2 
+10.35.20.318158 PL18 words 2 
+10.35.20.365028 PL18 words 2 
+10.35.20.396202 PL18 words 2 
+10.35.20.427537 PL18 words 2 
+10.35.20.474418 PL18 words 2 
+10.35.20.505669 PL18 words 2 
+10.35.20.536922 PL18 words 2 
+10.35.20.583803 PL18 words 2 
+10.35.20.615088 PL18 words 2 
+10.35.20.661693 PL18 words 2 
+10.35.20.693189 PL18 words 2 
+10.35.20.724442 PL18 words 2 
+10.35.20.771323 PL18 words 2 
+10.35.20.802589 PL18 words 2 
+10.35.20.833585 PL18 words 2 
+10.35.20.880714 PL18 words 2 
+10.35.20.911738 PL18 words 2 
+10.35.20.958844 PL18 words 2 
+10.35.20.990097 PL18 words 2 
+10.35.21.021351 PL18 words 2 
+10.35.21.068251 PL18 words 2 
+10.35.21.099501 PL18 words 2 
+10.35.21.146379 PL18 words 2 
+10.35.21.177652 PL18 words 2 
+10.35.21.208892 PL18 words 2 
+10.35.21.255771 PL18 words 2 
+10.35.21.287002 PL18 words 2 
+10.35.21.318258 PL18 words 2 
+10.35.21.365138 PL18 words 2 
+10.35.21.396305 PL18 words 2 
+10.35.21.443275 PL18 words 2 
+10.35.21.474523 PL18 words 2 
+10.35.21.505783 PL18 words 2 
+10.35.21.552650 PL18 words 2 
+10.35.21.583911 PL18 words 2 
+10.35.21.615155 PL18 words 2 
+10.35.21.661818 PL18 words 2 
+10.35.21.693296 PL18 words 2 
+10.35.21.740177 PL18 words 2 
+10.35.21.771430 PL18 words 2 
+10.35.21.802684 PL18 words 2 
+10.35.21.849917 PL18 words 2 
+10.35.21.881152 PL18 words 2 
+10.35.21.912160 PL18 words 2 
+10.35.21.959286 PL18 words 2 
+10.35.21.990539 PL18 words 2 
+10.35.22.037419 PL18 words 2 
+10.35.22.068667 PL18 words 2 
+10.35.22.099939 PL18 words 2 
+10.35.22.146562 PL18 words 2 
+10.35.22.178044 PL18 words 2 
+10.35.22.224940 PL18 words 2 
+10.35.22.256188 PL18 words 2 
+10.35.22.287687 PL18 words 2 
+10.35.22.334572 PL18 words 2 
+10.35.22.365830 PL18 words 2 
+10.35.22.396833 PL18 words 2 
+10.35.22.443958 PL18 words 2 
+10.35.22.475212 PL18 words 2 
+10.35.22.522092 PL18 words 2 
+10.35.22.553346 PL18 words 2 
+10.35.22.584599 PL18 words 2 
+10.35.22.631481 PL18 words 2 
+10.35.22.662648 PL18 words 2 
+10.35.22.693999 PL18 words 2 
+10.35.22.740621 PL18 words 2 
+10.35.22.772119 PL18 words 2 
+10.35.22.818999 PL18 words 2 
+10.35.22.850252 PL18 words 2 
+10.35.22.881509 PL18 words 2 
+10.35.22.928169 PL18 words 2 
+10.35.22.959641 PL18 words 2 
+10.35.22.990658 PL18 words 2 
+10.35.23.037783 PL18 words 2 
+10.35.23.069035 PL18 words 2 
+10.35.23.115906 PL18 words 2 
+10.35.23.147171 PL18 words 2 
+10.35.23.178167 PL18 words 2 
+10.35.23.225293 PL18 words 2 
+10.35.23.256546 PL18 words 2 
+10.35.23.303426 PL18 words 2 
+10.35.23.334690 PL18 words 2 
+10.35.23.365915 PL18 words 2 
+10.35.23.412726 PL18 words 2 
+10.35.23.444071 PL18 words 2 
+10.35.23.475325 PL18 words 2 
+10.35.23.522211 PL18 words 2 
+10.35.23.553464 PL18 words 2 
+10.35.23.600309 PL18 words 2 
+10.35.23.631595 PL18 words 2 
+10.35.23.662753 PL18 words 2 
+10.35.23.709720 PL18 words 2 
+10.35.23.740983 PL18 words 2 
+10.35.23.771990 PL18 words 2 
+10.35.23.819106 PL18 words 2 
+10.35.23.850343 PL18 words 2 
+10.35.23.897241 PL18 words 2 
+10.35.23.928642 PL18 words 2 
+10.35.23.960141 PL18 words 2 
+10.35.24.007021 PL18 words 2 
+10.35.24.038275 PL18 words 2 
+10.35.24.069286 PL18 words 2 
+10.35.24.116403 PL18 words 2 
+10.35.24.147441 PL18 words 2 
+10.35.24.194557 PL18 words 2 
+10.35.24.225795 PL18 words 2 
+10.35.24.257032 PL18 words 2 
+10.35.24.303928 PL18 words 2 
+10.35.24.335192 PL18 words 2 
+10.35.24.382061 PL18 words 2 
+10.35.24.413070 PL18 words 2 
+10.35.24.444538 PL18 words 2 
+10.35.24.491682 PL18 words 2 
+10.35.24.522931 PL18 words 2 
+10.35.24.554184 PL18 words 2 
+10.35.24.601063 PL18 words 2 
+10.35.24.632316 PL18 words 2 
+10.35.24.679113 PL18 words 2 
+10.35.24.710452 PL18 words 2 
+10.35.24.741704 PL18 words 2 
+10.35.24.788583 PL18 words 2 
+10.35.24.819836 PL18 words 2 
+10.35.24.851107 PL18 words 2 
+10.35.24.897970 PL18 words 2 
+10.35.24.929140 PL18 words 2 
+10.35.24.976103 PL18 words 2 
+10.35.25.007111 PL18 words 2 
+10.35.25.038618 PL18 words 2 
+10.35.25.085505 PL18 words 2 
+10.35.25.116749 PL18 words 2 
+10.35.25.147761 PL18 words 2 
+10.35.25.194632 PL18 words 2 
+10.35.25.226130 PL18 words 2 
+10.35.25.273011 PL18 words 2 
+10.35.25.304585 PL18 words 2 
+10.35.25.335834 PL18 words 2 
+10.35.25.382708 PL18 words 2 
+10.35.25.413968 PL18 words 2 
+10.35.25.444995 PL18 words 2 
+10.35.25.492100 PL18 words 2 
+10.35.25.523354 PL18 words 2 
+10.35.25.570235 PL18 words 2 
+10.35.25.601489 PL18 words 2 
+10.35.25.632758 PL18 words 2 
+10.35.25.679382 PL18 words 2 
+10.35.25.710901 PL18 words 2 
+10.35.25.757760 PL18 words 2 
+10.35.25.789007 PL18 words 2 
+10.35.25.820270 PL18 words 2 
+10.35.25.867145 PL18 words 2 
+10.35.25.898396 PL18 words 2 
+10.35.25.929576 PL18 words 2 
+10.35.25.976527 PL18 words 2 
+10.35.26.007782 PL18 words 2 
+10.35.26.054665 PL18 words 2 
+10.35.26.085898 PL18 words 2 
+10.35.26.117172 PL18 words 2 
+10.35.26.164063 PL18 words 2 
+10.35.26.195210 PL18 words 2 
+10.35.26.226315 PL18 words 2 
+10.35.26.273435 PL18 words 2 
+10.35.26.304692 PL18 words 2 
+10.35.26.351569 PL18 words 2 
+10.35.26.382842 PL18 words 2 
+10.35.26.414348 PL18 words 2 
+10.35.26.461035 PL18 words 2 
+10.35.26.492469 PL18 words 2 
+10.35.26.539350 PL18 words 2 
+10.35.26.570609 PL18 words 2 
+10.35.26.601861 PL18 words 2 
+10.35.26.648743 PL18 words 2 
+10.35.26.680002 PL18 words 2 
+10.35.26.711010 PL18 words 2 
+10.35.26.758124 PL18 words 2 
+10.35.26.789373 PL18 words 2 
+10.35.26.836262 PL18 words 2 
+10.35.26.867511 PL18 words 2 
+10.35.26.898768 PL18 words 2 
+10.35.26.945567 PL18 words 2 
+10.35.26.976897 PL18 words 2 
+10.35.27.007909 PL18 words 2 
+10.35.27.055030 PL18 words 2 
+10.35.27.086281 PL18 words 2 
+10.35.27.133161 PL18 words 2 
+10.35.27.164416 PL18 words 2 
+10.35.27.195600 PL18 words 2 
+10.35.51.394907 PL18 picturestory n 
+10.35.51.613683 PL18 picturestory n 
+10.35.51.723059 PL18 picturestory n 
+10.35.51.957643 PL18 picturestory n 
+10.35.52.067283 PL18 picturestory n 
+10.35.52.317312 PL18 picturestory n 
+10.35.52.427021 PL18 picturestory n 
+10.35.52.692666 PL18 picturestory n 
+10.35.52.802062 PL18 picturestory n 
+10.35.53.036208 PL18 picturestory n 
+10.35.53.161474 PL18 picturestory n 
+10.35.53.395884 PL18 picturestory n 
+10.35.53.520887 PL18 picturestory n 
+10.35.53.755291 PL18 picturestory n 
+10.35.53.864666 PL18 picturestory n 
+10.35.54.115403 PL18 picturestory n 
+10.35.54.240142 PL18 picturestory n 
+10.35.54.474793 PL18 picturestory n 
+10.35.54.677945 PL18 picturestory n 
+10.35.54.912344 PL18 picturestory n 
+10.36.09.743971 PL18 picturestory h 
+10.36.09.743971 PL18 picturestory h 
+10.36.10.008394 PL18 picturestory h 
+10.36.10.012404 PL18 picturestory h 
+10.36.10.259503 PL18 picturestory h 
+10.36.10.274933 PL18 picturestory h 
+10.36.10.428409 PL18 picturestory h 
+10.36.10.443769 PL18 picturestory h 
+10.36.10.629416 PL18 picturestory h 
+10.36.10.629416 PL18 picturestory h 
+10.36.10.845560 PL18 picturestory h 
+10.36.10.860955 PL18 picturestory h 
+10.36.11.030041 PL18 picturestory h 
+10.36.11.045422 PL18 picturestory h 
+10.36.11.245875 PL18 picturestory h 
+10.36.11.261252 PL18 picturestory h 
+10.36.11.493161 PL18 picturestory h 
+10.36.11.493161 PL18 picturestory h 
+10.36.11.714391 PL18 picturestory h 
+10.36.11.715418 PL18 picturestory h 
+10.36.11.915809 PL18 picturestory h 
+10.36.11.931585 PL18 picturestory h 
+10.36.12.116527 PL18 picturestory h 
+10.36.12.132258 PL18 picturestory h 
+10.36.12.395374 PL18 picturestory h 
+10.36.12.417308 PL18 picturestory h 
+10.36.12.595937 PL18 picturestory h 
+10.36.12.595937 PL18 picturestory h 
+10.36.12.895079 PL18 picturestory h 
+10.36.12.915981 PL18 picturestory h 
+10.36.13.075044 PL18 picturestory h 
+10.36.13.075044 PL18 picturestory h 
+10.36.13.418831 PL18 picturestory h 
+10.36.13.434242 PL18 picturestory h 
+10.36.13.606352 PL18 picturestory h 
+10.36.13.606352 PL18 picturestory h 
+10.36.13.887620 PL18 picturestory h 
+10.36.13.903044 PL18 picturestory h 
+10.36.14.075494 PL18 picturestory h 
+10.36.14.075494 PL18 picturestory h 
+10.36.54.830965 PL18 picturestory b 
+10.36.54.846356 PL18 picturestory b 
+10.36.54.861985 PL18 picturestory b 
+10.36.55.034123 PL18 picturestory b 
+10.36.55.049791 PL18 picturestory b 
+10.36.55.049791 PL18 picturestory b 
+10.36.55.284465 PL18 picturestory b 
+10.36.55.284465 PL18 picturestory b 
+10.36.55.299846 PL18 picturestory b 
+10.36.55.409489 PL18 picturestory b 
+10.36.55.409489 PL18 picturestory b 
+10.36.55.424858 PL18 picturestory b 
+10.36.55.768892 PL18 picturestory b 
+10.36.55.784287 PL18 picturestory b 
+10.36.55.784287 PL18 picturestory b 
+10.36.55.987666 PL18 picturestory  
+10.36.56.003064 PL18 picturestory  
+10.36.56.003064 PL18 picturestory  
+10.36.56.159353 PL18 picturestory  
+10.36.56.159353 PL18 picturestory  
+10.36.56.174951 PL18 picturestory  
+10.36.56.347060 PL18 picturestory b 
+10.36.56.347060 PL18 picturestory b 
+10.36.56.362488 PL18 picturestory b 
+10.36.56.487697 PL18 picturestory b 
+10.36.56.487697 PL18 picturestory b 
+10.36.56.503113 PL18 picturestory b 
+10.36.56.706474 PL18 picturestory b 
+10.36.56.706474 PL18 picturestory b 
+10.36.56.721872 PL18 picturestory b 
+10.36.56.831486 PL18 picturestory b 
+10.36.56.846861 PL18 picturestory b 
+10.36.56.846861 PL18 picturestory b 
+10.36.57.034637 PL18 picturestory b 
+10.36.57.050203 PL18 picturestory b 
+10.36.57.050203 PL18 picturestory b 
+10.36.57.128594 PL18 picturestory b 
+10.36.57.143966 PL18 picturestory b 
+10.36.57.143966 PL18 picturestory b 
+10.36.57.316113 PL18 picturestory b 
+10.36.57.331487 PL18 picturestory b 
+10.36.57.331487 PL18 picturestory b 
+10.36.57.441116 PL18 picturestory b 
+10.36.57.441116 PL18 picturestory b 
+10.36.57.456500 PL18 picturestory b 
+10.36.57.613021 PL18 picturestory b 
+10.36.57.628429 PL18 picturestory b 
+10.36.57.628429 PL18 picturestory b 
+10.36.57.738024 PL18 picturestory b 
+10.36.57.753406 PL18 picturestory b 
+10.36.57.753406 PL18 picturestory b 
+10.36.57.925547 PL18 picturestory b 
+10.36.57.940963 PL18 picturestory b 
+10.36.57.940963 PL18 picturestory b 
+10.36.58.019315 PL18 picturestory b 
+10.36.58.019315 PL18 picturestory b 
+10.36.58.034727 PL18 picturestory b 
+10.36.58.222461 PL18 picturestory b 
+10.36.58.237862 PL18 picturestory b 
+10.36.58.237862 PL18 picturestory b 
+10.36.58.362876 PL18 picturestory b 
+10.36.58.362876 PL18 picturestory b 
+10.36.58.378510 PL18 picturestory b 
+10.37.16.504545 PL18 picturestory v 
+10.37.16.504545 PL18 picturestory v 
+10.37.16.519898 PL18 picturestory v 
+10.37.16.535565 PL18 picturestory v 
+10.37.16.770197 PL18 picturestory v 
+10.37.16.785591 PL18 picturestory v 
+10.37.16.785591 PL18 picturestory v 
+10.37.16.801218 PL18 picturestory v 
+10.37.16.957465 PL18 picturestory v 
+10.37.16.973105 PL18 picturestory v 
+10.37.16.973105 PL18 picturestory v 
+10.37.16.988736 PL18 picturestory v 
+10.37.17.098338 PL18 picturestory v 
+10.37.17.098338 PL18 picturestory v 
+10.37.17.113737 PL18 picturestory v 
+10.37.17.113737 PL18 picturestory v 
+10.37.17.285858 PL18 picturestory v 
+10.37.17.301269 PL18 picturestory v 
+10.37.17.301269 PL18 picturestory v 
+10.37.17.316896 PL18 picturestory v 
+10.37.17.410619 PL18 picturestory v 
+10.37.17.410619 PL18 picturestory v 
+10.37.17.426283 PL18 picturestory v 
+10.37.17.426283 PL18 picturestory v 
+10.37.17.598392 PL18 picturestory v 
+10.37.17.598392 PL18 picturestory v 
+10.37.17.613772 PL18 picturestory v 
+10.37.17.613772 PL18 picturestory v 
+10.37.17.692157 PL18 picturestory v 
+10.37.17.692157 PL18 picturestory v 
+10.37.17.707563 PL18 picturestory v 
+10.37.17.707563 PL18 picturestory v 
+10.37.17.879419 PL18 picturestory v 
+10.37.17.879419 PL18 picturestory v 
+10.37.17.895046 PL18 picturestory v 
+10.37.17.895046 PL18 picturestory v 
+10.37.18.004676 PL18 picturestory v 
+10.37.18.004676 PL18 picturestory v 
+10.37.18.020097 PL18 picturestory v 
+10.37.18.020097 PL18 picturestory v 
+10.37.18.223458 PL18 picturestory v 
+10.37.18.223458 PL18 picturestory v 
+10.37.18.238833 PL18 picturestory v 
+10.37.18.238833 PL18 picturestory v 
+10.37.18.270343 PL18 picturestory v 
+10.37.18.285753 PL18 picturestory v 
+10.37.18.285753 PL18 picturestory v 
+10.37.18.301377 PL18 picturestory v 
+10.37.18.473487 PL18 picturestory v 
+10.37.18.488860 PL18 picturestory v 
+10.37.18.488860 PL18 picturestory v 
+10.37.18.504523 PL18 picturestory v 
+10.37.18.598498 PL18 picturestory v 
+10.37.18.613873 PL18 picturestory v 
+10.37.18.613873 PL18 picturestory v 
+10.37.18.629537 PL18 picturestory v 
+10.37.18.801642 PL18 picturestory v 
+10.37.18.801642 PL18 picturestory v 
+10.37.18.817025 PL18 picturestory v 
+10.37.18.817025 PL18 picturestory v 
+10.37.18.910818 PL18 picturestory v 
+10.37.18.910818 PL18 picturestory v 
+10.37.18.926450 PL18 picturestory v 
+10.37.18.926450 PL18 picturestory v 
+10.37.19.114177 PL18 picturestory v 
+10.37.19.114177 PL18 picturestory v 
+10.37.19.129554 PL18 picturestory v 
+10.37.19.129554 PL18 picturestory v 
+10.37.19.270446 PL18 picturestory v 
+10.37.19.270446 PL18 picturestory v 
+10.37.19.285858 PL18 picturestory v 
+10.37.19.285858 PL18 picturestory v 
+10.37.19.457714 PL18 picturestory v 
+10.37.19.457714 PL18 picturestory v 
+10.37.19.473378 PL18 picturestory v 
+10.37.19.473378 PL18 picturestory v 
+10.37.19.567352 PL18 picturestory v 
+10.37.19.582765 PL18 picturestory v 
+10.37.19.582765 PL18 picturestory v 
+10.37.19.598392 PL18 picturestory v 
+10.37.19.754862 PL18 picturestory v 
+10.37.19.754862 PL18 picturestory v 
+10.37.19.770285 PL18 picturestory v 
+10.37.19.770285 PL18 picturestory v 
+10.37.33.150428 PL18 letters F E E _ 
+10.37.33.290813 PL18 letters F E E L 
+10.37.35.213894 PL18 letters P R O F _ _ 
+10.37.35.338962 PL18 letters P R O F I _ 
+10.37.35.510823 PL18 letters P R O F I T 
+10.37.36.605005 PL18 letters G U I L T 
+10.37.38.433326 PL18 letters G _ A D 
+10.37.38.542442 PL18 letters G L A D 
+10.37.40.058929 PL18 letters F _ _ T I L E 
+10.37.40.262070 PL18 letters F E _ T I L E 
+10.37.40.449591 PL18 letters F E R T I L E 
+10.37.41.789253 PL18 letters M E R _ Y 
+10.37.42.258050 PL18 letters M E R R Y 
+10.37.44.179111 PL18 letters G _ A R _ D 
+10.37.44.366611 PL18 letters G L A R _ D 
+10.37.45.085212 PL18 letters G L A R E D 
+10.37.46.382885 PL18 letters S M A _ _ 
+10.37.46.523507 PL18 letters S M A L _ 
+10.37.46.695403 PL18 letters S M A L L 
+10.37.48.583184 PL18 letters F _ _ _ O U S 
+10.37.48.770550 PL18 letters F U _ _ O U S 
+10.37.48.942729 PL18 letters F U R _ O U S 
+10.37.49.130146 PL18 letters F U R I O U S 
+10.37.50.599359 PL18 letters E X H _ _ _ 
+10.37.50.739999 PL18 letters E X H A _ _ 
+10.37.50.896820 PL18 letters E X H A L _ 
+10.37.50.959190 PL18 letters E X H A L E 
+10.37.52.163009 PL18 letters S _ N S E 
+10.37.52.350541 PL18 letters S E N S E 
+10.37.53.788472 PL18 letters J O Y 
+10.37.54.866768 PL18 letters R _ S E T 
+10.37.55.054293 PL18 letters R E S E T 
+10.37.56.538991 PL18 letters F _ E E 
+10.37.56.664258 PL18 letters F L E E 
+10.37.58.179805 PL18 letters D I S Q _ _ _ _ 
+10.37.58.445700 PL18 letters D I S Q U _ _ _ 
+10.37.58.648846 PL18 letters D I S Q U I _ _ 
+10.37.59.180525 PL18 letters D I S Q U I E _ 
+10.37.59.399294 PL18 letters D I S Q U I E T 
+10.38.04.321236 PL18 letters P _ P P Y 
+10.38.04.493129 PL18 letters P O P P Y 
+10.38.05.821416 PL18 letters A F R _ _ D 
+10.38.06.071442 PL18 letters A F R A _ D 
+10.38.06.165201 PL18 letters A F R A I D 
+10.38.07.337655 PL18 letters C H A _ R 
+10.38.07.462527 PL18 letters C H A I R 
+10.38.09.384736 PL18 letters G R O _ N 
+10.38.10.150786 PL18 letters G R O W N 
+10.38.13.120015 PL18 letters S _ L L Y 
+10.38.13.276282 PL18 letters S I L L Y 
+10.38.19.943614 PL18 brainteaser Solve the following puzzles. 
+10.38.21.303135 PL18 brainteaser  
+10.38.23.725958 PL18 brainteaser  
+10.38.24.617041 PL18 brainteaser  
+10.38.26.883675 PL18 brainteaser  
+10.38.29.243324 PL18 brainteaser  
+10.38.30.009030 PL18 brainteaser  
+10.38.30.650180 PL18 brainteaser  
+10.38.31.290600 PL18 brainteaser  
+10.38.32.009697 PL18 brainteaser  
+10.38.36.136512 PL18 crossword done 
+10.38.58.333487 PL18 sudoku done 
+12.23.46.635212 PL18 login 
